@@ -1,0 +1,2392 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<spells>
+  <spelldata>
+    <key>2560</key>
+    <name>Minor Mana Conversion Prowess</name>
+    <icon>100668290</icon>
+  </spelldata>
+  <spelldata>
+    <key>2098</key>
+    <name>Bludgeon Bane 7</name>
+    <icon>100668291</icon>
+  </spelldata>
+  <spelldata>
+    <key>2271</key>
+    <name>Lockpick 7</name>
+    <icon>100668351</icon>
+  </spelldata>
+  <spelldata>
+    <key>2568</key>
+    <name>Minor Unarmed Aptitude</name>
+    <icon>100668288</icon>
+  </spelldata>
+  <spelldata>
+    <key>1627</key>
+    <name>Swift Killer 6</name>
+    <icon>100668351</icon>
+  </spelldata>
+  <spelldata>
+    <key>2627</key>
+    <name>Minor Mana Gain</name>
+    <icon>100670698</icon>
+  </spelldata>
+  <spelldata>
+    <key>4614</key>
+    <name>Incantation of Spear Mastery Self</name>
+    <icon>100668297</icon>
+  </spelldata>
+  <spelldata>
+    <key>2556</key>
+    <name>Minor Lockpick Prowess</name>
+    <icon>100669652</icon>
+  </spelldata>
+  <spelldata>
+    <key>1312</key>
+    <name>Armor 6</name>
+    <icon>100668273</icon>
+  </spelldata>
+  <spelldata>
+    <key>2325</key>
+    <name>Weapon Tinkering 7</name>
+    <icon>100668345</icon>
+  </spelldata>
+  <spelldata>
+    <key>4325</key>
+    <name>Incantation of Strength Self</name>
+    <icon>100668300</icon>
+  </spelldata>
+  <spelldata>
+    <key>1023</key>
+    <name>Bludgeoning Protection 6</name>
+    <icon>100668345</icon>
+  </spelldata>
+  <spelldata>
+    <key>2609</key>
+    <name>Major Acid Ward</name>
+    <icon>100668298</icon>
+  </spelldata>
+  <spelldata>
+    <key>496</key>
+    <name>Crossbow 6</name>
+    <icon>100668344</icon>
+  </spelldata>
+  <spelldata>
+    <key>2518</key>
+    <name>Major Jumping Prowess</name>
+    <icon>100668272</icon>
+  </spelldata>
+  <spelldata>
+    <key>2067</key>
+    <name>Focus 7</name>
+    <icon>100668333</icon>
+  </spelldata>
+  <spelldata>
+    <key>4592</key>
+    <name>Incantation of Magic Item Tinkering Expertise Self</name>
+    <icon>100668354</icon>
+  </spelldata>
+  <spelldata>
+    <key>4676</key>
+    <name>Epic Frost Ward</name>
+    <icon>100668292</icon>
+  </spelldata>
+  <spelldata>
+    <key>2511</key>
+    <name>Major Fealty</name>
+    <icon>100668296</icon>
+  </spelldata>
+  <spelldata>
+    <key>1402</key>
+    <name>Quickness 6</name>
+    <icon>100668277</icon>
+  </spelldata>
+  <spelldata>
+    <key>2583</key>
+    <name>Minor Strength</name>
+    <icon>100668294</icon>
+  </spelldata>
+  <spelldata>
+   <key>2575</key>
+    <name>Major Quickness</name>
+    <icon>100672860</icon>
+  </spelldata>
+  <spelldata>
+   <key>4704</key>
+    <name>Epic Magic Resistance</name>
+    <icon>100668330</icon>
+  </spelldata>
+  <spelldata>
+   <key>2092</key>
+    <name>Acid Bane 7</name>
+    <icon>100668348</icon>
+  </spelldata>
+  <spelldata>
+  <key>2600</key>
+    <name>Minor Defender</name>
+    <icon>100670704</icon>
+  </spelldata>
+  <spelldata>
+   <key>4560</key>
+    <name>Incantation of Invulnerability Self</name>
+    <icon>100668331</icon>
+  </spelldata>
+  <spelldata>
+   <key>2585</key>
+    <name>Major Acid Bane</name>
+    <icon>100668268</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2113</key>
+    <name>Piercing Bane 7</name>
+    <icon>100668299</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2157</key>
+    <name>Fire Protection 7</name>
+    <icon>100668286</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2590</key>
+    <name>Major Frost Bane</name>
+    <icon>100668300</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>3833</key>
+    <name>Minor Salvaging Aptitude</name>
+    <icon>100670703</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>4590</key>
+    <name>Incantation of Mace Mastery Self</name>
+    <icon>100668287</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>4464</key>
+    <name>Incantation of Bludgeoning Protection Self</name>
+    <icon>100668345</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2598</key>
+    <name>Minor Blood Thirst</name>
+    <icon>100668290</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>610</key>
+    <name>Life Magic 6</name>
+    <icon>100668272</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>4687</key>
+    <name>Epic Bow Aptitude</name>
+    <icon>100668266</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2505</key>
+    <name>Major Bow Aptitude</name>
+    <icon>100668293</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>3505</key>
+    <name>Salvaging 7</name>
+    <icon>100668290</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2203</key>
+    <name>Axe 7</name>
+    <icon>100668354</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>399</key>
+    <name>Staff 6</name>
+    <icon>100668302</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2510</key>
+    <name>Major Deception Prowess</name>
+    <icon>100668300</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>4510</key>
+    <name>Incantation of Arcane Enlightenment Self</name>
+    <icon>100668285</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2536</key>
+    <name>Minor Alchemical Prowess</name>
+    <icon>100668344</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2081</key>
+    <name>Quickness 7</name>
+    <icon>100668292</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2566</key>
+    <name>Minor Sword Aptitude</name>
+    <icon>100668288</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2582</key>
+    <name>Minor Quickness</name>
+    <icon>100668277</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2104</key>
+    <name>Frost Bane 7</name>
+    <icon>100668299</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>4401</key>
+    <name>Incantation of Flame Bane</name>
+    <icon>100673970</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>4518</key>
+    <name>Incantation of Axe Mastery Self</name>
+    <icon>100668265</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2567</key>
+    <name>Minor Thrown Aptitude</name>
+    <icon>100668288</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>4688</key>
+    <name>Epic Cooking Prowess</name>
+    <icon>100670579</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2513</key>
+    <name>Major Healing Prowess</name>
+    <icon>100669652</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2549</key>
+    <name>Minor Impregnability</name>
+    <icon>100668346</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>351</key>
+    <name>Mace 6</name>
+    <icon>100668297</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>4572</key>
+    <name>Incantation of Jumping Mastery Self</name>
+    <icon>100668282</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>4663</key>
+    <name>Epic Defender</name>
+    <icon>100668272</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>4713</key>
+    <name>Epic Thrown Aptitude</name>
+    <icon>100668303</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>327</key>
+    <name>Dagger 6</name>
+    <icon>100668287</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>927</key>
+    <name>Lockpick 6</name>
+    <icon>100668286</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2187</key>
+    <name>Rejuvenation 7</name>
+    <icon>100668283</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>4311</key>
+    <name>Incantation of Heal Self</name>
+    <icon>100674019</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>1035</key>
+    <name>Cold Protection 6</name>
+    <icon>100668292</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>4494</key>
+    <name>Incantation of Mana Renewal Self</name>
+    <icon>100668288</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>4608</key>
+    <name>Incantation of Person Attunement Self</name>
+    <icon>100668355</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>4319</key>
+    <name>Incantation of Quickness Self</name>
+    <icon>100668294</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2108</key>
+    <name>Impenetrability 7</name>
+    <icon>100668288</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2053</key>
+    <name>Armor 7</name>
+    <icon>100669737</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>4675</key>
+    <name>Epic Flame Ward</name>
+    <icon>100668291</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2581</key>
+    <name>Minor Focus</name>
+    <icon>100668273</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>1071</key>
+    <name>Lightning Protection 6</name>
+    <icon>100668291</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2529</key>
+    <name>Major Sprint</name>
+    <icon>100670582</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>4703</key>
+    <name>Epic Magic Item Tinkering Expertise</name>
+    <icon>100668354</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2604</key>
+    <name>Minor Impenetrability</name>
+    <icon>100668267</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>4414</key>
+    <name>Incantation of Spirit Drinker</name>
+    <icon>100676645</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2524</key>
+    <name>Major Magic Resistance</name>
+    <icon>100670583</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2597</key>
+    <name>Minor Acid Bane</name>
+    <icon>100668330</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>3409</key>
+    <name>Minor Evil Thirst</name>
+    <icon>100668290</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>4409</key>
+    <name>Incantation of Lightning Bane</name>
+    <icon>100673972</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2509</key>
+    <name>Major Dagger Aptitude</name>
+    <icon>100668294</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>3809</key>
+    <name>Minor Salvaging Aptitude</name>
+    <icon>100670708</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>1450</key>
+    <name>Self 6</name>
+    <icon>100673981</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>1138</key>
+    <name>Piercing Protection 6</name>
+    <icon>100674017</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2161</key>
+    <name>Piercing Protection 7</name>
+    <icon>100670580</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2504</key>
+    <name>Major Axe Aptitude</name>
+    <icon>100668296</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>4677</key>
+    <name>Epic Piercing Ward</name>
+    <icon>100668347</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2517</key>
+    <name>Major Item Tinkering Expertise</name>
+    <icon>100670582</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>3504</key>
+    <name>Salvaging 6</name>
+    <icon>100668294</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2215</key>
+    <name>Creature Enchantment 7</name>
+    <icon>100668353</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2580</key>
+    <name>Minor Endurance</name>
+    <icon>100668296</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2572</key>
+    <name>Major Coordination</name>
+    <icon>100674029</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2528</key>
+    <name>Major Spear Aptitude</name>
+    <icon>100670584</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2522</key>
+    <name>Major Mace Aptitude</name>
+    <icon>100670586</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2096</key>
+    <name>Blood Drinker 7</name>
+    <icon>100668292</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2233</key>
+    <name>Loyalty 7</name>
+    <icon>100668302</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>4692</key>
+    <name>Epic Fealty</name>
+    <icon>100668286</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>1540</key>
+    <name>Lightning Bane 6</name>
+    <icon>100668401</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2540</key>
+    <name>Minor Bow Aptitude</name>
+    <icon>100668347</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2523</key>
+    <name>Major Magic Item Tinkering Expertise</name>
+    <icon>100668272</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>4566</key>
+    <name>Incantation of Item Tinkering Expertise Self</name>
+    <icon>100668264</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>4661</key>
+    <name>Epic Blood Thirst</name>
+    <icon>100669652</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2277</key>
+    <name>Magic Item Tinkering 7</name>
+    <icon>100670583</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>3251</key>
+    <name>Minor Spirit Thirst</name>
+    <icon>100668348</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2571</key>
+    <name>Major Armor</name>
+    <icon>100672856</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>4548</key>
+    <name>Incantation of Fealty Self</name>
+    <icon>100668286</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2508</key>
+    <name>Major Crossbow Aptitude</name>
+    <icon>100668277</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2607</key>
+    <name>Minor Storm Bane</name>
+    <icon>100668288</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2612</key>
+    <name>Major Frost Ward</name>
+    <icon>100668274</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2305</key>
+    <name>Staff 7</name>
+    <icon>100668358</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2579</key>
+    <name>Minor Coordination</name>
+    <icon>100668290</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2503</key>
+    <name>Major Armor Tinkering Expertise</name>
+    <icon>100668300</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2625</key>
+    <name>Major Stamina Gain</name>
+    <icon>100667504</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2323</key>
+    <name>War Magic 7</name>
+    <icon>100668291</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>1480</key>
+    <name>Mana 6</name>
+    <icon>100673977</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>4391</key>
+    <name>Incantation of Acid Bane</name>
+    <icon>100673969</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2191</key>
+    <name>Alchemy 7</name>
+    <icon>100668337</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>1354</key>
+    <name>Endurance 6</name>
+    <icon>100668268</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>4674</key>
+    <name>Epic Bludgeoning Ward</name>
+    <icon>100668345</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>3199</key>
+    <name>Minor Hermetic Link</name>
+    <icon>100668290</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>731</key>
+    <name>Item Tinkering 6</name>
+    <icon>100668354</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>448</key>
+    <name>Unarmed Combat 6</name>
+    <icon>100668266</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>4669</key>
+    <name>Epic Slashing Bane</name>
+    <icon>100670586</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>4660</key>
+    <name>Epic Acid Bane</name>
+    <icon>100670583</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>4715</key>
+    <name>Epic War Magic Aptitude</name>
+    <icon>100668272</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2601</key>
+    <name>Minor Flame Bane</name>
+    <icon>100670703</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>1426</key>
+    <name>Focus 6</name>
+    <icon>100668296</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2116</key>
+    <name>Swift Killer 7</name>
+    <icon>100670578</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2596</key>
+    <name>Major Swift Hunter</name>
+    <icon>100668330</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2613</key>
+    <name>Major Piercing Ward</name>
+    <icon>100668265</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>4596</key>
+    <name>Incantation of Magic Resistance Self</name>
+    <icon>100668330</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2281</key>
+    <name>Magic Defense 7</name>
+    <icon>100668271</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2155</key>
+    <name>Cold Protection 7</name>
+    <icon>100669126</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>4662</key>
+    <name>Epic Bludgeoning Bane</name>
+    <icon>100670585</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>707</key>
+    <name>Armor Tinkering 6</name>
+    <icon>100668264</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>4462</key>
+    <name>Incantation of Blade Protection Self</name>
+    <icon>100668348</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2541</key>
+    <name>Minor Cooking Prowess</name>
+    <icon>100668348</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>472</key>
+    <name>Bow 6</name>
+    <icon>100668267</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2573</key>
+    <name>Major Endurance</name>
+    <icon>100672866</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2626</key>
+    <name>Minor Health Gain</name>
+    <icon>100670714</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>1516</key>
+    <name>Bludgeon Bane 6</name>
+    <icon>100673980</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2516</key>
+    <name>Major Item Enchantment Aptitude</name>
+    <icon>100670584</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2227</key>
+    <name>Deception 7</name>
+    <icon>100668295</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>4227</key>
+    <name>Epic Willpower</name>
+    <icon>100668296</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>4686</key>
+    <name>Epic Axe Aptitude</name>
+    <icon>100668265</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2547</key>
+    <name>Minor Fletching Prowess</name>
+    <icon>100668347</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>4534</key>
+    <name>Incantation of Crossbow Mastery Self</name>
+    <icon>100668267</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2245</key>
+    <name>Melee Defense 7</name>
+    <icon>100668331</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2521</key>
+    <name>Major Lockpick Prowess</name>
+    <icon>100670586</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>4232</key>
+    <name>Epic Leadership</name>
+    <icon>100668283</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>4691</key>
+    <name>Epic Dagger Aptitude</name>
+    <icon>100668269</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>1552</key>
+    <name>Flame Bane 6</name>
+    <icon>100673989</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2565</key>
+    <name>Minor Staff Aptitude</name>
+    <icon>100668296</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>4552</key>
+    <name>Incantation of Fletching Mastery Self</name>
+    <icon>100670580</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2263</key>
+    <name>Leadership 7</name>
+    <icon>100668288</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>3250</key>
+    <name>Major Spirit Thirst</name>
+    <icon>100668344</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>951</key>
+    <name>Loyalty 6</name>
+    <icon>100668282</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>3965</key>
+    <name>Epic Strength</name>
+    <icon>100668300</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2570</key>
+    <name>Minor Weapon Tinkering Expertise</name>
+    <icon>100668288</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2606</key>
+    <name>Minor Slashing Bane</name>
+    <icon>100668287</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2501</key>
+    <name>Major Alchemical Prowess</name>
+    <icon>100668277</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2578</key>
+    <name>Minor Armor</name>
+    <icon>100668290</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>4578</key>
+    <name>Incantation of Leadership Mastery Self</name>
+    <icon>100668283</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2611</key>
+    <name>Major Flame Ward</name>
+    <icon>100668303</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2185</key>
+    <name>Regeneration 7</name>
+    <icon>100668295</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2619</key>
+    <name>Minor Frost Ward</name>
+    <icon>100668297</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>4020</key>
+    <name>Epic Deception Prowess</name>
+    <icon>100668296</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>4697</key>
+    <name>Epic Item Enchantment Aptitude</name>
+    <icon>100668272</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2251</key>
+    <name>Item Tinkering 7</name>
+    <icon>100668357</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>4673</key>
+    <name>Epic Acid Ward</name>
+    <icon>100668344</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2520</key>
+    <name>Major Life Magic Aptitude</name>
+    <icon>100668271</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2059</key>
+    <name>Coordination 7</name>
+    <icon>100668343</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>4407</key>
+    <name>Incantation of Impenetrability</name>
+    <icon>100673982</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>4668</key>
+    <name>Epic Piercing Bane</name>
+    <icon>100668271</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>4714</key>
+    <name>Epic Unarmed Aptitude</name>
+    <icon>100668274</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>4678</key>
+    <name>Epic Slashing Ward</name>
+    <icon>100668348</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>634</key>
+    <name>War Magic 6</name>
+    <icon>100668288</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>4412</key>
+    <name>Incantation of Piercing Bane</name>
+    <icon>100673973</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2595</key>
+    <name>Major Storm Bane</name>
+    <icon>100668330</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2110</key>
+    <name>Lightning Bane 7</name>
+    <icon>100668288</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>4582</key>
+    <name>Incantation of Life Magic Mastery Self</name>
+    <icon>100668337</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2087</key>
+    <name>Strength 7</name>
+    <icon>100668347</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>4709</key>
+    <name>Epic Spear Aptitude</name>
+    <icon>100668297</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>4522</key>
+    <name>Incantation of Bow Mastery Self</name>
+    <icon>100668266</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>4702</key>
+    <name>Epic Mace Aptitude</name>
+    <icon>100668287</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2624</key>
+    <name>Major Mana Gain</name>
+    <icon>100667504</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2149</key>
+    <name>Acid Protection 7</name>
+    <icon>100668269</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>4624</key>
+    <name>Incantation of Sword Mastery Self</name>
+    <icon>100668302</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2515</key>
+    <name>Major Invulnerability</name>
+    <icon>100668272</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>975</key>
+    <name>Jump 6</name>
+    <icon>100668295</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>4696</key>
+    <name>Epic Invulnerability</name>
+    <icon>100668331</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2502</key>
+    <name>Major Arcane Prowess</name>
+    <icon>100668294</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>375</key>
+    <name>Spear 6</name>
+    <icon>100668298</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2554</key>
+    <name>Minor Leadership</name>
+    <icon>100668288</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>683</key>
+    <name>Arcane Lore 6</name>
+    <icon>100668352</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>4685</key>
+    <name>Epic Armor Tinkering Expertise</name>
+    <icon>100668352</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>4226</key>
+    <name>Epic Endurance</name>
+    <icon>100668273</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2533</key>
+    <name>Major Unarmed Aptitude</name>
+    <icon>100670586</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>1094</key>
+    <name>Fire Protection 6</name>
+    <icon>100668348</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2094</key>
+    <name>Blade Bane 7</name>
+    <icon>100668345</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2257</key>
+    <name>Jump 7</name>
+    <icon>100668299</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>3964</key>
+    <name>Epic Focus</name>
+    <icon>100668277</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>4690</key>
+    <name>Epic Crossbow Aptitude</name>
+    <icon>100668267</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>1528</key>
+    <name>Frost Bane 6</name>
+    <icon>100673979</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2564</key>
+    <name>Minor Sprint</name>
+    <icon>100672508</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>4564</key>
+    <name>Incantation of Item Enchantment Mastery Self</name>
+    <icon>100668272</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2275</key>
+    <name>Mace 7</name>
+    <icon>100668277</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>4698</key>
+    <name>Epic Item Tinkering Expertise</name>
+    <icon>100668264</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>520</key>
+    <name>Acid Protection 6</name>
+    <icon>100668303</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2534</key>
+    <name>Major War Magic Aptitude</name>
+    <icon>100670586</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2559</key>
+    <name>Minor Magic Resistance</name>
+    <icon>100668290</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2628</key>
+    <name>Minor Stamina Gain</name>
+    <icon>100670703</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>4628</key>
+    <name>Incantation of Thrown Weapons Mastery Self</name>
+    <icon>100668303</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>1605</key>
+    <name>Defender 6</name>
+    <icon>100668350</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2605</key>
+    <name>Minor Piercing Bane</name>
+    <icon>100668269</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2241</key>
+    <name>Healing 7</name>
+    <icon>100668274</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2316</key>
+    <name>Unarmed Combat 7</name>
+    <icon>100668273</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2519</key>
+    <name>Major Leadership</name>
+    <icon>100668271</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>4303</key>
+    <name>Incantation of Feeblemind Self</name>
+    <icon>100668296</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2623</key>
+    <name>Major Health Gain</name>
+    <icon>100668274</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>1486</key>
+    <name>Impenetrability 6</name>
+    <icon>100673971</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2610</key>
+    <name>Major Bludgeoning Ward</name>
+    <icon>100668302</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2197</key>
+    <name>Armor Tinkering 7</name>
+    <icon>100668284</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>4321</key>
+    <name>Incantation of Revitalize Self</name>
+    <icon>100668299</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2618</key>
+    <name>Minor Flame Ward</name>
+    <icon>100668288</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2608</key>
+    <name>Minor Swift Hunter</name>
+    <icon>100668297</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2553</key>
+    <name>Minor Jumping Prowess</name>
+    <icon>100668279</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>4329</key>
+    <name>Incantation of Willpower Self</name>
+    <icon>100668296</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>4499</key>
+    <name>Incantation of Arcanum Salvaging Self</name>
+    <icon>100673210</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>4672</key>
+    <name>Epic Swift Hunter</name>
+    <icon>100668272</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2538</key>
+    <name>Minor Armor Tinkering Expertise</name>
+    <icon>100668291</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>4406</key>
+    <name>Incantation of Hermetic Void</name>
+    <icon>100673983</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2117</key>
+    <name>Mana 7</name>
+    <icon>100670578</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>1378</key>
+    <name>Coordination 6</name>
+    <icon>100668294</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2287</key>
+    <name>Mana Conversion 7</name>
+    <icon>100668290</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2594</key>
+    <name>Major Slashing Bane</name>
+    <icon>100670841</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>1744</key>
+    <name>Fletching 6</name>
+    <icon>100670714</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>4708</key>
+    <name>Epic Salvaging Aptitude</name>
+    <icon>100670578</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>4699</key>
+    <name>Epic Jumping Prowess</name>
+    <icon>100668264</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2589</key>
+    <name>Major Flame Bane</name>
+    <icon>100668294</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2153</key>
+    <name>Bludgeoning Protection 7</name>
+    <icon>100668296</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>4460</key>
+    <name>Incantation of Acid Protection Self</name>
+    <icon>100668344</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>4397</key>
+    <name>Incantation of Bludgeon Bane</name>
+    <icon>100673873</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2614</key>
+    <name>Major Slashing Ward</name>
+    <icon>100668266</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2207</key>
+    <name>Bow 7</name>
+    <icon>100668330</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2552</key>
+    <name>Minor Item Tinkering Expertise</name>
+    <icon>100668299</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>4468</key>
+    <name>Incantation of Fire Protection Self</name>
+    <icon>100668291</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2514</key>
+    <name>Major Impregnability</name>
+    <icon>100670585</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>4501</key>
+    <name>Incantation of Nuhmudira's Wisdom</name>
+    <icon>100673210</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2602</key>
+    <name>Minor Frost Bane</name>
+    <icon>100668265</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>4305</key>
+    <name>Incantation of Focus Self</name>
+    <icon>100668277</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>4684</key>
+    <name>Epic Arcane Prowess</name>
+    <icon>100668285</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2545</key>
+    <name>Minor Deception Prowess</name>
+    <icon>100668291</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2243</key>
+    <name>Missile Defense 7</name>
+    <icon>100668274</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>4530</key>
+    <name>Incantation of Creature Enchantment Mastery Self</name>
+    <icon>100668358</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>586</key>
+    <name>Item Enchantment 6</name>
+    <icon>100668337</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2532</key>
+    <name>Major Thrown Aptitude</name>
+    <icon>100668271</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2576</key>
+    <name>Major Strength</name>
+    <icon>100672862</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>3963</key>
+    <name>Epic Coordination</name>
+    <icon>100668268</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>855</key>
+    <name>Deception 6</name>
+    <icon>100668279</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2558</key>
+    <name>Minor Magic Item Tinkering Expertise</name>
+    <icon>100668290</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>4558</key>
+    <name>Incantation of Impregnability Self</name>
+    <icon>100669126</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2617</key>
+    <name>Minor Bludgeoning Ward</name>
+    <icon>100668287</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>4604</key>
+    <name>Incantation of Monster Attunement Self</name>
+    <icon>100668353</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>423</key>
+    <name>Sword 6</name>
+    <icon>100668274</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>4315</key>
+    <name>Incantation of Mana Boost Self</name>
+    <icon>100668288</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>4693</key>
+    <name>Epic Fletching Prowess</name>
+    <icon>100670580</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>755</key>
+    <name>Magic Item Tinkering 6</name>
+    <icon>100668357</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2622</key>
+    <name>Minor Storm Ward</name>
+    <icon>100668303</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2183</key>
+    <name>Mana Renewal 7</name>
+    <icon>100668282</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>170</key>
+    <name>Regeneration 6</name>
+    <icon>100668299</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2551</key>
+    <name>Minor Item Enchantment Aptitude</name>
+    <icon>100668288</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2535</key>
+    <name>Major Weapon Tinkering Expertise</name>
+    <icon>100668272</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>261</key>
+    <name>Missile Defense 6</name>
+    <icon>100668330</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>4640</key>
+    <name>Incantation of Weapon Tinkering Expertise Self</name>
+    <icon>100668357</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>1498</key>
+    <name>Acid Bane 6</name>
+    <icon>100673972</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>4498</key>
+    <name>Incantation of Rejuvenation Self</name>
+    <icon>100668299</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>4671</key>
+    <name>Epic Storm Bane</name>
+    <icon>100670586</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>4707</key>
+    <name>Epic Person Attunement</name>
+    <icon>100668355</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>249</key>
+    <name>Melee Defense 6</name>
+    <icon>100668330</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>4405</key>
+    <name>Incantation of Heart Seeker</name>
+    <icon>100673989</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>4679</key>
+    <name>Epic Storm Ward</name>
+    <icon>100668346</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2616</key>
+    <name>Minor Acid Ward</name>
+    <icon>100668269</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>4712</key>
+    <name>Epic Sword Aptitude</name>
+    <icon>100668302</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2593</key>
+    <name>Major Piercing Bane</name>
+    <icon>100670841</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2620</key>
+    <name>Minor Piercing Ward</name>
+    <icon>100668298</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>4418</key>
+    <name>Incantation of Hermetic Link</name>
+    <icon>100673984</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>4291</key>
+    <name>Incantation of Armor Self</name>
+    <icon>100668293</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2546</key>
+    <name>Minor Fealty</name>
+    <icon>100668292</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2588</key>
+    <name>Major Defender</name>
+    <icon>100668277</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2299</key>
+    <name>Spear 7</name>
+    <icon>100668279</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2211</key>
+    <name>Cooking 7</name>
+    <icon>100668288</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>4299</key>
+    <name>Incantation of Endurance Self</name>
+    <icon>100668273</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>4472</key>
+    <name>Incantation of Piercing Protection Self</name>
+    <icon>100668347</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2550</key>
+    <name>Minor Invulnerability</name>
+    <icon>100668279</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>658</key>
+    <name>Mana Conversion 6</name>
+    <icon>100668285</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>3956</key>
+    <name>Epic Piercing Ward</name>
+    <icon>100668347</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2526</key>
+    <name>Major Monster Attunement</name>
+    <icon>100670585</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>4526</key>
+    <name>Incantation of Cooking Mastery Self</name>
+    <icon>100670579</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2237</key>
+    <name>Fletching 7</name>
+    <icon>100668303</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>4683</key>
+    <name>Epic Alchemical Prowess</name>
+    <icon>100670578</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2531</key>
+    <name>Major Sword Aptitude</name>
+    <icon>100668271</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>217</key>
+    <name>Mana Renewal 6</name>
+    <icon>100668331</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2530</key>
+    <name>Major Staff Aptitude</name>
+    <icon>100668272</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2219</key>
+    <name>Crossbow 7</name>
+    <icon>100668355</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2527</key>
+    <name>Major Person Attunement</name>
+    <icon>100668272</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>3957</key>
+    <name>Epic Slashing Ward</name>
+    <icon>100668348</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>1562</key>
+    <name>Blade Bane 6</name>
+    <icon>100673988</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2539</key>
+    <name>Minor Axe Aptitude</name>
+    <icon>100668292</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>4911</key>
+    <name>Epic Armor</name>
+    <icon>100668293</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>1616</key>
+    <name>Blood Drinker 6</name>
+    <icon>100668350</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2603</key>
+    <name>Minor Heart Thirst</name>
+    <icon>100668266</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>4616</key>
+    <name>Incantation of Sprint Self</name>
+    <icon>100668295</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2301</key>
+    <name>Run 7</name>
+    <icon>100670995</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2621</key>
+    <name>Minor Slashing Ward</name>
+    <icon>100668302</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2195</key>
+    <name>Arcane Lore 7</name>
+    <icon>100668284</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>1332</key>
+    <name>Strength 6</name>
+    <icon>100668273</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2309</key>
+    <name>Sword 7</name>
+    <icon>100668279</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>4665</key>
+    <name>Epic Frost Bane</name>
+    <icon>100670582</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2061</key>
+    <name>Endurance 7</name>
+    <icon>100669739</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>4670</key>
+    <name>Epic Spirit Thirst</name>
+    <icon>100669652</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>903</key>
+    <name>Leadership 6</name>
+    <icon>100668284</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>4395</key>
+    <name>Incantation of Blood Drinker</name>
+    <icon>100673986</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>4706</key>
+    <name>Epic Monster Attunement</name>
+    <icon>100668353</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>4417</key>
+    <name>Incantation of Swift Killer</name>
+    <icon>100673991</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2102</key>
+    <name>Flame Bane 7</name>
+    <icon>100668347</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2587</key>
+    <name>Major Bludgeoning Bane</name>
+    <icon>100668273</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>4711</key>
+    <name>Epic Staff Aptitude</name>
+    <icon>100668298</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>1592</key>
+    <name>Heart Seeker 6</name>
+    <icon>100673990</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2592</key>
+    <name>Major Impenetrability</name>
+    <icon>100670841</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2544</key>
+    <name>Minor Dagger Aptitude</name>
+    <icon>100668345</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>4393</key>
+    <name>Incantation of Blade Bane</name>
+    <icon>100673872</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>4638</key>
+    <name>Incantation of War Magic Mastery Self</name>
+    <icon>100668272</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>4466</key>
+    <name>Incantation of Cold Protection Self</name>
+    <icon>100668292</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2151</key>
+    <name>Blade Protection 7</name>
+    <icon>100668296</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2159</key>
+    <name>Lightning Protection 7</name>
+    <icon>100668286</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2507</key>
+    <name>Major Creature Enchantment Aptitude</name>
+    <icon>100668273</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>1768</key>
+    <name>Alchemy 6</name>
+    <icon>100670709</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>544</key>
+    <name>Thrown Weapons 6</name>
+    <icon>100668358</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2563</key>
+    <name>Minor Spear Aptitude</name>
+    <icon>100668284</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2525</key>
+    <name>Major Mana Conversion Prowess</name>
+    <icon>100669652</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>4512</key>
+    <name>Incantation of Armor Tinkering Expertise Self</name>
+    <icon>100668352</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2223</key>
+    <name>Dagger 7</name>
+    <icon>100668297</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>4695</key>
+    <name>Epic Impregnability</name>
+    <icon>100669126</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>4912</key>
+    <name>Epic Weapon Tinkering Expertise</name>
+    <icon>100668357</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>4556</key>
+    <name>Incantation of Healing Mastery Self</name>
+    <icon>100668279</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2548</key>
+    <name>Minor Healing Prowess</name>
+    <icon>100668348</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2091</key>
+    <name>Self 7</name>
+    <icon>100668348</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2267</key>
+    <name>Life Magic 7</name>
+    <icon>100668342</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>1574</key>
+    <name>Piercing Bane 6</name>
+    <icon>100673986</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2574</key>
+    <name>Major Focus</name>
+    <icon>100672858</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>4538</key>
+    <name>Incantation of Dagger Mastery Self</name>
+    <icon>100668269</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2249</key>
+    <name>Item Enchantment 7</name>
+    <icon>100668272</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2543</key>
+    <name>Minor Crossbow Aptitude</name>
+    <icon>100668344</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>4700</key>
+    <name>Epic Life Magic Aptitude</name>
+    <icon>100668337</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2569</key>
+    <name>Minor War Magic Aptitude</name>
+    <icon>100668288</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2615</key>
+    <name>Major Storm Ward</name>
+    <icon>100668267</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>4602</key>
+    <name>Incantation of Mana Conversion Mastery Self</name>
+    <icon>100668288</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>193</key>
+    <name>Rejuvenation 6</name>
+    <icon>100668288</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>4667</key>
+    <name>Epic Impenetrability</name>
+    <icon>100668271</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2313</key>
+    <name>Thrown Weapons 7</name>
+    <icon>100668279</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>4496</key>
+    <name>Incantation of Regeneration Self</name>
+    <icon>100668279</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>4620</key>
+    <name>Incantation of Staff Mastery Self</name>
+    <icon>100668298</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>4019</key>
+    <name>Epic Quickness</name>
+    <icon>100668294</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2562</key>
+    <name>Minor Person Attunement</name>
+    <icon>100668290</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>4664</key>
+    <name>Epic Flame Bane</name>
+    <icon>100670584</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>879</key>
+    <name>Healing 6</name>
+    <icon>100668283</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>562</key>
+    <name>Creature Enchantment 6</name>
+    <icon>100668272</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>279</key>
+    <name>Magic Defense 6</name>
+    <icon>100668265</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>4705</key>
+    <name>Epic Mana Conversion Prowess</name>
+    <icon>100668288</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>779</key>
+    <name>Weapon Tinkering 6</name>
+    <icon>100668353</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>4416</key>
+    <name>Incantation of Strengthen Lock</name>
+    <icon>100668401</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>1114</key>
+    <name>Blade Protection 6</name>
+    <icon>100668347</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2101</key>
+    <name>Defender 7</name>
+    <icon>100668347</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2577</key>
+    <name>Major Willpower</name>
+    <icon>100672864</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2586</key>
+    <name>Major Blood Thirst</name>
+    <icon>100668268</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2542</key>
+    <name>Minor Creature Enchantment Aptitude</name>
+    <icon>100668346</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>4586</key>
+    <name>Incantation of Lockpick Mastery Self</name>
+    <icon>100668284</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>4710</key>
+    <name>Epic Sprint</name>
+    <icon>100668295</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>4297</key>
+    <name>Incantation of Coordination Self</name>
+    <icon>100668268</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2591</key>
+    <name>Major Heart Thirst</name>
+    <icon>100668296</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>3834</key>
+    <name>Major Salvaging Aptitude</name>
+    <icon>100670703</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>4701</key>
+    <name>Epic Lockpick Prowess</name>
+    <icon>100668284</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>4666</key>
+    <name>Epic Heart Thirst</name>
+    <icon>100668272</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>4631</key>
+    <name>Incantation of Unarmed Combat Mastery Self</name>
+    <icon>100668274</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2599</key>
+    <name>Minor Bludgeoning Bane</name>
+    <icon>100670704</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2557</key>
+    <name>Minor Mace Aptitude</name>
+    <icon>100668272</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>3200</key>
+    <name>Major Hermetic Link</name>
+    <icon>100668290</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>4470</key>
+    <name>Incantation of Lightning Protection Self</name>
+    <icon>100668346</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2506</key>
+    <name>Major Cooking Prowess</name>
+    <icon>100668268</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>1720</key>
+    <name>Cooking 6</name>
+    <icon>100670698</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>4506</key>
+    <name>Incantation of Alchemy Mastery Self</name>
+    <icon>100670578</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2561</key>
+    <name>Minor Monster Attunement</name>
+    <icon>100668290</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2537</key>
+    <name>Minor Arcane Prowess</name>
+    <icon>100668345</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>987</key>
+    <name>Run 6</name>
+    <icon>100668282</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>4694</key>
+    <name>Epic Healing Prowess</name>
+    <icon>100668279</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2512</key>
+    <name>Major Fletching Prowess</name>
+    <icon>100670583</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>303</key>
+    <name>Axe 6</name>
+    <icon>100668269</icon>
+  </spelldata>
+  <spelldata>
+   <key>2555</key>
+    <name>Minor Life Magic Aptitude</name>
+    <icon>100668299</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>4542</key>
+    <name>Incantation of Deception Mastery Self</name>
+    <icon>100668296</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2584</key>
+    <name>Minor Willpower</name>
+    <icon>100668300</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>2106</key>
+    <name>Heart Seeker 7</name>
+    <icon>100668279</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>3955</key>
+    <name>Epic Bludgeon Ward</name>
+    <icon>100668345</icon>
+  </spelldata>
+  <spelldata>
+    
+    <key>4689</key>
+    <name>Epic Creature Enchantment Aptitude</name>
+    <icon>100668358</icon>
+  </spelldata>
+  <spelldata>
+    <key>4403</key>
+    <name>Incantation of Frost Bane</name>
+    <icon>100673971</icon>
+  </spelldata>
+</spells>

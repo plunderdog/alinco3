@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<SDictionaryOfStringNameLookup>
+  <item>
+    <key>
+      <string>Gold Shallows Shredder</string>
+    </key>
+    <value>
+      <NameLookup>
+        <checked>true</checked>
+        <ispartial>false</ispartial>
+      </NameLookup>
+    </value>
+  </item>
+  <item>
+    <key>
+      <string>Gold Remoran</string>
+    </key>
+    <value>
+      <NameLookup>
+        <checked>true</checked>
+        <ispartial>false</ispartial>
+      </NameLookup>
+    </value>
+  </item>
+  <item>
+    <key>
+      <string>Lady Tairla Mhoire</string>
+    </key>
+    <value>
+      <NameLookup>
+        <checked>true</checked>
+        <ispartial>false</ispartial>
+        <Alert>Monster2</Alert>
+      </NameLookup>
+    </value>
+  </item>
+  <item>
+    <key>
+      <string>Corrupted Pyre Oak</string>
+    </key>
+    <value>
+      <NameLookup>
+        <checked>true</checked>
+        <ispartial>false</ispartial>
+        <Alert>Monster2</Alert>
+      </NameLookup>
+    </value>
+  </item>
+  <item>
+    <key>
+      <string>Aun Ralirea</string>
+    </key>
+    <value>
+      <NameLookup>
+        <checked>true</checked>
+        <ispartial>false</ispartial>
+        <Alert>Monster2</Alert>
+      </NameLookup>
+    </value>
+  </item>
+  <item>
+    <key>
+      <string>Intense Aggregate Crystalline Wisp</string>
+    </key>
+    <value>
+      <NameLookup>
+        <checked>false</checked>
+        <ispartial>false</ispartial>
+      </NameLookup>
+    </value>
+  </item>
+  <item>
+    <key>
+      <string>Aggregate Crystalline Wisp</string>
+    </key>
+    <value>
+      <NameLookup>
+        <checked>false</checked>
+        <ispartial>false</ispartial>
+      </NameLookup>
+    </value>
+  </item>
+  <item>
+    <key>
+      <string>Hea Temenua</string>
+    </key>
+    <value>
+      <NameLookup>
+        <checked>true</checked>
+        <ispartial>false</ispartial>
+      </NameLookup>
+    </value>
+  </item>
+  <item>
+    <key>
+      <string>Diamond Golem</string>
+    </key>
+    <value>
+      <NameLookup>
+        <checked>false</checked>
+        <ispartial>false</ispartial>
+      </NameLookup>
+    </value>
+  </item>
+  <item>
+    <key>
+      <string>fallen</string>
+    </key>
+    <value>
+      <NameLookup>
+        <checked>true</checked>
+        <ispartial>true</ispartial>
+        <Alert>Monster2</Alert>
+      </NameLookup>
+    </value>
+  </item>
+  <item>
+    <key>
+      <string>Titanium Armoredillo</string>
+    </key>
+    <value>
+      <NameLookup>
+        <checked>false</checked>
+        <ispartial>false</ispartial>
+      </NameLookup>
+    </value>
+  </item>
+  <item>
+    <key>
+      <string>Tch'Keryk the Emissary</string>
+    </key>
+    <value>
+      <NameLookup>
+        <checked>true</checked>
+        <ispartial>false</ispartial>
+        <Alert>Monster2</Alert>
+      </NameLookup>
+    </value>
+  </item>
+  <item>
+    <key>
+      <string>Black Coral Golem</string>
+    </key>
+    <value>
+      <NameLookup>
+        <checked>true</checked>
+        <ispartial>false</ispartial>
+      </NameLookup>
+    </value>
+  </item>
+  <item>
+    <key>
+      <string>Giant Jungle Phyntos Wasp</string>
+    </key>
+    <value>
+      <NameLookup>
+        <checked>false</checked>
+        <ispartial>false</ispartial>
+      </NameLookup>
+    </value>
+  </item>
+  <item>
+    <key>
+      <string>Brood Mother</string>
+    </key>
+    <value>
+      <NameLookup>
+        <checked>true</checked>
+        <ispartial>false</ispartial>
+      </NameLookup>
+    </value>
+  </item>
+  <item>
+    <key>
+      <string>Blight-encrusted Black Coral</string>
+    </key>
+    <value>
+      <NameLookup>
+        <checked>true</checked>
+        <ispartial>false</ispartial>
+      </NameLookup>
+    </value>
+  </item>
+</SDictionaryOfStringNameLookup>

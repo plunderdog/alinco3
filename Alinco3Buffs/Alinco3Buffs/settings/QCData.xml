@@ -1,0 +1,4451 @@
+<?xml version="1.0" standalone="yes"?>
+<QCData>
+  <Players>
+    <PlayerName>Losado</PlayerName>
+    <World>MorningThaw</World>
+    <PlayerGuid>0</PlayerGuid>
+    <Banned>1</Banned>
+  </Players>
+  <Gifts>
+    <ItemName>Platinum Scarab</ItemName>
+    <MinValue>0</MinValue>
+  </Gifts>
+  <Gifts>
+    <ItemName>Trade Note (250,000)</ItemName>
+    <MinValue>0</MinValue>
+  </Gifts>
+  <Gifts>
+    <ItemName>Marble Key</ItemName>
+    <MinValue>0</MinValue>
+  </Gifts>
+  <Gifts>
+    <ItemName>Granite Key</ItemName>
+    <MinValue>0</MinValue>
+  </Gifts>
+  <Gifts>
+    <ItemName>Black Marrow Key</ItemName>
+    <MinValue>0</MinValue>
+  </Gifts>
+  <Gifts>
+    <ItemName>Trade Note (100,000)</ItemName>
+    <MinValue>0</MinValue>
+  </Gifts>
+  <TradeTools>
+    <ItemName>Intricate Carving Tool</ItemName>
+  </TradeTools>
+  <TradeTools>
+    <ItemName>Mortar and Pestle</ItemName>
+  </TradeTools>
+  <TradeTools>
+    <ItemName>Cooking Pot</ItemName>
+  </TradeTools>
+  <TradeTools>
+    <ItemName>Neutral Balm</ItemName>
+  </TradeTools>
+  <TradeTools>
+    <ItemName>Alembic</ItemName>
+  </TradeTools>
+  <Trades>
+    <School>Alchemy</School>
+    <ItemName>Verdalim Plant</ItemName>
+    <UseItem>Mortar and Pestle</UseItem>
+    <OnItem>Verdalim Plant</OnItem>
+    <Result>Crushed Verdalim Plant</Result>
+    <Succesmsg>You crush the plant</Succesmsg>
+    <Failmsg>You fail</Failmsg>
+    <MaxSuccess>100</MaxSuccess>
+    <MaxTinks>1</MaxTinks>
+    <Cascade>1</Cascade>
+  </Trades>
+  <Trades>
+    <School>Alchemy</School>
+    <ItemName>Thananim Plant</ItemName>
+    <UseItem>Mortar and Pestle</UseItem>
+    <OnItem>Thananim Plant</OnItem>
+    <Result>Crushed Thananim Plant</Result>
+    <Succesmsg>You crush the plant</Succesmsg>
+    <Failmsg>You fail</Failmsg>
+    <MaxSuccess>100</MaxSuccess>
+    <MaxTinks>1</MaxTinks>
+    <Cascade>1</Cascade>
+  </Trades>
+  <Trades>
+    <School>Alchemy</School>
+    <ItemName>Renalim Plant</ItemName>
+    <UseItem>Mortar and Pestle</UseItem>
+    <OnItem>Renalim Plant</OnItem>
+    <Result>Crushed Renalim Plant</Result>
+    <Succesmsg>You crush the plant</Succesmsg>
+    <Failmsg>You fail</Failmsg>
+    <MaxSuccess>100</MaxSuccess>
+    <MaxTinks>1</MaxTinks>
+    <Cascade>1</Cascade>
+  </Trades>
+  <Trades>
+    <School>Alchemy</School>
+    <ItemName>Minalim Plant</ItemName>
+    <UseItem>Mortar and Pestle</UseItem>
+    <OnItem>Minalim Plant</OnItem>
+    <Result>Crushed Minalim Plant</Result>
+    <Succesmsg>You crush the plant</Succesmsg>
+    <Failmsg>You fail</Failmsg>
+    <MaxSuccess>100</MaxSuccess>
+    <MaxTinks>1</MaxTinks>
+    <Cascade>1</Cascade>
+  </Trades>
+  <Trades>
+    <School>Alchemy</School>
+    <ItemName>Lapyan Plant</ItemName>
+    <UseItem>Mortar and Pestle</UseItem>
+    <OnItem>Lapyan Plant</OnItem>
+    <Result>Crushed Lapyan Plant</Result>
+    <Succesmsg>You crush the plant</Succesmsg>
+    <Failmsg>You fail</Failmsg>
+    <MaxSuccess>100</MaxSuccess>
+    <MaxTinks>1</MaxTinks>
+    <Cascade>1</Cascade>
+  </Trades>
+  <Trades>
+    <School>Alchemy</School>
+    <ItemName>Hennacin Plant</ItemName>
+    <UseItem>Mortar and Pestle</UseItem>
+    <OnItem>Hennacin Plant</OnItem>
+    <Result>Crushed Hennacin Plant</Result>
+    <Succesmsg>You crush the plant</Succesmsg>
+    <Failmsg>You fail</Failmsg>
+    <MaxSuccess>100</MaxSuccess>
+    <MaxTinks>1</MaxTinks>
+    <Cascade>1</Cascade>
+  </Trades>
+  <Trades>
+    <School>Alchemy</School>
+    <ItemName>Colban Plant</ItemName>
+    <UseItem>Mortar and Pestle</UseItem>
+    <OnItem>Colban Plant</OnItem>
+    <Result>Crushed Colban Plant</Result>
+    <Succesmsg>You crush the plant</Succesmsg>
+    <Failmsg>You fail</Failmsg>
+    <MaxSuccess>100</MaxSuccess>
+    <MaxTinks>1</MaxTinks>
+    <Cascade>1</Cascade>
+  </Trades>
+  <Trades>
+    <School>Alchemy</School>
+    <ItemName>Berimphur Plant</ItemName>
+    <UseItem>Mortar and Pestle</UseItem>
+    <OnItem>Berimphur Plant</OnItem>
+    <Result>Crushed Berimphur Plant</Result>
+    <Succesmsg>You crush the plant</Succesmsg>
+    <Failmsg>You fail</Failmsg>
+    <MaxSuccess>100</MaxSuccess>
+    <MaxTinks>1</MaxTinks>
+    <Cascade>1</Cascade>
+  </Trades>
+  <Trades>
+    <School>Alchemy</School>
+    <ItemName>Argenory Plant</ItemName>
+    <UseItem>Mortar and Pestle</UseItem>
+    <OnItem>Argenory Plant</OnItem>
+    <Result>Crushed Argenory Plant</Result>
+    <Succesmsg>You crush the plant</Succesmsg>
+    <Failmsg>You fail</Failmsg>
+    <MaxSuccess>100</MaxSuccess>
+    <MaxTinks>1</MaxTinks>
+    <Cascade>1</Cascade>
+  </Trades>
+  <Trades>
+    <School>Alchemy</School>
+    <ItemName>Crushed Argenory Plant</ItemName>
+    <UseItem>Neutral Balm</UseItem>
+    <OnItem>Crushed Argenory Plant</OnItem>
+    <Result>Vial of Argenory Dye</Result>
+    <Succesmsg>You brew the dye</Succesmsg>
+    <Failmsg>You fail</Failmsg>
+    <MaxSuccess>100</MaxSuccess>
+    <MaxTinks>1</MaxTinks>
+    <Cascade>1</Cascade>
+  </Trades>
+  <Trades>
+    <School>Alchemy</School>
+    <ItemName>Crushed Berimphur Plant</ItemName>
+    <UseItem>Neutral Balm</UseItem>
+    <OnItem>Crushed Berimphur Plant</OnItem>
+    <Result>Vial of Berimphur Dye</Result>
+    <Succesmsg>You brew the dye</Succesmsg>
+    <Failmsg>You fail</Failmsg>
+    <MaxSuccess>100</MaxSuccess>
+    <MaxTinks>1</MaxTinks>
+    <Cascade>1</Cascade>
+  </Trades>
+  <Trades>
+    <School>Alchemy</School>
+    <ItemName>Crushed Colban Plant</ItemName>
+    <UseItem>Neutral Balm</UseItem>
+    <OnItem>Crushed Colban Plant</OnItem>
+    <Result>Vial of Colban Dye</Result>
+    <Succesmsg>You brew the dye</Succesmsg>
+    <Failmsg>You fail</Failmsg>
+    <MaxSuccess>100</MaxSuccess>
+    <MaxTinks>1</MaxTinks>
+    <Cascade>1</Cascade>
+  </Trades>
+  <Trades>
+    <School>Alchemy</School>
+    <ItemName>Crushed Hennacin Plant</ItemName>
+    <UseItem>Neutral Balm</UseItem>
+    <OnItem>Crushed Hennacin Plant</OnItem>
+    <Result>Vial of Hennacin Dye</Result>
+    <Succesmsg>You brew the dye</Succesmsg>
+    <Failmsg>You fail</Failmsg>
+    <MaxSuccess>100</MaxSuccess>
+    <MaxTinks>1</MaxTinks>
+    <Cascade>1</Cascade>
+  </Trades>
+  <Trades>
+    <School>Alchemy</School>
+    <ItemName>Crushed Lapyan Plant</ItemName>
+    <UseItem>Neutral Balm</UseItem>
+    <OnItem>Crushed Lapyan Plant</OnItem>
+    <Result>Vial of Lapyan Dye</Result>
+    <Succesmsg>You brew the dye</Succesmsg>
+    <Failmsg>You fail</Failmsg>
+    <MaxSuccess>100</MaxSuccess>
+    <MaxTinks>1</MaxTinks>
+    <Cascade>1</Cascade>
+  </Trades>
+  <Trades>
+    <School>Alchemy</School>
+    <ItemName>Crushed Minalim Plant</ItemName>
+    <UseItem>Neutral Balm</UseItem>
+    <OnItem>Crushed Minalim Plant</OnItem>
+    <Result>Vial of Minalim Dye</Result>
+    <Succesmsg>You brew the dye</Succesmsg>
+    <Failmsg>You fail</Failmsg>
+    <MaxSuccess>100</MaxSuccess>
+    <MaxTinks>1</MaxTinks>
+    <Cascade>1</Cascade>
+  </Trades>
+  <Trades>
+    <School>Alchemy</School>
+    <ItemName>Crushed Renalim Plant</ItemName>
+    <UseItem>Neutral Balm</UseItem>
+    <OnItem>Crushed Renalim Plant</OnItem>
+    <Result>Vial of Renalim Dye</Result>
+    <Succesmsg>You brew the dye</Succesmsg>
+    <Failmsg>You fail</Failmsg>
+    <MaxSuccess>100</MaxSuccess>
+    <MaxTinks>1</MaxTinks>
+    <Cascade>1</Cascade>
+  </Trades>
+  <Trades>
+    <School>Alchemy</School>
+    <ItemName>Crushed Thananim Plant</ItemName>
+    <UseItem>Neutral Balm</UseItem>
+    <OnItem>Crushed Thananim Plant</OnItem>
+    <Result>Vial of Thananim Dye</Result>
+    <Succesmsg>You brew the dye</Succesmsg>
+    <Failmsg>You fail</Failmsg>
+    <MaxSuccess>100</MaxSuccess>
+    <MaxTinks>1</MaxTinks>
+    <Cascade>1</Cascade>
+  </Trades>
+  <Trades>
+    <School>Alchemy</School>
+    <ItemName>Crushed Verdalim Plant</ItemName>
+    <UseItem>Neutral Balm</UseItem>
+    <OnItem>Crushed Verdalim Plant</OnItem>
+    <Result>Vial of Verdalim Dye</Result>
+    <Succesmsg>You brew the dye</Succesmsg>
+    <Failmsg>You fail</Failmsg>
+    <MaxSuccess>100</MaxSuccess>
+    <MaxTinks>1</MaxTinks>
+    <Cascade>1</Cascade>
+  </Trades>
+  <Trades>
+    <School>Cooking</School>
+    <ItemName>Vial of Argenory Dye</ItemName>
+    <UseItem>Vial of Argenory Dye</UseItem>
+    <OnItem>Cooking Pot</OnItem>
+    <Result>Argenory Dye Pot</Result>
+    <Succesmsg>You boil the dye</Succesmsg>
+    <Failmsg>You fail</Failmsg>
+    <MaxSuccess>100</MaxSuccess>
+    <MaxTinks>1</MaxTinks>
+    <Cascade>1</Cascade>
+  </Trades>
+  <Trades>
+    <School>Cooking</School>
+    <ItemName>Vial of Berimphur Dye</ItemName>
+    <UseItem>Vial of Berimphur Dye</UseItem>
+    <OnItem>Cooking Pot</OnItem>
+    <Result>Berimphur Dye Pot</Result>
+    <Succesmsg>You boil the dye</Succesmsg>
+    <Failmsg>You fail</Failmsg>
+    <MaxSuccess>100</MaxSuccess>
+    <MaxTinks>1</MaxTinks>
+    <Cascade>1</Cascade>
+  </Trades>
+  <Trades>
+    <School>Cooking</School>
+    <ItemName>Vial of Colban Dye</ItemName>
+    <UseItem>Vial of Colban Dye</UseItem>
+    <OnItem>Cooking Pot</OnItem>
+    <Result>Colban Dye Pot</Result>
+    <Succesmsg>You boil the dye</Succesmsg>
+    <Failmsg>You fail</Failmsg>
+    <MaxSuccess>100</MaxSuccess>
+    <MaxTinks>1</MaxTinks>
+    <Cascade>1</Cascade>
+  </Trades>
+  <Trades>
+    <School>Cooking</School>
+    <ItemName>Vial of Hennacin Dye</ItemName>
+    <UseItem>Vial of Hennacin Dye</UseItem>
+    <OnItem>Cooking Pot</OnItem>
+    <Result>Hennacin Dye Pot</Result>
+    <Succesmsg>You boil the dye</Succesmsg>
+    <Failmsg>You fail</Failmsg>
+    <MaxSuccess>100</MaxSuccess>
+    <MaxTinks>1</MaxTinks>
+    <Cascade>1</Cascade>
+  </Trades>
+  <Trades>
+    <School>Cooking</School>
+    <ItemName>Vial of Lapyan Dye</ItemName>
+    <UseItem>Vial of Lapyan Dye</UseItem>
+    <OnItem>Cooking Pot</OnItem>
+    <Result>Lapyan Dye Pot</Result>
+    <Succesmsg>You boil the dye</Succesmsg>
+    <Failmsg>You fail</Failmsg>
+    <MaxSuccess>100</MaxSuccess>
+    <MaxTinks>1</MaxTinks>
+    <Cascade>1</Cascade>
+  </Trades>
+  <Trades>
+    <School>Cooking</School>
+    <ItemName>Vial of Minalim Dye</ItemName>
+    <UseItem>Vial of Minalim Dye</UseItem>
+    <OnItem>Cooking Pot</OnItem>
+    <Result>Minalim Dye Pot</Result>
+    <Succesmsg>You boil the dye</Succesmsg>
+    <Failmsg>You fail</Failmsg>
+    <MaxSuccess>100</MaxSuccess>
+    <MaxTinks>1</MaxTinks>
+    <Cascade>1</Cascade>
+  </Trades>
+  <Trades>
+    <School>Cooking</School>
+    <ItemName>Vial of Renalim Dye</ItemName>
+    <UseItem>Vial of Renalim Dye</UseItem>
+    <OnItem>Cooking Pot</OnItem>
+    <Result>Renalim Dye Pot</Result>
+    <Succesmsg>You boil the dye</Succesmsg>
+    <Failmsg>You fail</Failmsg>
+    <MaxSuccess>100</MaxSuccess>
+    <MaxTinks>1</MaxTinks>
+    <Cascade>1</Cascade>
+  </Trades>
+  <Trades>
+    <School>Cooking</School>
+    <ItemName>Vial of Thananim Dye</ItemName>
+    <UseItem>Vial of Thananim Dye</UseItem>
+    <OnItem>Cooking Pot</OnItem>
+    <Result>Thananim Dye Pot</Result>
+    <Succesmsg>You boil the dye</Succesmsg>
+    <Failmsg>You fail</Failmsg>
+    <MaxSuccess>100</MaxSuccess>
+    <MaxTinks>1</MaxTinks>
+    <Cascade>1</Cascade>
+  </Trades>
+  <Trades>
+    <School>Cooking</School>
+    <ItemName>Vial of Verdalim Dye</ItemName>
+    <UseItem>Vial of Verdalim Dye</UseItem>
+    <OnItem>Cooking Pot</OnItem>
+    <Result>Verdalim Dye Pot</Result>
+    <Succesmsg>You boil the dye</Succesmsg>
+    <Failmsg>You fail</Failmsg>
+    <MaxSuccess>100</MaxSuccess>
+    <MaxTinks>1</MaxTinks>
+    <Cascade>1</Cascade>
+  </Trades>
+  <Trades>
+    <School>Cooking</School>
+    <ItemName>Verdalim Dye Pot</ItemName>
+    <UseItem>Verdalim Dye Pot</UseItem>
+    <OnItem>33</OnItem>
+    <Result>0</Result>
+    <Succesmsg>You apply the dye</Succesmsg>
+    <Failmsg>You fail</Failmsg>
+    <MaxSuccess>100</MaxSuccess>
+    <MaxTinks>1</MaxTinks>
+    <Cascade>0</Cascade>
+  </Trades>
+  <Trades>
+    <School>Cooking</School>
+    <ItemName>Thananim Dye Pot</ItemName>
+    <UseItem>Thananim Dye Pot</UseItem>
+    <OnItem>33</OnItem>
+    <Result>0</Result>
+    <Succesmsg>You apply the dye</Succesmsg>
+    <Failmsg>You fail</Failmsg>
+    <MaxSuccess>100</MaxSuccess>
+    <MaxTinks>1</MaxTinks>
+    <Cascade>0</Cascade>
+  </Trades>
+  <Trades>
+    <School>Cooking</School>
+    <ItemName>Renalim Dye Pot</ItemName>
+    <UseItem>Renalim Dye Pot</UseItem>
+    <OnItem>33</OnItem>
+    <Result>0</Result>
+    <Succesmsg>You apply the dye</Succesmsg>
+    <Failmsg>You fail</Failmsg>
+    <MaxSuccess>100</MaxSuccess>
+    <MaxTinks>1</MaxTinks>
+    <Cascade>0</Cascade>
+  </Trades>
+  <Trades>
+    <School>Cooking</School>
+    <ItemName>Minalim Dye Pot</ItemName>
+    <UseItem>Minalim Dye Pot</UseItem>
+    <OnItem>33</OnItem>
+    <Result>0</Result>
+    <Succesmsg>You apply the dye</Succesmsg>
+    <Failmsg>You fail</Failmsg>
+    <MaxSuccess>100</MaxSuccess>
+    <MaxTinks>1</MaxTinks>
+    <Cascade>0</Cascade>
+  </Trades>
+  <Trades>
+    <School>Cooking</School>
+    <ItemName>Lapyan Dye Pot</ItemName>
+    <UseItem>Lapyan Dye Pot</UseItem>
+    <OnItem>33</OnItem>
+    <Result>0</Result>
+    <Succesmsg>You apply the dye</Succesmsg>
+    <Failmsg>You fail</Failmsg>
+    <MaxSuccess>100</MaxSuccess>
+    <MaxTinks>1</MaxTinks>
+    <Cascade>0</Cascade>
+  </Trades>
+  <Trades>
+    <School>Cooking</School>
+    <ItemName>Hennacin Dye Pot</ItemName>
+    <UseItem>Hennacin Dye Pot</UseItem>
+    <OnItem>33</OnItem>
+    <Result>0</Result>
+    <Succesmsg>You apply the dye</Succesmsg>
+    <Failmsg>You fail</Failmsg>
+    <MaxSuccess>100</MaxSuccess>
+    <MaxTinks>1</MaxTinks>
+    <Cascade>0</Cascade>
+  </Trades>
+  <Trades>
+    <School>Cooking</School>
+    <ItemName>Colban Dye Pot</ItemName>
+    <UseItem>Colban Dye Pot</UseItem>
+    <OnItem>33</OnItem>
+    <Result>0</Result>
+    <Succesmsg>You apply the dye</Succesmsg>
+    <Failmsg>You fail</Failmsg>
+    <MaxSuccess>100</MaxSuccess>
+    <MaxTinks>1</MaxTinks>
+    <Cascade>0</Cascade>
+  </Trades>
+  <Trades>
+    <School>Cooking</School>
+    <ItemName>Berimphur Dye Pot</ItemName>
+    <UseItem>Berimphur Dye Pot</UseItem>
+    <OnItem>33</OnItem>
+    <Result>0</Result>
+    <Succesmsg>You apply the dye</Succesmsg>
+    <Failmsg>You fail</Failmsg>
+    <MaxSuccess>100</MaxSuccess>
+    <MaxTinks>1</MaxTinks>
+    <Cascade>0</Cascade>
+  </Trades>
+  <Trades>
+    <School>Cooking</School>
+    <ItemName>Argenory Dye Pot</ItemName>
+    <UseItem>Argenory Dye Pot</UseItem>
+    <OnItem>33</OnItem>
+    <Result>0</Result>
+    <Succesmsg>You apply the dye</Succesmsg>
+    <Failmsg>You fail</Failmsg>
+    <MaxSuccess>100</MaxSuccess>
+    <MaxTinks>1</MaxTinks>
+    <Cascade>0</Cascade>
+  </Trades>
+  <Trades>
+    <School>Lockpick</School>
+    <ItemName>Twisted Dark Key</ItemName>
+    <UseItem>Intricate Carving Tool</UseItem>
+    <OnItem>Twisted Dark Key</OnItem>
+    <Result>Marble Key</Result>
+    <Succesmsg>You effortlessly realign the twisted key</Succesmsg>
+    <Failmsg>You apply too much pressure </Failmsg>
+    <MaxSuccess>100</MaxSuccess>
+    <MaxTinks>1</MaxTinks>
+    <Cascade>0</Cascade>
+  </Trades>
+  <Trades>
+    <School>Lockpick</School>
+    <ItemName>Mangled Dark Key</ItemName>
+    <UseItem>Intricate Carving Tool</UseItem>
+    <OnItem>Mangled Dark Key</OnItem>
+    <Result>Granite Key</Result>
+    <Succesmsg>You carefully adjust the teeth on the mangled key</Succesmsg>
+    <Failmsg>The rigid key snaps under the pressure of your adjustment</Failmsg>
+    <MaxSuccess>100</MaxSuccess>
+    <MaxTinks>1</MaxTinks>
+    <Cascade>0</Cascade>
+  </Trades>
+  <Trades>
+    <School>Lockpick</School>
+    <ItemName>Obsidian Heart</ItemName>
+    <UseItem>Intricate Carving Tool</UseItem>
+    <OnItem>Obsidian Heart</OnItem>
+    <Result>Intricate Obsidian Key</Result>
+    <Succesmsg>You successfully carve three Intricate Obsidian Keys</Succesmsg>
+    <Failmsg>You fail</Failmsg>
+    <MaxSuccess>100</MaxSuccess>
+    <MaxTinks>1</MaxTinks>
+    <Cascade>0</Cascade>
+  </Trades>
+  <Trades>
+    <School>Lockpick</School>
+    <ItemName>Coral Heart</ItemName>
+    <UseItem>Intricate Carving Tool</UseItem>
+    <OnItem>Coral Heart</OnItem>
+    <Result>Sturdy Steel Keyring</Result>
+    <Succesmsg>You make</Succesmsg>
+    <Failmsg>You fail</Failmsg>
+    <MaxSuccess>100</MaxSuccess>
+    <MaxTinks>1</MaxTinks>
+    <Cascade>0</Cascade>
+  </Trades>
+  <Trades>
+    <School>ItemTink</School>
+    <ItemName>Salvaged Pine (100)</ItemName>
+    <UseItem>Salvaged Pine (100)</UseItem>
+    <OnItem>63</OnItem>
+    <Result>0</Result>
+    <Succesmsg>{playername} successfully applies</Succesmsg>
+    <Failmsg>{playername} fails to apply</Failmsg>
+    <MaxSuccess>100</MaxSuccess>
+    <MaxTinks>10</MaxTinks>
+    <Cascade>0</Cascade>
+  </Trades>
+  <Trades>
+    <School>ItemTink</School>
+    <ItemName>Salvaged Gold (100)</ItemName>
+    <UseItem>Salvaged Gold (100)</UseItem>
+    <OnItem>63</OnItem>
+    <Result>0</Result>
+    <Succesmsg>{playername} successfully applies</Succesmsg>
+    <Failmsg>{playername} fails to apply</Failmsg>
+    <MaxSuccess>100</MaxSuccess>
+    <MaxTinks>10</MaxTinks>
+    <Cascade>0</Cascade>
+  </Trades>
+  <Trades>
+    <School>ItemTink</School>
+    <ItemName>Salvaged Porcelain (100)</ItemName>
+    <UseItem>Salvaged Porcelain (100)</UseItem>
+    <OnItem>63</OnItem>
+    <Result>0</Result>
+    <Succesmsg>{playername} successfully applies</Succesmsg>
+    <Failmsg>{playername} fails to apply</Failmsg>
+    <MaxSuccess>100</MaxSuccess>
+    <MaxTinks>1</MaxTinks>
+    <Cascade>0</Cascade>
+  </Trades>
+  <Trades>
+    <School>ArmorTink</School>
+    <ItemName>Salvaged Steel (100)</ItemName>
+    <UseItem>Salvaged Steel (100)</UseItem>
+    <OnItem>1</OnItem>
+    <Result>0</Result>
+    <Succesmsg>{playername} successfully applies</Succesmsg>
+    <Failmsg>{playername} fails to apply</Failmsg>
+    <MaxSuccess>100</MaxSuccess>
+    <MaxTinks>10</MaxTinks>
+    <Cascade>0</Cascade>
+  </Trades>
+  <Trades>
+    <School>WeaponTink</School>
+    <ItemName>Salvaged Mahogany (100)</ItemName>
+    <UseItem>Salvaged Mahogany (100)</UseItem>
+    <OnItem>16</OnItem>
+    <Result>0</Result>
+    <Succesmsg>{playername} successfully applies</Succesmsg>
+    <Failmsg>{playername} fails to apply</Failmsg>
+    <MaxSuccess>100</MaxSuccess>
+    <MaxTinks>10</MaxTinks>
+    <Cascade>0</Cascade>
+  </Trades>
+  <Trades>
+    <School>WeaponTink</School>
+    <ItemName>Salvaged Brass (100)</ItemName>
+    <UseItem>Salvaged Brass (100)</UseItem>
+    <OnItem>24</OnItem>
+    <Result>0</Result>
+    <Succesmsg>{playername} successfully applies</Succesmsg>
+    <Failmsg>{playername} fails to apply</Failmsg>
+    <MaxSuccess>100</MaxSuccess>
+    <MaxTinks>10</MaxTinks>
+    <Cascade>0</Cascade>
+  </Trades>
+  <Trades>
+    <School>WeaponTink</School>
+    <ItemName>Salvaged Iron (100)</ItemName>
+    <UseItem>Salvaged Iron (100)</UseItem>
+    <OnItem>8</OnItem>
+    <Result>0</Result>
+    <Succesmsg>{playername} successfully applies</Succesmsg>
+    <Failmsg>{playername} fails to apply</Failmsg>
+    <MaxSuccess>100</MaxSuccess>
+    <MaxTinks>10</MaxTinks>
+    <Cascade>0</Cascade>
+  </Trades>
+  <Trades>
+    <School>WeaponTink</School>
+    <ItemName>Salvaged Granite (100)</ItemName>
+    <UseItem>Salvaged Granite (100)</UseItem>
+    <OnItem>8</OnItem>
+    <Result>0</Result>
+    <Succesmsg>{playername} successfully applies</Succesmsg>
+    <Failmsg>{playername} fails to apply</Failmsg>
+    <MaxSuccess>100</MaxSuccess>
+    <MaxTinks>10</MaxTinks>
+    <Cascade>0</Cascade>
+  </Trades>
+ 
+  <Trades>
+    <School>ArmorTink</School>
+    <ItemName>Salvaged Alabaster (100)</ItemName>
+    <UseItem>Salvaged Alabaster (100)</UseItem>
+    <OnItem>1</OnItem>
+    <Result>0</Result>
+    <Succesmsg>{playername} successfully applies</Succesmsg>
+    <Failmsg>{playername} fails to apply</Failmsg>
+    <MaxSuccess>100</MaxSuccess>
+    <MaxTinks>10</MaxTinks>
+    <Cascade>0</Cascade>
+  </Trades>
+  <Trades>
+    <School>ArmorTink</School>
+    <ItemName>Salvaged Armoredillo Hide (100)</ItemName>
+    <UseItem>Salvaged Armoredillo Hide (100)</UseItem>
+    <OnItem>1</OnItem>
+    <Result>0</Result>
+    <Succesmsg>{playername} successfully applies</Succesmsg>
+    <Failmsg>{playername} fails to apply</Failmsg>
+    <MaxSuccess>100</MaxSuccess>
+    <MaxTinks>10</MaxTinks>
+    <Cascade>0</Cascade>
+  </Trades>
+  <Trades>
+    <School>ArmorTink</School>
+    <ItemName>Salvaged Bronze (100)</ItemName>
+    <UseItem>Salvaged Bronze (100)</UseItem>
+    <OnItem>1</OnItem>
+    <Result>0</Result>
+    <Succesmsg>{playername} successfully applies</Succesmsg>
+    <Failmsg>{playername} fails to apply</Failmsg>
+    <MaxSuccess>100</MaxSuccess>
+    <MaxTinks>10</MaxTinks>
+    <Cascade>0</Cascade>
+  </Trades>
+  <Trades>
+    <School>ArmorTink</School>
+    <ItemName>Salvaged Ceramic (100)</ItemName>
+    <UseItem>Salvaged Ceramic (100)</UseItem>
+    <OnItem>1</OnItem>
+    <Result>0</Result>
+    <Succesmsg>{playername} successfully applies</Succesmsg>
+    <Failmsg>{playername} fails to apply</Failmsg>
+    <MaxSuccess>100</MaxSuccess>
+    <MaxTinks>10</MaxTinks>
+    <Cascade>0</Cascade>
+  </Trades>
+
+  <Trades>
+    <School>MagicItemTink</School>
+    <ItemName>Salvaged Opal (100)</ItemName>
+    <UseItem>Salvaged Opal (100)</UseItem>
+    <OnItem>2</OnItem>
+    <Result>0</Result>
+    <Succesmsg>{playername} successfully applies</Succesmsg>
+    <Failmsg>{playername} fails to apply</Failmsg>
+    <MaxSuccess>100</MaxSuccess>
+    <MaxTinks>10</MaxTinks>
+    <Cascade>0</Cascade>
+  </Trades>
+  
+  <Trades>
+    <School>MagicItemTink</School>
+    <ItemName>Salvaged Green Garnet (100)</ItemName>
+    <UseItem>Salvaged Green Garnet (100)</UseItem>
+    <OnItem>2</OnItem>
+    <Result>0</Result>
+    <Succesmsg>{playername} successfully applies</Succesmsg>
+    <Failmsg>{playername} fails to apply</Failmsg>
+    <MaxSuccess>100</MaxSuccess>
+    <MaxTinks>10</MaxTinks>
+    <Cascade>0</Cascade>
+  </Trades>
+
+  <Trades>
+    <School>MagicItemTink</School>
+    <ItemName>Salvaged Black Opal (100)</ItemName>
+    <UseItem>Salvaged Black Opal (100)</UseItem>
+    <OnItem>26</OnItem>
+    <Result>0</Result>
+    <Succesmsg>{playername} successfully applies</Succesmsg>
+    <Failmsg>{playername} fails to apply</Failmsg>
+    <MaxSuccess>33</MaxSuccess>
+    <MaxTinks>1</MaxTinks>
+    <Cascade>0</Cascade>
+  </Trades>
+
+  <Trades>
+    <School>MagicItemTink</School>
+    <ItemName>Salvaged Fire Opal (100)</ItemName>
+    <UseItem>Salvaged Fire Opal (100)</UseItem>
+    <OnItem>26</OnItem>
+    <Result>0</Result>
+    <Succesmsg>{playername} successfully applies</Succesmsg>
+    <Failmsg>{playername} fails to apply</Failmsg>
+    <MaxSuccess>33</MaxSuccess>
+    <MaxTinks>1</MaxTinks>
+    <Cascade>0</Cascade>
+  </Trades>
+  <Trades>
+    <School>MagicItemTink</School>
+    <ItemName>Salvaged Sunstone (100)</ItemName>
+    <UseItem>Salvaged Sunstone (100)</UseItem>
+    <OnItem>24</OnItem>
+    <Result>0</Result>
+    <Succesmsg>{playername} successfully applies</Succesmsg>
+    <Failmsg>{playername} fails to apply</Failmsg>
+    <MaxSuccess>33</MaxSuccess>
+    <MaxTinks>1</MaxTinks>
+    <Cascade>0</Cascade>
+  </Trades>
+  <Trades>
+    <School>MagicItemTink</School>
+    <ItemName>Salvaged Agate (100)</ItemName>
+    <UseItem>Salvaged Agate (100)</UseItem>
+    <OnItem>4</OnItem>
+    <Result>0</Result>
+    <Succesmsg>{playername} successfully applies</Succesmsg>
+    <Failmsg>{playername} fails to apply</Failmsg>
+    <MaxSuccess>33</MaxSuccess>
+    <MaxTinks>1</MaxTinks>
+    <Cascade>0</Cascade>
+  </Trades>
+  <Trades>
+    <School>WeaponTink</School>
+    <ItemName>Salvaged Aquamarine (100)</ItemName>
+    <UseItem>Salvaged Aquamarine (100)</UseItem>
+    <OnItem>26</OnItem>
+    <Result>0</Result>
+    <Succesmsg>{playername} successfully applies</Succesmsg>
+    <Failmsg>{playername} fails to apply</Failmsg>
+    <MaxSuccess>33</MaxSuccess>
+    <MaxTinks>1</MaxTinks>
+    <Cascade>0</Cascade>
+  </Trades>
+  <Trades>
+    <School>WeaponTink</School>
+    <ItemName>Salvaged Black Garnet (100)</ItemName>
+    <UseItem>Salvaged Black Garnet (100)</UseItem>
+    <OnItem>26</OnItem>
+    <Result>0</Result>
+    <Succesmsg>{playername} successfully applies</Succesmsg>
+    <Failmsg>{playername} fails to apply</Failmsg>
+    <MaxSuccess>33</MaxSuccess>
+    <MaxTinks>1</MaxTinks>
+    <Cascade>0</Cascade>
+  </Trades>
+  <Trades>
+    <School>MagicItemTink</School>
+    <ItemName>Salvaged Bloodstone (100)</ItemName>
+    <UseItem>Salvaged Bloodstone (100)</UseItem>
+    <OnItem>4</OnItem>
+    <Result>0</Result>
+    <Succesmsg>{playername} successfully applies</Succesmsg>
+    <Failmsg>{playername} fails to apply</Failmsg>
+    <MaxSuccess>33</MaxSuccess>
+    <MaxTinks>1</MaxTinks>
+    <Cascade>0</Cascade>
+  </Trades>
+  <Trades>
+    <School>WeaponTink</School>
+    <ItemName>Salvaged Emerald (100)</ItemName>
+    <UseItem>Salvaged Emerald (100)</UseItem>
+    <OnItem>26</OnItem>
+    <Result>0</Result>
+    <Succesmsg>{playername} successfully applies</Succesmsg>
+    <Failmsg>{playername} fails to apply</Failmsg>
+    <MaxSuccess>33</MaxSuccess>
+    <MaxTinks>1</MaxTinks>
+    <Cascade>0</Cascade>
+  </Trades>
+  <Trades>
+    <School>MagicItemTink</School>
+    <ItemName>Salvaged Hematite (100)</ItemName>
+    <UseItem>Salvaged Hematite (100)</UseItem>
+    <OnItem>4</OnItem>
+    <Result>0</Result>
+    <Succesmsg>{playername} successfully applies</Succesmsg>
+    <Failmsg>{playername} fails to apply</Failmsg>
+    <MaxSuccess>33</MaxSuccess>
+    <MaxTinks>1</MaxTinks>
+    <Cascade>0</Cascade>
+  </Trades>
+  <Trades>
+    <School>WeaponTink</School>
+    <ItemName>Salvaged Jet (100)</ItemName>
+    <UseItem>Salvaged Jet (100)</UseItem>
+    <OnItem>26</OnItem>
+    <Result>0</Result>
+    <Succesmsg>{playername} successfully applies</Succesmsg>
+    <Failmsg>{playername} fails to apply</Failmsg>
+    <MaxSuccess>33</MaxSuccess>
+    <MaxTinks>1</MaxTinks>
+    <Cascade>0</Cascade>
+  </Trades>
+  <Trades>
+    <School>WeaponTink</School>
+    <ItemName>Salvaged Imperial Topaz (100)</ItemName>
+    <UseItem>Salvaged Imperial Topaz (100)</UseItem>
+    <OnItem>26</OnItem>
+    <Result>0</Result>
+    <Succesmsg>{playername} successfully applies</Succesmsg>
+    <Failmsg>{playername} fails to apply</Failmsg>
+    <MaxSuccess>33</MaxSuccess>
+    <MaxTinks>1</MaxTinks>
+    <Cascade>0</Cascade>
+  </Trades>
+  <Trades>
+    <School>MagicItemTink</School>
+    <ItemName>Salvaged Lapis Lazuli (100)</ItemName>
+    <UseItem>Salvaged Lapis Lazuli (100)</UseItem>
+    <OnItem>4</OnItem>
+    <Result>0</Result>
+    <Succesmsg>{playername} successfully applies</Succesmsg>
+    <Failmsg>{playername} fails to apply</Failmsg>
+    <MaxSuccess>33</MaxSuccess>
+    <MaxTinks>1</MaxTinks>
+    <Cascade>0</Cascade>
+  </Trades>
+  <Trades>
+    <School>WeaponTink</School>
+    <ItemName>Salvaged Red Garnet (100)</ItemName>
+    <UseItem>Salvaged Red Garnet (100)</UseItem>
+    <OnItem>26</OnItem>
+    <Result>0</Result>
+    <Succesmsg>{playername} successfully applies</Succesmsg>
+    <Failmsg>{playername} fails to apply</Failmsg>
+    <MaxSuccess>33</MaxSuccess>
+    <MaxTinks>1</MaxTinks>
+    <Cascade>0</Cascade>
+  </Trades>
+  <Trades>
+    <School>MagicItemTink</School>
+    <ItemName>Salvaged Smokey Quartz (100)</ItemName>
+    <UseItem>Salvaged Smokey Quartz (100)</UseItem>
+    <OnItem>4</OnItem>
+    <Result>0</Result>
+    <Succesmsg>{playername} successfully applies</Succesmsg>
+    <Failmsg>{playername} fails to apply</Failmsg>
+    <MaxSuccess>33</MaxSuccess>
+    <MaxTinks>1</MaxTinks>
+    <Cascade>0</Cascade>
+  </Trades>
+  <Trades>
+    <School>WeaponTink</School>
+    <ItemName>Salvaged White Sapphire (100)</ItemName>
+    <UseItem>Salvaged White Sapphire (100)</UseItem>
+    <OnItem>26</OnItem>
+    <Result>0</Result>
+    <Succesmsg>{playername} successfully applies</Succesmsg>
+    <Failmsg>{playername} fails to apply</Failmsg>
+    <MaxSuccess>33</MaxSuccess>
+    <MaxTinks>1</MaxTinks>
+    <Cascade>0</Cascade>
+  </Trades>
+  <Trades>
+    <School>MagicItemTink</School>
+    <ItemName>Salvaged Azurite (100)</ItemName>
+    <UseItem>Salvaged Azurite (100)</UseItem>
+    <OnItem>4</OnItem>
+    <Result>0</Result>
+    <Succesmsg>{playername} successfully applies</Succesmsg>
+    <Failmsg>{playername} fails to apply</Failmsg>
+    <MaxSuccess>33</MaxSuccess>
+    <MaxTinks>1</MaxTinks>
+    <Cascade>0</Cascade>
+  </Trades>
+  <Trades>
+    <School>MagicItemTink</School>
+    <ItemName>Salvaged Carnelian (100)</ItemName>
+    <UseItem>Salvaged Carnelian (100)</UseItem>
+    <OnItem>4</OnItem>
+    <Result>0</Result>
+    <Succesmsg>{playername} successfully applies</Succesmsg>
+    <Failmsg>{playername} fails to apply</Failmsg>
+    <MaxSuccess>33</MaxSuccess>
+    <MaxTinks>1</MaxTinks>
+    <Cascade>0</Cascade>
+  </Trades>
+  <Trades>
+    <School>ItemTink</School>
+    <ItemName>Salvaged Copper (100)</ItemName>
+    <UseItem>Salvaged Copper (100)</UseItem>
+    <OnItem>63</OnItem>
+    <Result>0</Result>
+    <Succesmsg>{playername} successfully applies</Succesmsg>
+    <Failmsg>{playername} fails to apply</Failmsg>
+    <MaxSuccess>100</MaxSuccess>
+    <MaxTinks>1</MaxTinks>
+    <Cascade>0</Cascade>
+  </Trades>
+  <Trades>
+    <School>ItemTink</School>
+    <ItemName>Salvaged Ebony (100)</ItemName>
+    <UseItem>Salvaged Ebony (100)</UseItem>
+    <OnItem>63</OnItem>
+    <Result>0</Result>
+    <Succesmsg>{playername} successfully applies</Succesmsg>
+    <Failmsg>{playername} fails to apply</Failmsg>
+    <MaxSuccess>100</MaxSuccess>
+    <MaxTinks>1</MaxTinks>
+    <Cascade>0</Cascade>
+  </Trades>
+  <Trades>
+    <School>MagicItemTink</School>
+    <ItemName>Salvaged Lavender Jade (100)</ItemName>
+    <UseItem>Salvaged Lavender Jade (100)</UseItem>
+    <OnItem>4</OnItem>
+    <Result>0</Result>
+    <Succesmsg>{playername} successfully applies</Succesmsg>
+    <Failmsg>{playername} fails to apply</Failmsg>
+    <MaxSuccess>33</MaxSuccess>
+    <MaxTinks>1</MaxTinks>
+    <Cascade>0</Cascade>
+  </Trades>
+  <Trades>
+    <School>ItemTink</School>
+    <ItemName>Salvaged Linen (100)</ItemName>
+    <UseItem>Salvaged Linen (100)</UseItem>
+    <OnItem>63</OnItem>
+    <Result>0</Result>
+    <Succesmsg>{playername} successfully applies</Succesmsg>
+    <Failmsg>{playername} fails to apply</Failmsg>
+    <MaxSuccess>100</MaxSuccess>
+    <MaxTinks>10</MaxTinks>
+    <Cascade>0</Cascade>
+  </Trades>
+  <Trades>
+    <School>MagicItemTink</School>
+    <ItemName>Salvaged Malachite (100)</ItemName>
+    <UseItem>Salvaged Malachite (100)</UseItem>
+    <OnItem>4</OnItem>
+    <Result>0</Result>
+    <Succesmsg>{playername} successfully applies</Succesmsg>
+    <Failmsg>{playername} fails to apply</Failmsg>
+    <MaxSuccess>33</MaxSuccess>
+    <MaxTinks>1</MaxTinks>
+    <Cascade>0</Cascade>
+  </Trades>
+  <Trades>
+    <School>ArmorTink</School>
+    <ItemName>Salvaged Marble (100)</ItemName>
+    <UseItem>Salvaged Marble (100)</UseItem>
+    <OnItem>1</OnItem>
+    <Result>0</Result>
+    <Succesmsg>{playername} successfully applies</Succesmsg>
+    <Failmsg>{playername} fails to apply</Failmsg>
+    <MaxSuccess>100</MaxSuccess>
+    <MaxTinks>10</MaxTinks>
+    <Cascade>0</Cascade>
+  </Trades>
+  <Trades>
+    <School>MagicItemTink</School>
+    <ItemName>Salvaged Moonstone (100)</ItemName>
+    <UseItem>Salvaged Moonstone (100)</UseItem>
+    <OnItem>4</OnItem>
+    <Result>0</Result>
+    <Succesmsg>{playername} successfully applies</Succesmsg>
+    <Failmsg>{playername} fails to apply</Failmsg>
+    <MaxSuccess>33</MaxSuccess>
+    <MaxTinks>1</MaxTinks>
+    <Cascade>0</Cascade>
+  </Trades>
+  <Trades>
+    <School>WeaponTink</School>
+    <ItemName>Salvaged Oak (100)</ItemName>
+    <UseItem>Salvaged Oak (100)</UseItem>
+    <OnItem>8</OnItem>
+    <Result>0</Result>
+    <Succesmsg>{playername} successfully applies</Succesmsg>
+    <Failmsg>{playername} fails to apply</Failmsg>
+    <MaxSuccess>100</MaxSuccess>
+    <MaxTinks>10</MaxTinks>
+    <Cascade>0</Cascade>
+  </Trades>
+  <Trades>
+    <School>MagicItemTink</School>
+    <ItemName>Salvaged Red Jade (100)</ItemName>
+    <UseItem>Salvaged Red Jade (100)</UseItem>
+    <OnItem>4</OnItem>
+    <Result>0</Result>
+    <Succesmsg>{playername} successfully applies</Succesmsg>
+    <Failmsg>{playername} fails to apply</Failmsg>
+    <MaxSuccess>33</MaxSuccess>
+    <MaxTinks>1</MaxTinks>
+    <Cascade>0</Cascade>
+  </Trades>
+  <Trades>
+    <School>ArmorTink</School>
+    <ItemName>Salvaged Reedshark Hide (100)</ItemName>
+    <UseItem>Salvaged Reedshark Hide (100)</UseItem>
+    <OnItem>1</OnItem>
+    <Result>0</Result>
+    <Succesmsg>{playername} successfully applies</Succesmsg>
+    <Failmsg>{playername} fails to apply</Failmsg>
+    <MaxSuccess>100</MaxSuccess>
+    <MaxTinks>10</MaxTinks>
+    <Cascade>0</Cascade>
+  </Trades>
+  <Trades>
+    <School>MagicItemTink</School>
+    <ItemName>Salvaged Rose Quartz (100)</ItemName>
+    <UseItem>Salvaged Rose Quartz (100)</UseItem>
+    <OnItem>4</OnItem>
+    <Result>0</Result>
+    <Succesmsg>{playername} successfully applies</Succesmsg>
+    <Failmsg>{playername} fails to apply</Failmsg>
+    <MaxSuccess>33</MaxSuccess>
+    <MaxTinks>1</MaxTinks>
+    <Cascade>0</Cascade>
+  </Trades>
+  <Trades>
+    <School>ItemTink</School>
+    <ItemName>Salvaged Silk (100)</ItemName>
+    <UseItem>Salvaged Silk (100)</UseItem>
+    <OnItem>63</OnItem>
+    <Result>0</Result>
+    <Succesmsg>{playername} successfully applies</Succesmsg>
+    <Failmsg>{playername} fails to apply</Failmsg>
+    <MaxSuccess>100</MaxSuccess>
+    <MaxTinks>1</MaxTinks>
+    <Cascade>0</Cascade>
+  </Trades>
+  <Trades>
+    <School>ItemTink</School>
+    <ItemName>Salvaged Silver (100)</ItemName>
+    <UseItem>Salvaged Silver (100)</UseItem>
+    <OnItem>63</OnItem>
+    <Result>0</Result>
+    <Succesmsg>{playername} successfully applies</Succesmsg>
+    <Failmsg>{playername} fails to apply</Failmsg>
+    <MaxSuccess>100</MaxSuccess>
+    <MaxTinks>1</MaxTinks>
+    <Cascade>0</Cascade>
+  </Trades>
+  <Trades>
+    <School>ItemTink</School>
+    <ItemName>Salvaged Teak (100)</ItemName>
+    <UseItem>Salvaged Teak (100)</UseItem>
+    <OnItem>63</OnItem>
+    <Result>0</Result>
+    <Succesmsg>{playername} successfully applies</Succesmsg>
+    <Failmsg>{playername} fails to apply</Failmsg>
+    <MaxSuccess>100</MaxSuccess>
+    <MaxTinks>1</MaxTinks>
+    <Cascade>0</Cascade>
+  </Trades>
+  <Trades>
+    <School>WeaponTink</School>
+    <ItemName>Salvaged Velvet (100)</ItemName>
+    <UseItem>Salvaged Velvet (100)</UseItem>
+    <OnItem>8</OnItem>
+    <Result>0</Result>
+    <Succesmsg>{playername} successfully applies</Succesmsg>
+    <Failmsg>{playername} fails to apply</Failmsg>
+    <MaxSuccess>100</MaxSuccess>
+    <MaxTinks>10</MaxTinks>
+    <Cascade>0</Cascade>
+  </Trades>
+  <Trades>
+    <School>ArmorTink</School>
+    <ItemName>Salvaged Wool (100)</ItemName>
+    <UseItem>Salvaged Wool (100)</UseItem>
+    <OnItem>1</OnItem>
+    <Result>0</Result>
+    <Succesmsg>{playername} successfully applies</Succesmsg>
+    <Failmsg>{playername} fails to apply</Failmsg>
+    <MaxSuccess>100</MaxSuccess>
+    <MaxTinks>10</MaxTinks>
+    <Cascade>0</Cascade>
+  </Trades>
+  <Trades>
+    <School>ArmorTink</School>
+    <ItemName>Salvaged Yellow Topaz (100)</ItemName>
+    <UseItem>Salvaged Yellow Topaz (100)</UseItem>
+    <OnItem>1</OnItem>
+    <Result>0</Result>
+    <Succesmsg>{playername} successfully applies</Succesmsg>
+    <Failmsg>{playername} fails to apply</Failmsg>
+    <MaxSuccess>33</MaxSuccess>
+    <MaxTinks>1</MaxTinks>
+    <Cascade>0</Cascade>
+  </Trades>
+  <Trades>
+    <School>ArmorTink</School>
+    <ItemName>Salvaged Zircon (100)</ItemName>
+    <UseItem>Salvaged Zircon (100)</UseItem>
+    <OnItem>1</OnItem>
+    <Result>0</Result>
+    <Succesmsg>{playername} successfully applies</Succesmsg>
+    <Failmsg>{playername} fails to apply</Failmsg>
+    <MaxSuccess>33</MaxSuccess>
+    <MaxTinks>1</MaxTinks>
+    <Cascade>0</Cascade>
+  </Trades>
+  <Trades>
+    <School>Alchemy</School>
+    <ItemName>Decanter of Essence</ItemName>
+    <UseItem>Decanter of Essence</UseItem>
+    <OnItem>Diamond Powder</OnItem>
+    <Result>Thick Diamond Oil</Result>
+    <Succesmsg>You make</Succesmsg>
+    <Failmsg>You fail</Failmsg>
+    <MaxSuccess>100</MaxSuccess>
+    <MaxTinks>1</MaxTinks>
+    <Cascade>0</Cascade>
+  </Trades>
+  <Trades>
+    <School>Alchemy</School>
+    <ItemName>Thin Diamond Oil</ItemName>
+    <UseItem>Thin Diamond Oil</UseItem>
+    <OnItem>Pyreal Ingot</OnItem>
+    <Result>Infused Pyreal Ingot</Result>
+    <Succesmsg>You make</Succesmsg>
+    <Failmsg>You fail</Failmsg>
+    <MaxSuccess>100</MaxSuccess>
+    <MaxTinks>1</MaxTinks>
+    <Cascade>0</Cascade>
+  </Trades>
+  <Trades>
+    <School>Alchemy</School>
+    <ItemName>Thick Diamond Oil</ItemName>
+    <UseItem>Thick Diamond Oil</UseItem>
+    <OnItem>Pyreal Ingot</OnItem>
+    <Result>Infused Pyreal Ingot</Result>
+    <Succesmsg>You make</Succesmsg>
+    <Failmsg>You fail</Failmsg>
+    <MaxSuccess>100</MaxSuccess>
+    <MaxTinks>1</MaxTinks>
+    <Cascade>0</Cascade>
+  </Trades>
+  <Trades>
+    <School>Alchemy</School>
+    <ItemName>Ground Chorizite</ItemName>
+    <UseItem>Ground Chorizite</UseItem>
+    <OnItem>Vitriol</OnItem>
+    <Result>Chorizite</Result>
+    <Succesmsg>You make</Succesmsg>
+    <Failmsg>You fail</Failmsg>
+    <MaxSuccess>100</MaxSuccess>
+    <MaxTinks>1</MaxTinks>
+    <Cascade>0</Cascade>
+  </Trades>
+  <Trades>
+    <School>Alchemy</School>
+    <ItemName>Brimstone Pea</ItemName>
+    <UseItem>Alembic</UseItem>
+    <OnItem>Brimstone Pea</OnItem>
+    <Result>Concentrated Acid Infusion</Result>
+    <Succesmsg>You make</Succesmsg>
+    <Failmsg>You fail</Failmsg>
+    <MaxSuccess>100</MaxSuccess>
+    <MaxTinks>1</MaxTinks>
+    <Cascade>1</Cascade>
+  </Trades>
+  <Trades>
+    <School>Alchemy</School>
+    <ItemName>Turpeth Pea</ItemName>
+    <UseItem>Alembic</UseItem>
+    <OnItem>Turpeth Pea</OnItem>
+    <Result>Concentrated Fire Infusion</Result>
+    <Succesmsg>You make</Succesmsg>
+    <Failmsg>You fail</Failmsg>
+    <MaxSuccess>100</MaxSuccess>
+    <MaxTinks>1</MaxTinks>
+    <Cascade>1</Cascade>
+  </Trades>
+  <Trades>
+    <School>Alchemy</School>
+    <ItemName>Colcothar Pea</ItemName>
+    <UseItem>Alembic</UseItem>
+    <OnItem>Colcothar Pea</OnItem>
+    <Result>Concentrated Frost Infusion</Result>
+    <Succesmsg>You make</Succesmsg>
+    <Failmsg>You fail</Failmsg>
+    <MaxSuccess>100</MaxSuccess>
+    <MaxTinks>1</MaxTinks>
+    <Cascade>1</Cascade>
+  </Trades>
+  <Trades>
+    <School>Alchemy</School>
+    <ItemName>Cobalt Pea</ItemName>
+    <UseItem>Alembic</UseItem>
+    <OnItem>Cobalt Pea</OnItem>
+    <Result>Concentrated Lightning Infusion</Result>
+    <Succesmsg>You make</Succesmsg>
+    <Failmsg>You fail</Failmsg>
+    <MaxSuccess>100</MaxSuccess>
+    <MaxTinks>1</MaxTinks>
+    <Cascade>1</Cascade>
+  </Trades>
+  <Trades>
+    <School>Alchemy</School>
+    <ItemName>Quicksilver Pea</ItemName>
+    <UseItem>Alembic</UseItem>
+    <OnItem>Quicksilver Pea</OnItem>
+    <Result>Concentrated Bloodseeker Infusion</Result>
+    <Succesmsg>You make</Succesmsg>
+    <Failmsg>You fail</Failmsg>
+    <MaxSuccess>100</MaxSuccess>
+    <MaxTinks>1</MaxTinks>
+    <Cascade>1</Cascade>
+  </Trades>
+  <Trades>
+    <School>Alchemy</School>
+    <ItemName>Vitriol Pea</ItemName>
+    <UseItem>Alembic</UseItem>
+    <OnItem>Vitriol Pea</OnItem>
+    <Result>Concentrated  Health Infusion</Result>
+    <Succesmsg>You make</Succesmsg>
+    <Failmsg>You fail</Failmsg>
+    <MaxSuccess>100</MaxSuccess>
+    <MaxTinks>1</MaxTinks>
+    <Cascade>1</Cascade>
+  </Trades>
+  <Trades>
+    <School>Alchemy</School>
+    <ItemName>Gypsum Pea</ItemName>
+    <UseItem>Alembic</UseItem>
+    <OnItem>Gypsum Pea</OnItem>
+    <Result>Concentrated Mana Infusion</Result>
+    <Succesmsg>You make</Succesmsg>
+    <Failmsg>You fail</Failmsg>
+    <MaxSuccess>100</MaxSuccess>
+    <MaxTinks>1</MaxTinks>
+    <Cascade>1</Cascade>
+  </Trades>
+  <Trades>
+    <School>Alchemy</School>
+    <ItemName>Realgar Pea</ItemName>
+    <UseItem>Alembic</UseItem>
+    <OnItem>Realgar Pea</OnItem>
+    <Result>Concentrated Victual Infusion</Result>
+    <Succesmsg>You make</Succesmsg>
+    <Failmsg>You fail</Failmsg>
+    <MaxSuccess>100</MaxSuccess>
+    <MaxTinks>1</MaxTinks>
+    <Cascade>1</Cascade>
+  </Trades>
+  <Trades>
+    <School>Alchemy</School>
+    <ItemName>Stibnite Pea</ItemName>
+    <UseItem>Alembic</UseItem>
+    <OnItem>Stibnite Pea</OnItem>
+    <Result>Concentrated Mana Infusion</Result>
+    <Succesmsg>You make</Succesmsg>
+    <Failmsg>You fail</Failmsg>
+    <MaxSuccess>100</MaxSuccess>
+    <MaxTinks>1</MaxTinks>
+    <Cascade>1</Cascade>
+  </Trades>
+  <Trades>
+    <School>Alchemy</School>
+    <ItemName>Concentrated Bloodseeker Infusion</ItemName>
+    <UseItem>Concentrated Aqua Incarta</UseItem>
+    <OnItem>Concentrated Bloodseeker Infusion</OnItem>
+    <Result>Concentrated Bloodseeker Oil</Result>
+    <Succesmsg>You make</Succesmsg>
+    <Failmsg>You fail</Failmsg>
+    <MaxSuccess>100</MaxSuccess>
+    <MaxTinks>1</MaxTinks>
+    <Cascade>0</Cascade>
+  </Trades>
+  <Trades>
+    <School>Alchemy</School>
+    <ItemName>Pyreal Bar</ItemName>
+    <UseItem>Pyreal Bar</UseItem>
+    <OnItem>Pyreal Bar</OnItem>
+    <Result>Quality Pyreal Ingot </Result>
+    <Succesmsg>You make</Succesmsg>
+    <Failmsg>You fail</Failmsg>
+    <MaxSuccess>100</MaxSuccess>
+    <MaxTinks>1</MaxTinks>
+    <Cascade>0</Cascade>
+  </Trades>
+  <SpellsSelf>
+    <SpellID>2149</SpellID>
+    <Icon>100668344</Icon>
+    <School>2</School>
+    <lv6>520</lv6>
+    <lv5>519</lv5>
+    <lv4>518</lv4>
+    <lv3>517</lv3>
+    <lv2>516</lv2>
+    <lv1>515</lv1>
+    <Name>Acid Protection </Name>
+    <SkillID />
+    <Sort>9</Sort>
+  </SpellsSelf>
+  <SpellsSelf>
+    <SpellID>2151</SpellID>
+    <Icon>100668348</Icon>
+    <School>2</School>
+    <lv6>1114</lv6>
+    <lv5>1113</lv5>
+    <lv4>1112</lv4>
+    <lv3>1111</lv3>
+    <lv2>1110</lv2>
+    <lv1>1133</lv1>
+    <Name>Blade Protection </Name>
+    <SkillID />
+    <Sort>3</Sort>
+  </SpellsSelf>
+  <SpellsSelf>
+    <SpellID>2153</SpellID>
+    <Icon>100668345</Icon>
+    <School>2</School>
+    <lv6>1023</lv6>
+    <lv5>1022</lv5>
+    <lv4>1021</lv4>
+    <lv3>1020</lv3>
+    <lv2>1019</lv2>
+    <lv1>1018</lv1>
+    <Name>Bludgeoning Protection </Name>
+    <SkillID />
+    <Sort>2</Sort>
+  </SpellsSelf>
+  <SpellsSelf>
+    <SpellID>2155</SpellID>
+    <Icon>100668292</Icon>
+    <School>2</School>
+    <lv6>1035</lv6>
+    <lv5>1034</lv5>
+    <lv4>1033</lv4>
+    <lv3>1032</lv3>
+    <lv2>1031</lv2>
+    <lv1>1030</lv1>
+    <Name>Cold Protection </Name>
+    <SkillID />
+    <Sort>9</Sort>
+  </SpellsSelf>
+  <SpellsSelf>
+    <SpellID>2157</SpellID>
+    <Icon>100668291</Icon>
+    <School>2</School>
+    <lv6>1094</lv6>
+    <lv5>1093</lv5>
+    <lv4>1092</lv4>
+    <lv3>1091</lv3>
+    <lv2>1090</lv2>
+    <lv1>20</lv1>
+    <Name>Fire Protection </Name>
+    <SkillID />
+    <Sort>9</Sort>
+  </SpellsSelf>
+  <SpellsSelf>
+    <SpellID>2159</SpellID>
+    <Icon>100668346</Icon>
+    <School>2</School>
+    <lv6>1071</lv6>
+    <lv5>1070</lv5>
+    <lv4>1069</lv4>
+    <lv3>1068</lv3>
+    <lv2>1067</lv2>
+    <lv1>1066</lv1>
+    <Name>Lightning Protection </Name>
+    <SkillID />
+    <Sort>9</Sort>
+  </SpellsSelf>
+  <SpellsSelf>
+    <SpellID>2161</SpellID>
+    <Icon>100668347</Icon>
+    <School>2</School>
+    <lv6>1138</lv6>
+    <lv5>1137</lv5>
+    <lv4>1136</lv4>
+    <lv3>1135</lv3>
+    <lv2>1134</lv2>
+    <lv1>1133</lv1>
+    <Name>Piercing Protection </Name>
+    <SkillID />
+    <Sort>4</Sort>
+  </SpellsSelf>
+  <SpellsSelf>
+    <SpellID>2183</SpellID>
+    <Icon>100668288</Icon>
+    <School>2</School>
+    <lv6>217</lv6>
+    <lv5>216</lv5>
+    <lv4>215</lv4>
+    <lv3>214</lv3>
+    <lv2>213</lv2>
+    <lv1>212</lv1>
+    <Name>Mana Renewal </Name>
+    <SkillID />
+    <Sort>9</Sort>
+  </SpellsSelf>
+  <SpellsSelf>
+    <SpellID>2185</SpellID>
+    <Icon>100668279</Icon>
+    <School>2</School>
+    <lv6>170</lv6>
+    <lv5>169</lv5>
+    <lv4>168</lv4>
+    <lv3>167</lv3>
+    <lv2>166</lv2>
+    <lv1>165</lv1>
+    <Name>Regeneration </Name>
+    <SkillID />
+    <Sort>9</Sort>
+  </SpellsSelf>
+  <SpellsSelf>
+    <SpellID>2187</SpellID>
+    <Icon>100668299</Icon>
+    <School>2</School>
+    <lv6>193</lv6>
+    <lv5>192</lv5>
+    <lv4>191</lv4>
+    <lv3>190</lv3>
+    <lv2>189</lv2>
+    <lv1>54</lv1>
+    <Name>Rejuvenation </Name>
+    <SkillID />
+    <Sort>9</Sort>
+  </SpellsSelf>
+  <SpellsSelf>
+    <SpellID>2053</SpellID>
+    <Icon>100668293</Icon>
+    <School>2</School>
+    <lv6>1312</lv6>
+    <lv5>1311</lv5>
+    <lv4>1310</lv4>
+    <lv3>1309</lv3>
+    <lv2>1308</lv2>
+    <lv1>24</lv1>
+    <Name>Armor </Name>
+    <SkillID />
+    <Sort>1</Sort>
+  </SpellsSelf>
+  <SpellsSelf>
+    <SpellID>2092</SpellID>
+    <Icon>100673969</Icon>
+    <School>3</School>
+    <lv6>1498</lv6>
+    <lv5>1497</lv5>
+    <lv4>1496</lv4>
+    <lv3>1495</lv3>
+    <lv2>1494</lv2>
+    <lv1>1493</lv1>
+    <Name>Acid Bane</Name>
+    <SkillID />
+    <Sort>9</Sort>
+  </SpellsSelf>
+  <SpellsSelf>
+    <SpellID>2094</SpellID>
+    <Icon>100673872</Icon>
+    <School>3</School>
+    <lv6>1562</lv6>
+    <lv5>1561</lv5>
+    <lv4>1560</lv4>
+    <lv3>1559</lv3>
+    <lv2>1558</lv2>
+    <lv1>37</lv1>
+    <Name>Blade Bane</Name>
+    <SkillID />
+    <Sort>9</Sort>
+  </SpellsSelf>
+  <SpellsSelf>
+    <SpellID>2096</SpellID>
+    <Icon>100673986</Icon>
+    <School>3</School>
+    <lv6>1616</lv6>
+    <lv5>1615</lv5>
+    <lv4>1614</lv4>
+    <lv3>1613</lv3>
+    <lv2>1612</lv2>
+    <lv1>35</lv1>
+    <Name>Blood Drinker</Name>
+    <SkillID />
+    <Sort>9</Sort>
+  </SpellsSelf>
+  <SpellsSelf>
+    <SpellID>2098</SpellID>
+    <Icon>100673873</Icon>
+    <School>3</School>
+    <lv6>1516</lv6>
+    <lv5>1515</lv5>
+    <lv4>1514</lv4>
+    <lv3>1513</lv3>
+    <lv2>1512</lv2>
+    <lv1>1511</lv1>
+    <Name>Bludgeon Bane</Name>
+    <SkillID />
+    <Sort>9</Sort>
+  </SpellsSelf>
+  <SpellsSelf>
+    <SpellID>2101</SpellID>
+    <Icon>100673988</Icon>
+    <School>3</School>
+    <lv6>1605</lv6>
+    <lv5>1604</lv5>
+    <lv4>1603</lv4>
+    <lv3>1602</lv3>
+    <lv2>1601</lv2>
+    <lv1>1599</lv1>
+    <Name>Defender</Name>
+    <SkillID />
+    <Sort>9</Sort>
+  </SpellsSelf>
+  <SpellsSelf>
+    <SpellID>2102</SpellID>
+    <Icon>100673970</Icon>
+    <School>3</School>
+    <lv6>1552</lv6>
+    <lv5>1551</lv5>
+    <lv4>1550</lv4>
+    <lv3>1549</lv3>
+    <lv2>1548</lv2>
+    <lv1>1547</lv1>
+    <Name>Flame Bane</Name>
+    <SkillID />
+    <Sort>9</Sort>
+  </SpellsSelf>
+  <SpellsSelf>
+    <SpellID>2104</SpellID>
+    <Icon>100673971</Icon>
+    <School>3</School>
+    <lv6>1528</lv6>
+    <lv5>1527</lv5>
+    <lv4>1526</lv4>
+    <lv3>1525</lv3>
+    <lv2>1524</lv2>
+    <lv1>1523</lv1>
+    <Name>Frost Bane</Name>
+    <SkillID />
+    <Sort>9</Sort>
+  </SpellsSelf>
+  <SpellsSelf>
+    <SpellID>2106</SpellID>
+    <Icon>100673989</Icon>
+    <School>3</School>
+    <lv6>1592</lv6>
+    <lv5>1591</lv5>
+    <lv4>1590</lv4>
+    <lv3>1589</lv3>
+    <lv2>1588</lv2>
+    <lv1>1587</lv1>
+    <Name>Heart Seeker</Name>
+    <SkillID />
+    <Sort>9</Sort>
+  </SpellsSelf>
+  <SpellsSelf>
+    <SpellID>2108</SpellID>
+    <Icon>100673982</Icon>
+    <School>3</School>
+    <lv6>1486</lv6>
+    <lv5>1485</lv5>
+    <lv4>1484</lv4>
+    <lv3>1483</lv3>
+    <lv2>1482</lv2>
+    <lv1>51</lv1>
+    <Name>Impenetrability</Name>
+    <SkillID />
+    <Sort>9</Sort>
+  </SpellsSelf>
+  <SpellsSelf>
+    <SpellID>2110</SpellID>
+    <Icon>100673972</Icon>
+    <School>3</School>
+    <lv6>1540</lv6>
+    <lv5>1539</lv5>
+    <lv4>1538</lv4>
+    <lv3>1537</lv3>
+    <lv2>1536</lv2>
+    <lv1>1535</lv1>
+    <Name>Lightning Bane</Name>
+    <SkillID />
+    <Sort>9</Sort>
+  </SpellsSelf>
+  <SpellsSelf>
+    <SpellID>2113</SpellID>
+    <Icon>100673973</Icon>
+    <School>3</School>
+    <lv6>1574</lv6>
+    <lv5>1573</lv5>
+    <lv4>1572</lv4>
+    <lv3>1571</lv3>
+    <lv2>1570</lv2>
+    <lv1>1569</lv1>
+    <Name>Piercing Bane</Name>
+    <SkillID />
+    <Sort>9</Sort>
+  </SpellsSelf>
+  <SpellsSelf>
+    <SpellID>2116</SpellID>
+    <Icon>100673991</Icon>
+    <School>3</School>
+    <lv6>1627</lv6>
+    <lv5>1626</lv5>
+    <lv4>1625</lv4>
+    <lv3>1624</lv3>
+    <lv2>1623</lv2>
+    <lv1>49</lv1>
+    <Name>Swift Killer</Name>
+    <SkillID />
+    <Sort>9</Sort>
+  </SpellsSelf>
+  <SpellsSelf>
+    <SpellID>2117</SpellID>
+    <Icon>100673984</Icon>
+    <School>3</School>
+    <lv6>1480</lv6>
+    <lv5>1479</lv5>
+    <lv4>1478</lv4>
+    <lv3>1477</lv3>
+    <lv2>1476</lv2>
+    <lv1>1475</lv1>
+    <Name>Mana </Name>
+    <SkillID />
+    <Sort>9</Sort>
+  </SpellsSelf>
+  <SpellsSelf>
+    <SpellID>2087</SpellID>
+    <Icon>100668300</Icon>
+    <School>4</School>
+    <lv6>1332</lv6>
+    <lv5>1331</lv5>
+    <lv4>1330</lv4>
+    <lv3>1329</lv3>
+    <lv2>1328</lv2>
+    <lv1>2</lv1>
+    <Name>Strength </Name>
+    <SkillID />
+    <Sort>1</Sort>
+  </SpellsSelf>
+  <SpellsSelf>
+    <SpellID>2091</SpellID>
+    <Icon>100668296</Icon>
+    <School>4</School>
+    <lv6>1450</lv6>
+    <lv5>1449</lv5>
+    <lv4>1448</lv4>
+    <lv3>1447</lv3>
+    <lv2>1446</lv2>
+    <lv1>1445</lv1>
+    <Name>Self</Name>
+    <SkillID />
+    <Sort>6</Sort>
+  </SpellsSelf>
+  <SpellsSelf>
+    <SpellID>2081</SpellID>
+    <Icon>100668294</Icon>
+    <School>4</School>
+    <lv6>1402</lv6>
+    <lv5>1401</lv5>
+    <lv4>1400</lv4>
+    <lv3>1399</lv3>
+    <lv2>1398</lv2>
+    <lv1>1397</lv1>
+    <Name>Quickness </Name>
+    <SkillID />
+    <Sort>4</Sort>
+  </SpellsSelf>
+  <SpellsSelf>
+    <SpellID>2059</SpellID>
+    <Icon>100668268</Icon>
+    <School>4</School>
+    <lv6>1378</lv6>
+    <lv5>1377</lv5>
+    <lv4>1376</lv4>
+    <lv3>1375</lv3>
+    <lv2>1374</lv2>
+    <lv1>1373</lv1>
+    <Name>Coordination </Name>
+    <SkillID />
+    <Sort>3</Sort>
+  </SpellsSelf>
+  <SpellsSelf>
+    <SpellID>2061</SpellID>
+    <Icon>100668273</Icon>
+    <School>4</School>
+    <lv6>1354</lv6>
+    <lv5>1353</lv5>
+    <lv4>1352</lv4>
+    <lv3>1351</lv3>
+    <lv2>1350</lv2>
+    <lv1>1349</lv1>
+    <Name>Endurance </Name>
+    <SkillID />
+    <Sort>2</Sort>
+  </SpellsSelf>
+  <SpellsSelf>
+    <SpellID>2067</SpellID>
+    <Icon>100668277</Icon>
+    <School>4</School>
+    <lv6>1426</lv6>
+    <lv5>1425</lv5>
+    <lv4>1424</lv4>
+    <lv3>1423</lv3>
+    <lv2>1422</lv2>
+    <lv1>1421</lv1>
+    <Name>Focus </Name>
+    <SkillID />
+    <Sort>5</Sort>
+  </SpellsSelf>
+  <SpellsSelf>
+    <SpellID>2191</SpellID>
+    <Icon>100670578</Icon>
+    <School>4</School>
+    <lv6>1768</lv6>
+    <lv5>1767</lv5>
+    <lv4>1766</lv4>
+    <lv3>1765</lv3>
+    <lv2>1764</lv2>
+    <lv1>1763</lv1>
+    <Name>Alchemy  </Name>
+    <SkillID>38</SkillID>
+    <Sort>9</Sort>
+  </SpellsSelf>
+  <SpellsSelf>
+    <SpellID>2195</SpellID>
+    <Icon>100668285</Icon>
+    <School>4</School>
+    <lv6>683</lv6>
+    <lv5>682</lv5>
+    <lv4>681</lv4>
+    <lv3>680</lv3>
+    <lv2>679</lv2>
+    <lv1>678</lv1>
+    <Name>Arcane Lore</Name>
+    <SkillID>14</SkillID>
+    <Sort>9</Sort>
+  </SpellsSelf>
+  <SpellsSelf>
+    <SpellID>2197</SpellID>
+    <Icon>100668352</Icon>
+    <School>4</School>
+    <lv6>707</lv6>
+    <lv5>706</lv5>
+    <lv4>705</lv4>
+    <lv3>704</lv3>
+    <lv2>703</lv2>
+    <lv1>702</lv1>
+    <Name>Armor Tinkering </Name>
+    <SkillID>29</SkillID>
+    <Sort>9</Sort>
+  </SpellsSelf>
+  <SpellsSelf>
+    <SpellID>2203</SpellID>
+    <Icon>100668265</Icon>
+    <School>4</School>
+    <lv6>303</lv6>
+    <lv5>302</lv5>
+    <lv4>301</lv4>
+    <lv3>300</lv3>
+    <lv2>299</lv2>
+    <lv1>298</lv1>
+    <Name>Axe  </Name>
+    <SkillID>1</SkillID>
+    <Sort>9</Sort>
+  </SpellsSelf>
+  <SpellsSelf>
+    <SpellID>2207</SpellID>
+    <Icon>100668266</Icon>
+    <School>4</School>
+    <lv6>472</lv6>
+    <lv5>471</lv5>
+    <lv4>470</lv4>
+    <lv3>469</lv3>
+    <lv2>468</lv2>
+    <lv1>467</lv1>
+    <Name>Bow  </Name>
+    <SkillID>2</SkillID>
+    <Sort>9</Sort>
+  </SpellsSelf>
+  <SpellsSelf>
+    <SpellID>2211</SpellID>
+    <Icon>100670579</Icon>
+    <School>4</School>
+    <lv6>1720</lv6>
+    <lv5>1719</lv5>
+    <lv4>1718</lv4>
+    <lv3>1717</lv3>
+    <lv2>1716</lv2>
+    <lv1>1715</lv1>
+    <Name>Cooking  </Name>
+    <SkillID>39</SkillID>
+    <Sort>9</Sort>
+  </SpellsSelf>
+  <SpellsSelf>
+    <SpellID>2215</SpellID>
+    <Icon>100668358</Icon>
+    <School>4</School>
+    <lv6>562</lv6>
+    <lv5>561</lv5>
+    <lv4>560</lv4>
+    <lv3>559</lv3>
+    <lv2>558</lv2>
+    <lv1>557</lv1>
+    <Name>Creature Enchantment </Name>
+    <SkillID>31</SkillID>
+    <Sort>9</Sort>
+  </SpellsSelf>
+  <SpellsSelf>
+    <SpellID>2219</SpellID>
+    <Icon>100668267</Icon>
+    <School>4</School>
+    <lv6>496</lv6>
+    <lv5>495</lv5>
+    <lv4>494</lv4>
+    <lv3>493</lv3>
+    <lv2>492</lv2>
+    <lv1>491</lv1>
+    <Name>Crossbow  </Name>
+    <SkillID>3</SkillID>
+    <Sort>9</Sort>
+  </SpellsSelf>
+  <SpellsSelf>
+    <SpellID>2223</SpellID>
+    <Icon>100668269</Icon>
+    <School>4</School>
+    <lv6>327</lv6>
+    <lv5>326</lv5>
+    <lv4>325</lv4>
+    <lv3>324</lv3>
+    <lv2>323</lv2>
+    <lv1>322</lv1>
+    <Name>Dagger  </Name>
+    <SkillID>4</SkillID>
+    <Sort>9</Sort>
+  </SpellsSelf>
+  <SpellsSelf>
+    <SpellID>2227</SpellID>
+    <Icon>100668296</Icon>
+    <School>4</School>
+    <lv6>855</lv6>
+    <lv5>854</lv5>
+    <lv4>853</lv4>
+    <lv3>852</lv3>
+    <lv2>851</lv2>
+    <lv1>850</lv1>
+    <Name>Deception  </Name>
+    <SkillID>20</SkillID>
+    <Sort>9</Sort>
+  </SpellsSelf>
+  <SpellsSelf>
+    <SpellID>2233</SpellID>
+    <Icon>100668286</Icon>
+    <School>4</School>
+    <lv6>951</lv6>
+    <lv5>950</lv5>
+    <lv4>949</lv4>
+    <lv3>948</lv3>
+    <lv2>947</lv2>
+    <lv1>946</lv1>
+    <Name>Loyalty </Name>
+    <SkillID>36</SkillID>
+    <Sort>9</Sort>
+  </SpellsSelf>
+  <SpellsSelf>
+    <SpellID>2237</SpellID>
+    <Icon>100670580</Icon>
+    <School>4</School>
+    <lv6>1744</lv6>
+    <lv5>1743</lv5>
+    <lv4>1742</lv4>
+    <lv3>1741</lv3>
+    <lv2>1740</lv2>
+    <lv1>1739</lv1>
+    <Name>Fletching  </Name>
+    <SkillID>37</SkillID>
+    <Sort>9</Sort>
+  </SpellsSelf>
+  <SpellsSelf>
+    <SpellID>2241</SpellID>
+    <Icon>100668279</Icon>
+    <School>4</School>
+    <lv6>879</lv6>
+    <lv5>878</lv5>
+    <lv4>877</lv4>
+    <lv3>876</lv3>
+    <lv2>875</lv2>
+    <lv1>874</lv1>
+    <Name>Healing  </Name>
+    <SkillID>21</SkillID>
+    <Sort>9</Sort>
+  </SpellsSelf>
+  <SpellsSelf>
+    <SpellID>2243</SpellID>
+    <Icon>100669126</Icon>
+    <School>4</School>
+    <lv6>261</lv6>
+    <lv5>260</lv5>
+    <lv4>259</lv4>
+    <lv3>258</lv3>
+    <lv2>257</lv2>
+    <lv1>256</lv1>
+    <Name>Missile Defense </Name>
+    <SkillID>7</SkillID>
+    <Sort>9</Sort>
+  </SpellsSelf>
+  <SpellsSelf>
+    <SpellID>2245</SpellID>
+    <Icon>100668331</Icon>
+    <School>4</School>
+    <lv6>249</lv6>
+    <lv5>248</lv5>
+    <lv4>247</lv4>
+    <lv3>246</lv3>
+    <lv2>245</lv2>
+    <lv1>18</lv1>
+    <Name>Melee Defense </Name>
+    <SkillID>6</SkillID>
+    <Sort>9</Sort>
+  </SpellsSelf>
+  <SpellsSelf>
+    <SpellID>2249</SpellID>
+    <Icon>100668272</Icon>
+    <School>4</School>
+    <lv6>586</lv6>
+    <lv5>585</lv5>
+    <lv4>584</lv4>
+    <lv3>583</lv3>
+    <lv2>582</lv2>
+    <lv1>581</lv1>
+    <Name>Item Enchantment </Name>
+    <SkillID>32</SkillID>
+    <Sort>9</Sort>
+  </SpellsSelf>
+  <SpellsSelf>
+    <SpellID>2251</SpellID>
+    <Icon>100668264</Icon>
+    <School>4</School>
+    <lv6>731</lv6>
+    <lv5>730</lv5>
+    <lv4>729</lv4>
+    <lv3>728</lv3>
+    <lv2>727</lv2>
+    <lv1>726</lv1>
+    <Name>Item Tinkering </Name>
+    <SkillID>18</SkillID>
+    <Sort>9</Sort>
+  </SpellsSelf>
+  <SpellsSelf>
+    <SpellID>2257</SpellID>
+    <Icon>100668282</Icon>
+    <School>4</School>
+    <lv6>975</lv6>
+    <lv5>974</lv5>
+    <lv4>973</lv4>
+    <lv3>972</lv3>
+    <lv2>971</lv2>
+    <lv1>970</lv1>
+    <Name>Jump</Name>
+    <SkillID>22</SkillID>
+    <Sort>9</Sort>
+  </SpellsSelf>
+  <SpellsSelf>
+    <SpellID>2263</SpellID>
+    <Icon>100668283</Icon>
+    <School>4</School>
+    <lv6>903</lv6>
+    <lv5>902</lv5>
+    <lv4>901</lv4>
+    <lv3>900</lv3>
+    <lv2>899</lv2>
+    <lv1>898</lv1>
+    <Name>Leadership  </Name>
+    <SkillID>35</SkillID>
+    <Sort>9</Sort>
+  </SpellsSelf>
+  <SpellsSelf>
+    <SpellID>2267</SpellID>
+    <Icon>100668337</Icon>
+    <School>4</School>
+    <lv6>610</lv6>
+    <lv5>609</lv5>
+    <lv4>608</lv4>
+    <lv3>607</lv3>
+    <lv2>606</lv2>
+    <lv1>605</lv1>
+    <Name>Life Magic </Name>
+    <SkillID>33</SkillID>
+    <Sort>9</Sort>
+  </SpellsSelf>
+  <SpellsSelf>
+    <SpellID>2271</SpellID>
+    <Icon>100668284</Icon>
+    <School>4</School>
+    <lv6>927</lv6>
+    <lv5>926</lv5>
+    <lv4>925</lv4>
+    <lv3>924</lv3>
+    <lv2>923</lv2>
+    <lv1>922</lv1>
+    <Name>Lockpick </Name>
+    <SkillID>23</SkillID>
+    <Sort>9</Sort>
+  </SpellsSelf>
+  <SpellsSelf>
+    <SpellID>2275</SpellID>
+    <Icon>100668287</Icon>
+    <School>4</School>
+    <lv6>351</lv6>
+    <lv5>350</lv5>
+    <lv4>349</lv4>
+    <lv3>348</lv3>
+    <lv2>347</lv2>
+    <lv1>346</lv1>
+    <Name>Mace </Name>
+    <SkillID>5</SkillID>
+    <Sort>9</Sort>
+  </SpellsSelf>
+  <SpellsSelf>
+    <SpellID>2277</SpellID>
+    <Icon>100668354</Icon>
+    <School>4</School>
+    <lv6>755</lv6>
+    <lv5>754</lv5>
+    <lv4>753</lv4>
+    <lv3>752</lv3>
+    <lv2>751</lv2>
+    <lv1>750</lv1>
+    <Name>Magic Item Tinkering </Name>
+    <SkillID>30</SkillID>
+    <Sort>9</Sort>
+  </SpellsSelf>
+  <SpellsSelf>
+    <SpellID>2281</SpellID>
+    <Icon>100668330</Icon>
+    <School>4</School>
+    <lv6>279</lv6>
+    <lv5>278</lv5>
+    <lv4>277</lv4>
+    <lv3>276</lv3>
+    <lv2>275</lv2>
+    <lv1>274</lv1>
+    <Name>Magic Defense </Name>
+    <SkillID>15</SkillID>
+    <Sort>9</Sort>
+  </SpellsSelf>
+  <SpellsSelf>
+    <SpellID>2287</SpellID>
+    <Icon>100668288</Icon>
+    <School>4</School>
+    <lv6>658</lv6>
+    <lv5>657</lv5>
+    <lv4>656</lv4>
+    <lv3>655</lv3>
+    <lv2>654</lv2>
+    <lv1>653</lv1>
+    <Name>Mana Conversion </Name>
+    <SkillID>16</SkillID>
+    <Sort>9</Sort>
+  </SpellsSelf>
+  <SpellsSelf>
+    <SpellID>2299</SpellID>
+    <Icon>100668297</Icon>
+    <School>4</School>
+    <lv6>375</lv6>
+    <lv5>374</lv5>
+    <lv4>373</lv4>
+    <lv3>372</lv3>
+    <lv2>371</lv2>
+    <lv1>370</lv1>
+    <Name>Spear </Name>
+    <SkillID>9</SkillID>
+    <Sort>9</Sort>
+  </SpellsSelf>
+  <SpellsSelf>
+    <SpellID>2301</SpellID>
+    <Icon>100668295</Icon>
+    <School>4</School>
+    <lv6>987</lv6>
+    <lv5>986</lv5>
+    <lv4>985</lv4>
+    <lv3>984</lv3>
+    <lv2>983</lv2>
+    <lv1>982</lv1>
+    <Name>Run </Name>
+    <SkillID>24</SkillID>
+    <Sort>9</Sort>
+  </SpellsSelf>
+  <SpellsSelf>
+    <SpellID>2305</SpellID>
+    <Icon>100668298</Icon>
+    <School>4</School>
+    <lv6>399</lv6>
+    <lv5>398</lv5>
+    <lv4>397</lv4>
+    <lv3>396</lv3>
+    <lv2>395</lv2>
+    <lv1>394</lv1>
+    <Name>Staff  </Name>
+    <SkillID>10</SkillID>
+    <Sort>9</Sort>
+  </SpellsSelf>
+  <SpellsSelf>
+    <SpellID>2309</SpellID>
+    <Icon>100668302</Icon>
+    <School>4</School>
+    <lv6>423</lv6>
+    <lv5>422</lv5>
+    <lv4>421</lv4>
+    <lv3>420</lv3>
+    <lv2>419</lv2>
+    <lv1>418</lv1>
+    <Name>Sword  </Name>
+    <SkillID>11</SkillID>
+    <Sort>9</Sort>
+  </SpellsSelf>
+  <SpellsSelf>
+    <SpellID>2313</SpellID>
+    <Icon>100668303</Icon>
+    <School>4</School>
+    <lv6>544</lv6>
+    <lv5>543</lv5>
+    <lv4>542</lv4>
+    <lv3>541</lv3>
+    <lv2>540</lv2>
+    <lv1>539</lv1>
+    <Name>Thrown Weapons  </Name>
+    <SkillID>12</SkillID>
+    <Sort>9</Sort>
+  </SpellsSelf>
+  <SpellsSelf>
+    <SpellID>2316</SpellID>
+    <Icon>100668274</Icon>
+    <School>4</School>
+    <lv6>448</lv6>
+    <lv5>447</lv5>
+    <lv4>446</lv4>
+    <lv3>445</lv3>
+    <lv2>444</lv2>
+    <lv1>443</lv1>
+    <Name>Unarmed Combat </Name>
+    <SkillID>13</SkillID>
+    <Sort>9</Sort>
+  </SpellsSelf>
+  <SpellsSelf>
+    <SpellID>2323</SpellID>
+    <Icon>100668272</Icon>
+    <School>4</School>
+    <lv6>634</lv6>
+    <lv5>633</lv5>
+    <lv4>632</lv4>
+    <lv3>631</lv3>
+    <lv2>630</lv2>
+    <lv1>629</lv1>
+    <Name>War Magic </Name>
+    <SkillID>34</SkillID>
+    <Sort>9</Sort>
+  </SpellsSelf>
+  <SpellsSelf>
+    <SpellID>2325</SpellID>
+    <Icon>100668357</Icon>
+    <School>4</School>
+    <lv6>779</lv6>
+    <lv5>778</lv5>
+    <lv4>777</lv4>
+    <lv3>776</lv3>
+    <lv2>775</lv2>
+    <lv1>774</lv1>
+    <Name>Weapon Tinkering </Name>
+    <SkillID>28</SkillID>
+    <Sort>9</Sort>
+  </SpellsSelf>
+  <SpellsSelf>
+    <SpellID>3519</SpellID>
+    <Icon>100673210</Icon>
+    <School>4</School>
+    <lv6>3504</lv6>
+    <lv5>3503</lv5>
+    <lv4>3502</lv4>
+    <lv3>3501</lv3>
+    <lv2>3500</lv2>
+    <lv1>3499</lv1>
+    <Name>Salvaging </Name>
+    <SkillID />
+    <Sort>8</Sort>
+  </SpellsSelf>
+  <SpellsOther>
+    <SpellID>2148</SpellID>
+    <Icon>100668344</Icon>
+    <School>2</School>
+    <Name>Acid Protection Other</Name>
+  </SpellsOther>
+  <SpellsOther>
+    <SpellID>2150</SpellID>
+    <Icon>100668348</Icon>
+    <School>2</School>
+    <Name>Blade Protection Other</Name>
+  </SpellsOther>
+  <SpellsOther>
+    <SpellID>2152</SpellID>
+    <Icon>100668345</Icon>
+    <School>2</School>
+    <Name>Bludgeoning Protection Other</Name>
+  </SpellsOther>
+  <SpellsOther>
+    <SpellID>2154</SpellID>
+    <Icon>100668292</Icon>
+    <School>2</School>
+    <Name>Cold Protection Other</Name>
+  </SpellsOther>
+  <SpellsOther>
+    <SpellID>2156</SpellID>
+    <Icon>100668291</Icon>
+    <School>2</School>
+    <Name>Fire Protection Other</Name>
+  </SpellsOther>
+  <SpellsOther>
+    <SpellID>2158</SpellID>
+    <Icon>100668346</Icon>
+    <School>2</School>
+    <Name>Lightning Protection Other</Name>
+  </SpellsOther>
+  <SpellsOther>
+    <SpellID>2160</SpellID>
+    <Icon>100668347</Icon>
+    <School>2</School>
+    <Name>Piercing Protection Other</Name>
+  </SpellsOther>
+  <SpellsOther>
+    <SpellID>2182</SpellID>
+    <Icon>100668288</Icon>
+    <School>2</School>
+    <Name>Mana Renewal Other</Name>
+  </SpellsOther>
+  <SpellsOther>
+    <SpellID>2184</SpellID>
+    <Icon>100668279</Icon>
+    <School>2</School>
+    <Name>Regeneration Other</Name>
+  </SpellsOther>
+  <SpellsOther>
+    <SpellID>2186</SpellID>
+    <Icon>100668299</Icon>
+    <School>2</School>
+    <Name>Rejuvenation Other</Name>
+  </SpellsOther>
+  <SpellsOther>
+    <SpellID>2052</SpellID>
+    <Icon>100668293</Icon>
+    <School>2</School>
+    <Name>Armor Other</Name>
+  </SpellsOther>
+  <SpellsOther>
+    <SpellID>2092</SpellID>
+    <Icon>100673969</Icon>
+    <School>3</School>
+    <Name>Acid Bane</Name>
+  </SpellsOther>
+  <SpellsOther>
+    <SpellID>2094</SpellID>
+    <Icon>100673872</Icon>
+    <School>3</School>
+    <Name>Blade Bane</Name>
+  </SpellsOther>
+  <SpellsOther>
+    <SpellID>2096</SpellID>
+    <Icon>100673986</Icon>
+    <School>3</School>
+    <Name>Blood Drinker</Name>
+  </SpellsOther>
+  <SpellsOther>
+    <SpellID>2098</SpellID>
+    <Icon>100673873</Icon>
+    <School>3</School>
+    <Name>Bludgeon Bane</Name>
+  </SpellsOther>
+  <SpellsOther>
+    <SpellID>2101</SpellID>
+    <Icon>100673988</Icon>
+    <School>3</School>
+    <Name>Defender</Name>
+  </SpellsOther>
+  <SpellsOther>
+    <SpellID>2102</SpellID>
+    <Icon>100673970</Icon>
+    <School>3</School>
+    <Name>Flame Bane</Name>
+  </SpellsOther>
+  <SpellsOther>
+    <SpellID>2104</SpellID>
+    <Icon>100673971</Icon>
+    <School>3</School>
+    <Name>Frost Bane</Name>
+  </SpellsOther>
+  <SpellsOther>
+    <SpellID>2106</SpellID>
+    <Icon>100673989</Icon>
+    <School>3</School>
+    <Name>Heart Seeker</Name>
+  </SpellsOther>
+  <SpellsOther>
+    <SpellID>2108</SpellID>
+    <Icon>100673982</Icon>
+    <School>3</School>
+    <Name>Impenetrability</Name>
+  </SpellsOther>
+  <SpellsOther>
+    <SpellID>2110</SpellID>
+    <Icon>100673972</Icon>
+    <School>3</School>
+    <Name>Lightning Bane</Name>
+  </SpellsOther>
+  <SpellsOther>
+    <SpellID>2113</SpellID>
+    <Icon>100673973</Icon>
+    <School>3</School>
+    <Name>Piercing Bane</Name>
+  </SpellsOther>
+  <SpellsOther>
+    <SpellID>2116</SpellID>
+    <Icon>100673991</Icon>
+    <School>3</School>
+    <Name>Swift Killer</Name>
+  </SpellsOther>
+  <SpellsOther>
+    <SpellID>2117</SpellID>
+    <Icon>100673984</Icon>
+    <School>3</School>
+    <Name>Mana Wand Link</Name>
+  </SpellsOther>
+  <SpellsOther>
+    <SpellID>2086</SpellID>
+    <Icon>100668300</Icon>
+    <School>4</School>
+    <Name>Strength Other</Name>
+  </SpellsOther>
+  <SpellsOther>
+    <SpellID>2090</SpellID>
+    <Icon>100668296</Icon>
+    <School>4</School>
+    <Name>Self Other</Name>
+  </SpellsOther>
+  <SpellsOther>
+    <SpellID>2080</SpellID>
+    <Icon>100668294</Icon>
+    <School>4</School>
+    <Name>Quickness Other</Name>
+  </SpellsOther>
+  <SpellsOther>
+    <SpellID>2058</SpellID>
+    <Icon>100668268</Icon>
+    <School>4</School>
+    <Name>Coordination Other</Name>
+  </SpellsOther>
+  <SpellsOther>
+    <SpellID>2060</SpellID>
+    <Icon>100668273</Icon>
+    <School>4</School>
+    <Name>Endurance Other</Name>
+  </SpellsOther>
+  <SpellsOther>
+    <SpellID>2066</SpellID>
+    <Icon>100668277</Icon>
+    <School>4</School>
+    <Name>Focus Other</Name>
+  </SpellsOther>
+  <SpellsOther>
+    <SpellID>2190</SpellID>
+    <Icon>100670578</Icon>
+    <School>4</School>
+    <Name>Alchemy Other</Name>
+  </SpellsOther>
+  <SpellsOther>
+    <SpellID>2194</SpellID>
+    <Icon>100668285</Icon>
+    <School>4</School>
+    <Name>Arcane Lore Other</Name>
+  </SpellsOther>
+  <SpellsOther>
+    <SpellID>2196</SpellID>
+    <Icon>100668352</Icon>
+    <School>4</School>
+    <Name>Armor Tinkering Other</Name>
+  </SpellsOther>
+  <SpellsOther>
+    <SpellID>2202</SpellID>
+    <Icon>100668265</Icon>
+    <School>4</School>
+    <Name>Axe Other</Name>
+  </SpellsOther>
+  <SpellsOther>
+    <SpellID>2206</SpellID>
+    <Icon>100668266</Icon>
+    <School>4</School>
+    <Name>Bow Other</Name>
+  </SpellsOther>
+  <SpellsOther>
+    <SpellID>2210</SpellID>
+    <Icon>100670579</Icon>
+    <School>4</School>
+    <Name>Cooking Other</Name>
+  </SpellsOther>
+  <SpellsOther>
+    <SpellID>2214</SpellID>
+    <Icon>100668358</Icon>
+    <School>4</School>
+    <Name>Creature Enchantment Other</Name>
+  </SpellsOther>
+  <SpellsOther>
+    <SpellID>2218</SpellID>
+    <Icon>100668267</Icon>
+    <School>4</School>
+    <Name>Crossbow Other</Name>
+  </SpellsOther>
+  <SpellsOther>
+    <SpellID>2222</SpellID>
+    <Icon>100668269</Icon>
+    <School>4</School>
+    <Name>Dagger Other</Name>
+  </SpellsOther>
+  <SpellsOther>
+    <SpellID>2226</SpellID>
+    <Icon>100668296</Icon>
+    <School>4</School>
+    <Name>Deception Other</Name>
+  </SpellsOther>
+  <SpellsOther>
+    <SpellID>2232</SpellID>
+    <Icon>100668286</Icon>
+    <School>4</School>
+    <Name>Loyalty Other</Name>
+  </SpellsOther>
+  <SpellsOther>
+    <SpellID>2236</SpellID>
+    <Icon>100670580</Icon>
+    <School>4</School>
+    <Name>Fletching Other</Name>
+  </SpellsOther>
+  <SpellsOther>
+    <SpellID>2240</SpellID>
+    <Icon>100668279</Icon>
+    <School>4</School>
+    <Name>Healing Other</Name>
+  </SpellsOther>
+  <SpellsOther>
+    <SpellID>2242</SpellID>
+    <Icon>100669126</Icon>
+    <School>4</School>
+    <Name>Missile Defense Other</Name>
+  </SpellsOther>
+  <SpellsOther>
+    <SpellID>2244</SpellID>
+    <Icon>100668331</Icon>
+    <School>4</School>
+    <Name>Melee Defense Other</Name>
+  </SpellsOther>
+  <SpellsOther>
+    <SpellID>2248</SpellID>
+    <Icon>100668272</Icon>
+    <School>4</School>
+    <Name>Item Enchantment Other</Name>
+  </SpellsOther>
+  <SpellsOther>
+    <SpellID>2250</SpellID>
+    <Icon>100668264</Icon>
+    <School>4</School>
+    <Name>Item Tinkering Other</Name>
+  </SpellsOther>
+  <SpellsOther>
+    <SpellID>2256</SpellID>
+    <Icon>100668282</Icon>
+    <School>4</School>
+    <Name>Jump Other</Name>
+  </SpellsOther>
+  <SpellsOther>
+    <SpellID>2262</SpellID>
+    <Icon>100668283</Icon>
+    <School>4</School>
+    <Name>Leadership Other</Name>
+  </SpellsOther>
+  <SpellsOther>
+    <SpellID>2266</SpellID>
+    <Icon>100668337</Icon>
+    <School>4</School>
+    <Name>Life Magic Other</Name>
+  </SpellsOther>
+  <SpellsOther>
+    <SpellID>2270</SpellID>
+    <Icon>100668284</Icon>
+    <School>4</School>
+    <Name>Lockpick Other</Name>
+  </SpellsOther>
+  <SpellsOther>
+    <SpellID>2274</SpellID>
+    <Icon>100668287</Icon>
+    <School>4</School>
+    <Name>Mace Other</Name>
+  </SpellsOther>
+  <SpellsOther>
+    <SpellID>2276</SpellID>
+    <Icon>100668354</Icon>
+    <School>4</School>
+    <Name>Magic Item Tinkering Other</Name>
+  </SpellsOther>
+  <SpellsOther>
+    <SpellID>2280</SpellID>
+    <Icon>100668330</Icon>
+    <School>4</School>
+    <Name>Magic Defense Other</Name>
+  </SpellsOther>
+  <SpellsOther>
+    <SpellID>2286</SpellID>
+    <Icon>100668288</Icon>
+    <School>4</School>
+    <Name>Mana Conversion Other</Name>
+  </SpellsOther>
+  <SpellsOther>
+    <SpellID>2298</SpellID>
+    <Icon>100668297</Icon>
+    <School>4</School>
+    <Name>Spear Other</Name>
+  </SpellsOther>
+  <SpellsOther>
+    <SpellID>2300</SpellID>
+    <Icon>100668295</Icon>
+    <School>4</School>
+    <Name>Run Other</Name>
+  </SpellsOther>
+  <SpellsOther>
+    <SpellID>2304</SpellID>
+    <Icon>100668298</Icon>
+    <School>4</School>
+    <Name>Staff Other</Name>
+  </SpellsOther>
+  <SpellsOther>
+    <SpellID>2308</SpellID>
+    <Icon>100668302</Icon>
+    <School>4</School>
+    <Name>Sword Other</Name>
+  </SpellsOther>
+  <SpellsOther>
+    <SpellID>2312</SpellID>
+    <Icon>100668303</Icon>
+    <School>4</School>
+    <Name>Thrown Weapons Other</Name>
+  </SpellsOther>
+  <SpellsOther>
+    <SpellID>2315</SpellID>
+    <Icon>100668274</Icon>
+    <School>4</School>
+    <Name>Unarmed Combat Other</Name>
+  </SpellsOther>
+  <SpellsOther>
+    <SpellID>2322</SpellID>
+    <Icon>100668272</Icon>
+    <School>4</School>
+    <Name>War Magic Other</Name>
+  </SpellsOther>
+  <SpellsOther>
+    <SpellID>2324</SpellID>
+    <Icon>100668357</Icon>
+    <School>4</School>
+    <Name>Weapon Tinkering Other</Name>
+  </SpellsOther>
+  <SpellsOther>
+    <SpellID>3526</SpellID>
+    <Icon>100673210</Icon>
+    <School>4</School>
+    <Name>Salvaging Other</Name>
+  </SpellsOther>
+  <BuffProfiles>
+    <Name>axe</Name>
+  </BuffProfiles>
+  <BuffProfiles>
+    <Name>sword</Name>
+  </BuffProfiles>
+  <BuffProfiles>
+    <Name>mace</Name>
+  </BuffProfiles>
+  <BuffProfiles>
+    <Name>dagger</Name>
+  </BuffProfiles>
+  <BuffProfiles>
+    <Name>staff</Name>
+  </BuffProfiles>
+  <BuffProfiles>
+    <Name>ua</Name>
+  </BuffProfiles>
+  <BuffProfiles>
+    <Name>spear</Name>
+  </BuffProfiles>
+  <BuffProfiles>
+    <Name>bow</Name>
+  </BuffProfiles>
+  <BuffProfiles>
+    <Name>crossbow</Name>
+  </BuffProfiles>
+  <BuffProfiles>
+    <Name>tw</Name>
+  </BuffProfiles>
+  <BuffProfiles>
+    <Name>tinkers</Name>
+  </BuffProfiles>
+  <BuffProfiles>
+    <Name>trades</Name>
+  </BuffProfiles>
+  <BuffProfiles>
+    <Name>xp</Name>
+  </BuffProfiles>
+  <BuffProfiles>
+    <Name>strength</Name>
+  </BuffProfiles>
+  <BuffProfiles>
+    <Name>lore</Name>
+  </BuffProfiles>
+  <BuffProfiles>
+    <Name>missle</Name>
+  </BuffProfiles>
+  <BuffProfiles>
+    <Name>melee</Name>
+  </BuffProfiles>
+  <BuffProfiles>
+    <Name>wand</Name>
+  </BuffProfiles>
+  <BuffProfiles>
+    <Name>weapon</Name>
+  </BuffProfiles>
+  <BuffProfiles>
+    <Name>shield</Name>
+  </BuffProfiles>
+  <BuffProfiles>
+    <Name>3school</Name>
+  </BuffProfiles>
+  <BuffProfiles>
+    <Name>mage</Name>
+  </BuffProfiles>
+  <BuffProfiles>
+    <Name>lockpick</Name>
+  </BuffProfiles>
+  <ProfileSpellData>
+    <Name>axe</Name>
+    <SpellId>2148</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>axe</Name>
+    <SpellId>2150</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>axe</Name>
+    <SpellId>2152</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>axe</Name>
+    <SpellId>2154</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>axe</Name>
+    <SpellId>2158</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>axe</Name>
+    <SpellId>2156</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>axe</Name>
+    <SpellId>2160</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>axe</Name>
+    <SpellId>2182</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>axe</Name>
+    <SpellId>2184</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>axe</Name>
+    <SpellId>2186</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>axe</Name>
+    <SpellId>2052</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>axe</Name>
+    <SpellId>2092</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>axe</Name>
+    <SpellId>2094</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>axe</Name>
+    <SpellId>2098</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>axe</Name>
+    <SpellId>2102</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>axe</Name>
+    <SpellId>2104</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>axe</Name>
+    <SpellId>2110</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>axe</Name>
+    <SpellId>2113</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>axe</Name>
+    <SpellId>2108</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>axe</Name>
+    <SpellId>2096</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>axe</Name>
+    <SpellId>2101</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>axe</Name>
+    <SpellId>2106</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>axe</Name>
+    <SpellId>2116</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>axe</Name>
+    <SpellId>2086</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>axe</Name>
+    <SpellId>2090</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>axe</Name>
+    <SpellId>2066</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>axe</Name>
+    <SpellId>2058</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>axe</Name>
+    <SpellId>2080</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>axe</Name>
+    <SpellId>2194</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>axe</Name>
+    <SpellId>2202</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>axe</Name>
+    <SpellId>2232</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>axe</Name>
+    <SpellId>2240</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>axe</Name>
+    <SpellId>2248</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>axe</Name>
+    <SpellId>3526</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>axe</Name>
+    <SpellId>2256</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>axe</Name>
+    <SpellId>2300</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>axe</Name>
+    <SpellId>2244</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>sword</Name>
+    <SpellId>2148</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>sword</Name>
+    <SpellId>2150</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>sword</Name>
+    <SpellId>2152</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>sword</Name>
+    <SpellId>2154</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>sword</Name>
+    <SpellId>2158</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>sword</Name>
+    <SpellId>2156</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>sword</Name>
+    <SpellId>2160</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>sword</Name>
+    <SpellId>2182</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>sword</Name>
+    <SpellId>2184</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>sword</Name>
+    <SpellId>2186</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>sword</Name>
+    <SpellId>2052</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>sword</Name>
+    <SpellId>2092</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>sword</Name>
+    <SpellId>2094</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>sword</Name>
+    <SpellId>2098</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>sword</Name>
+    <SpellId>2102</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>sword</Name>
+    <SpellId>2104</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>sword</Name>
+    <SpellId>2110</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>sword</Name>
+    <SpellId>2113</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>sword</Name>
+    <SpellId>2108</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>sword</Name>
+    <SpellId>2096</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>sword</Name>
+    <SpellId>2101</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>sword</Name>
+    <SpellId>2106</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>sword</Name>
+    <SpellId>2116</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>sword</Name>
+    <SpellId>2086</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>sword</Name>
+    <SpellId>2090</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>sword</Name>
+    <SpellId>2066</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>sword</Name>
+    <SpellId>2058</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>sword</Name>
+    <SpellId>2080</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>sword</Name>
+    <SpellId>2194</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>sword</Name>
+    <SpellId>2308</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>sword</Name>
+    <SpellId>2232</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>sword</Name>
+    <SpellId>2240</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>sword</Name>
+    <SpellId>2248</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>sword</Name>
+    <SpellId>3526</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>sword</Name>
+    <SpellId>2256</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>sword</Name>
+    <SpellId>2300</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>sword</Name>
+    <SpellId>2244</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>mace</Name>
+    <SpellId>2148</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>mace</Name>
+    <SpellId>2150</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>mace</Name>
+    <SpellId>2152</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>mace</Name>
+    <SpellId>2154</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>mace</Name>
+    <SpellId>2158</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>mace</Name>
+    <SpellId>2156</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>mace</Name>
+    <SpellId>2160</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>mace</Name>
+    <SpellId>2182</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>mace</Name>
+    <SpellId>2184</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>mace</Name>
+    <SpellId>2186</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>mace</Name>
+    <SpellId>2052</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>mace</Name>
+    <SpellId>2092</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>mace</Name>
+    <SpellId>2094</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>mace</Name>
+    <SpellId>2098</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>mace</Name>
+    <SpellId>2102</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>mace</Name>
+    <SpellId>2104</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>mace</Name>
+    <SpellId>2110</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>mace</Name>
+    <SpellId>2113</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>mace</Name>
+    <SpellId>2108</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>mace</Name>
+    <SpellId>2096</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>mace</Name>
+    <SpellId>2101</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>mace</Name>
+    <SpellId>2106</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>mace</Name>
+    <SpellId>2116</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>mace</Name>
+    <SpellId>2086</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>mace</Name>
+    <SpellId>2090</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>mace</Name>
+    <SpellId>2066</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>mace</Name>
+    <SpellId>2058</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>mace</Name>
+    <SpellId>2080</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>mace</Name>
+    <SpellId>2194</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>mace</Name>
+    <SpellId>2274</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>mace</Name>
+    <SpellId>2232</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>mace</Name>
+    <SpellId>2240</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>mace</Name>
+    <SpellId>2248</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>mace</Name>
+    <SpellId>3526</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>mace</Name>
+    <SpellId>2256</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>mace</Name>
+    <SpellId>2300</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>mace</Name>
+    <SpellId>2244</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>ua</Name>
+    <SpellId>2148</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>ua</Name>
+    <SpellId>2150</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>ua</Name>
+    <SpellId>2152</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>ua</Name>
+    <SpellId>2154</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>ua</Name>
+    <SpellId>2158</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>ua</Name>
+    <SpellId>2156</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>ua</Name>
+    <SpellId>2160</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>ua</Name>
+    <SpellId>2182</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>ua</Name>
+    <SpellId>2184</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>ua</Name>
+    <SpellId>2186</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>ua</Name>
+    <SpellId>2052</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>ua</Name>
+    <SpellId>2092</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>ua</Name>
+    <SpellId>2094</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>ua</Name>
+    <SpellId>2098</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>ua</Name>
+    <SpellId>2102</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>ua</Name>
+    <SpellId>2104</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>ua</Name>
+    <SpellId>2110</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>ua</Name>
+    <SpellId>2113</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>ua</Name>
+    <SpellId>2108</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>ua</Name>
+    <SpellId>2096</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>ua</Name>
+    <SpellId>2101</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>ua</Name>
+    <SpellId>2106</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>ua</Name>
+    <SpellId>2116</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>ua</Name>
+    <SpellId>2086</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>ua</Name>
+    <SpellId>2090</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>ua</Name>
+    <SpellId>2066</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>ua</Name>
+    <SpellId>2058</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>ua</Name>
+    <SpellId>2080</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>ua</Name>
+    <SpellId>2194</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>ua</Name>
+    <SpellId>2315</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>ua</Name>
+    <SpellId>2232</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>ua</Name>
+    <SpellId>2240</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>ua</Name>
+    <SpellId>2248</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>ua</Name>
+    <SpellId>3526</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>ua</Name>
+    <SpellId>2256</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>ua</Name>
+    <SpellId>2300</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>ua</Name>
+    <SpellId>2244</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>dagger</Name>
+    <SpellId>2148</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>dagger</Name>
+    <SpellId>2150</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>dagger</Name>
+    <SpellId>2152</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>dagger</Name>
+    <SpellId>2154</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>dagger</Name>
+    <SpellId>2158</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>dagger</Name>
+    <SpellId>2156</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>dagger</Name>
+    <SpellId>2160</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>dagger</Name>
+    <SpellId>2182</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>dagger</Name>
+    <SpellId>2184</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>dagger</Name>
+    <SpellId>2186</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>dagger</Name>
+    <SpellId>2052</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>dagger</Name>
+    <SpellId>2092</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>dagger</Name>
+    <SpellId>2094</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>dagger</Name>
+    <SpellId>2098</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>dagger</Name>
+    <SpellId>2102</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>dagger</Name>
+    <SpellId>2104</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>dagger</Name>
+    <SpellId>2110</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>dagger</Name>
+    <SpellId>2113</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>dagger</Name>
+    <SpellId>2108</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>dagger</Name>
+    <SpellId>2096</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>dagger</Name>
+    <SpellId>2101</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>dagger</Name>
+    <SpellId>2106</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>dagger</Name>
+    <SpellId>2116</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>dagger</Name>
+    <SpellId>2086</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>dagger</Name>
+    <SpellId>2090</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>dagger</Name>
+    <SpellId>2066</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>dagger</Name>
+    <SpellId>2058</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>dagger</Name>
+    <SpellId>2080</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>dagger</Name>
+    <SpellId>2194</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>dagger</Name>
+    <SpellId>2222</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>dagger</Name>
+    <SpellId>2232</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>dagger</Name>
+    <SpellId>2240</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>dagger</Name>
+    <SpellId>2248</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>dagger</Name>
+    <SpellId>3526</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>dagger</Name>
+    <SpellId>2256</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>dagger</Name>
+    <SpellId>2300</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>dagger</Name>
+    <SpellId>2244</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>staff</Name>
+    <SpellId>2148</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>staff</Name>
+    <SpellId>2150</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>staff</Name>
+    <SpellId>2152</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>staff</Name>
+    <SpellId>2154</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>staff</Name>
+    <SpellId>2158</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>staff</Name>
+    <SpellId>2156</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>staff</Name>
+    <SpellId>2160</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>staff</Name>
+    <SpellId>2182</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>staff</Name>
+    <SpellId>2184</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>staff</Name>
+    <SpellId>2186</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>staff</Name>
+    <SpellId>2052</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>staff</Name>
+    <SpellId>2092</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>staff</Name>
+    <SpellId>2094</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>staff</Name>
+    <SpellId>2098</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>staff</Name>
+    <SpellId>2102</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>staff</Name>
+    <SpellId>2104</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>staff</Name>
+    <SpellId>2110</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>staff</Name>
+    <SpellId>2113</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>staff</Name>
+    <SpellId>2108</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>staff</Name>
+    <SpellId>2096</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>staff</Name>
+    <SpellId>2101</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>staff</Name>
+    <SpellId>2106</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>staff</Name>
+    <SpellId>2116</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>staff</Name>
+    <SpellId>2086</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>staff</Name>
+    <SpellId>2090</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>staff</Name>
+    <SpellId>2066</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>staff</Name>
+    <SpellId>2058</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>staff</Name>
+    <SpellId>2080</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>staff</Name>
+    <SpellId>2194</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>staff</Name>
+    <SpellId>2304</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>staff</Name>
+    <SpellId>2232</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>staff</Name>
+    <SpellId>2240</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>staff</Name>
+    <SpellId>2248</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>staff</Name>
+    <SpellId>3526</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>staff</Name>
+    <SpellId>2256</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>staff</Name>
+    <SpellId>2300</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>staff</Name>
+    <SpellId>2244</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>spear</Name>
+    <SpellId>2148</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>spear</Name>
+    <SpellId>2150</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>spear</Name>
+    <SpellId>2152</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>spear</Name>
+    <SpellId>2154</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>spear</Name>
+    <SpellId>2158</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>spear</Name>
+    <SpellId>2156</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>spear</Name>
+    <SpellId>2160</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>spear</Name>
+    <SpellId>2182</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>spear</Name>
+    <SpellId>2184</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>spear</Name>
+    <SpellId>2186</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>spear</Name>
+    <SpellId>2052</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>spear</Name>
+    <SpellId>2092</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>spear</Name>
+    <SpellId>2094</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>spear</Name>
+    <SpellId>2098</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>spear</Name>
+    <SpellId>2102</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>spear</Name>
+    <SpellId>2104</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>spear</Name>
+    <SpellId>2110</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>spear</Name>
+    <SpellId>2113</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>spear</Name>
+    <SpellId>2108</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>spear</Name>
+    <SpellId>2096</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>spear</Name>
+    <SpellId>2101</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>spear</Name>
+    <SpellId>2106</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>spear</Name>
+    <SpellId>2116</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>spear</Name>
+    <SpellId>2086</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>spear</Name>
+    <SpellId>2090</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>spear</Name>
+    <SpellId>2066</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>spear</Name>
+    <SpellId>2058</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>spear</Name>
+    <SpellId>2080</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>spear</Name>
+    <SpellId>2298</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>spear</Name>
+    <SpellId>2286</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>spear</Name>
+    <SpellId>2232</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>spear</Name>
+    <SpellId>2240</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>spear</Name>
+    <SpellId>2248</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>spear</Name>
+    <SpellId>3526</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>spear</Name>
+    <SpellId>2256</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>spear</Name>
+    <SpellId>2300</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>spear</Name>
+    <SpellId>2244</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>bow</Name>
+    <SpellId>2148</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>bow</Name>
+    <SpellId>2150</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>bow</Name>
+    <SpellId>2152</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>bow</Name>
+    <SpellId>2154</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>bow</Name>
+    <SpellId>2158</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>bow</Name>
+    <SpellId>2156</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>bow</Name>
+    <SpellId>2160</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>bow</Name>
+    <SpellId>2182</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>bow</Name>
+    <SpellId>2184</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>bow</Name>
+    <SpellId>2186</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>bow</Name>
+    <SpellId>2052</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>bow</Name>
+    <SpellId>2092</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>bow</Name>
+    <SpellId>2094</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>bow</Name>
+    <SpellId>2098</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>bow</Name>
+    <SpellId>2102</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>bow</Name>
+    <SpellId>2104</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>bow</Name>
+    <SpellId>2110</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>bow</Name>
+    <SpellId>2113</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>bow</Name>
+    <SpellId>2108</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>bow</Name>
+    <SpellId>2096</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>bow</Name>
+    <SpellId>2101</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>bow</Name>
+    <SpellId>2106</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>bow</Name>
+    <SpellId>2116</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>bow</Name>
+    <SpellId>2086</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>bow</Name>
+    <SpellId>2090</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>bow</Name>
+    <SpellId>2066</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>bow</Name>
+    <SpellId>2058</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>bow</Name>
+    <SpellId>2080</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>bow</Name>
+    <SpellId>2194</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>bow</Name>
+    <SpellId>2206</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>bow</Name>
+    <SpellId>2232</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>bow</Name>
+    <SpellId>2240</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>bow</Name>
+    <SpellId>2248</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>bow</Name>
+    <SpellId>3526</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>bow</Name>
+    <SpellId>2256</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>bow</Name>
+    <SpellId>2300</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>bow</Name>
+    <SpellId>2244</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>crossbow</Name>
+    <SpellId>2148</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>crossbow</Name>
+    <SpellId>2150</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>crossbow</Name>
+    <SpellId>2152</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>crossbow</Name>
+    <SpellId>2154</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>crossbow</Name>
+    <SpellId>2158</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>crossbow</Name>
+    <SpellId>2156</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>crossbow</Name>
+    <SpellId>2160</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>crossbow</Name>
+    <SpellId>2182</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>crossbow</Name>
+    <SpellId>2184</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>crossbow</Name>
+    <SpellId>2186</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>crossbow</Name>
+    <SpellId>2052</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>crossbow</Name>
+    <SpellId>2092</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>crossbow</Name>
+    <SpellId>2094</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>crossbow</Name>
+    <SpellId>2098</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>crossbow</Name>
+    <SpellId>2102</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>crossbow</Name>
+    <SpellId>2104</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>crossbow</Name>
+    <SpellId>2110</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>crossbow</Name>
+    <SpellId>2113</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>crossbow</Name>
+    <SpellId>2108</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>crossbow</Name>
+    <SpellId>2096</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>crossbow</Name>
+    <SpellId>2101</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>crossbow</Name>
+    <SpellId>2106</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>crossbow</Name>
+    <SpellId>2116</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>crossbow</Name>
+    <SpellId>2086</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>crossbow</Name>
+    <SpellId>2090</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>crossbow</Name>
+    <SpellId>2066</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>crossbow</Name>
+    <SpellId>2058</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>crossbow</Name>
+    <SpellId>2080</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>crossbow</Name>
+    <SpellId>2194</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>crossbow</Name>
+    <SpellId>2218</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>crossbow</Name>
+    <SpellId>2232</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>crossbow</Name>
+    <SpellId>2240</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>crossbow</Name>
+    <SpellId>2248</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>crossbow</Name>
+    <SpellId>3526</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>crossbow</Name>
+    <SpellId>2256</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>crossbow</Name>
+    <SpellId>2300</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>crossbow</Name>
+    <SpellId>2244</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>tw</Name>
+    <SpellId>2148</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>tw</Name>
+    <SpellId>2150</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>tw</Name>
+    <SpellId>2152</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>tw</Name>
+    <SpellId>2154</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>tw</Name>
+    <SpellId>2158</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>tw</Name>
+    <SpellId>2156</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>tw</Name>
+    <SpellId>2160</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>tw</Name>
+    <SpellId>2182</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>tw</Name>
+    <SpellId>2184</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>tw</Name>
+    <SpellId>2186</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>tw</Name>
+    <SpellId>2052</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>tw</Name>
+    <SpellId>2092</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>tw</Name>
+    <SpellId>2094</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>tw</Name>
+    <SpellId>2098</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>tw</Name>
+    <SpellId>2102</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>tw</Name>
+    <SpellId>2104</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>tw</Name>
+    <SpellId>2110</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>tw</Name>
+    <SpellId>2113</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>tw</Name>
+    <SpellId>2108</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>tw</Name>
+    <SpellId>2096</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>tw</Name>
+    <SpellId>2101</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>tw</Name>
+    <SpellId>2106</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>tw</Name>
+    <SpellId>2116</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>tw</Name>
+    <SpellId>2086</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>tw</Name>
+    <SpellId>2090</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>tw</Name>
+    <SpellId>2066</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>tw</Name>
+    <SpellId>2058</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>tw</Name>
+    <SpellId>2080</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>tw</Name>
+    <SpellId>2194</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>tw</Name>
+    <SpellId>2312</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>tw</Name>
+    <SpellId>2232</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>tw</Name>
+    <SpellId>2240</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>tw</Name>
+    <SpellId>2248</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>tw</Name>
+    <SpellId>3526</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>tw</Name>
+    <SpellId>2256</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>tw</Name>
+    <SpellId>2300</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>tw</Name>
+    <SpellId>2244</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>bow</Name>
+    <SpellId>2236</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>tw</Name>
+    <SpellId>2236</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>crossbow</Name>
+    <SpellId>2236</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>tinkers</Name>
+    <SpellId>2324</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>tinkers</Name>
+    <SpellId>2276</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>tinkers</Name>
+    <SpellId>2196</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>tinkers</Name>
+    <SpellId>2250</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>tinkers</Name>
+    <SpellId>2086</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>tinkers</Name>
+    <SpellId>2058</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>tinkers</Name>
+    <SpellId>2066</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>tinkers</Name>
+    <SpellId>2060</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>trades</Name>
+    <SpellId>2190</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>trades</Name>
+    <SpellId>2210</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>trades</Name>
+    <SpellId>2236</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>trades</Name>
+    <SpellId>2086</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>trades</Name>
+    <SpellId>2066</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>trades</Name>
+    <SpellId>2058</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>xp</Name>
+    <SpellId>2232</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>xp</Name>
+    <SpellId>2262</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>strength</Name>
+    <SpellId>2086</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>lore</Name>
+    <SpellId>2194</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>lore</Name>
+    <SpellId>2066</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>missle</Name>
+    <SpellId>2242</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>missle</Name>
+    <SpellId>2058</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>missle</Name>
+    <SpellId>2080</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>melee</Name>
+    <SpellId>2244</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>melee</Name>
+    <SpellId>2058</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>melee</Name>
+    <SpellId>2080</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>shield</Name>
+    <SpellId>2092</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>shield</Name>
+    <SpellId>2110</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>shield</Name>
+    <SpellId>2108</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>shield</Name>
+    <SpellId>2094</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>shield</Name>
+    <SpellId>2098</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>shield</Name>
+    <SpellId>2102</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>shield</Name>
+    <SpellId>2104</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>wand</Name>
+    <SpellId>2117</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>weapon</Name>
+    <SpellId>2096</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>weapon</Name>
+    <SpellId>2101</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>weapon</Name>
+    <SpellId>2116</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>weapon</Name>
+    <SpellId>2106</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>3school</Name>
+    <SpellId>2248</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>3school</Name>
+    <SpellId>2214</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>3school</Name>
+    <SpellId>2266</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>3school</Name>
+    <SpellId>2066</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>3school</Name>
+    <SpellId>2090</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>mage</Name>
+    <SpellId>2148</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>mage</Name>
+    <SpellId>2150</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>mage</Name>
+    <SpellId>2152</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>mage</Name>
+    <SpellId>2154</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>mage</Name>
+    <SpellId>2158</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>mage</Name>
+    <SpellId>2156</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>mage</Name>
+    <SpellId>2160</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>mage</Name>
+    <SpellId>2182</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>mage</Name>
+    <SpellId>2184</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>mage</Name>
+    <SpellId>2186</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>mage</Name>
+    <SpellId>2052</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>mage</Name>
+    <SpellId>2117</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>mage</Name>
+    <SpellId>2086</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>mage</Name>
+    <SpellId>2090</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>mage</Name>
+    <SpellId>2066</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>mage</Name>
+    <SpellId>2058</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>mage</Name>
+    <SpellId>2080</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>mage</Name>
+    <SpellId>2194</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>mage</Name>
+    <SpellId>2322</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>mage</Name>
+    <SpellId>2232</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>mage</Name>
+    <SpellId>2248</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>mage</Name>
+    <SpellId>3526</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>mage</Name>
+    <SpellId>2256</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>mage</Name>
+    <SpellId>2300</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>mage</Name>
+    <SpellId>2214</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>mage</Name>
+    <SpellId>2286</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>mage</Name>
+    <SpellId>2266</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>lockpick</Name>
+    <SpellId>2270</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>lockpick</Name>
+    <SpellId>2066</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>lockpick</Name>
+    <SpellId>2058</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>bow</Name>
+    <SpellId>2280</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>axe</Name>
+    <SpellId>2280</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>sword</Name>
+    <SpellId>2280</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>mace</Name>
+    <SpellId>2280</SpellId>
+  </ProfileSpellData>
+  <ProfileSpellData>
+    <Name>dagger</Name>
+    <SpellId>2280</SpellId>
+  </ProfileSpellData>
+
+</QCData>

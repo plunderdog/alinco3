@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<view name="Default" icon="10612" title="Alinco3 Buffs 1.0.1.10" width="240" height="280">
+  <control progid="DecalControls.Notebook" name="mainTabs">
+
+    <page label="Buffs">
+      <control progid="DecalControls.FixedLayout" clipped="">
+        <control progid="DecalControls.FixedLayout" clipped="" left="0" top="0" width="240" height="280">
+
+          <control progid="DecalControls.StaticText" name="lblProfile" left="5" top="5" width="70" height="20" text="Profile"/>
+          <control progid="DecalControls.Choice" left="45" top="5" width="50" height="20" name="cboProfile">
+            <option text="#1" />
+            <option text="#2" />
+            <option text="#3" />
+          </control>
+
+          <control progid="DecalControls.PushButton" name="btnBuffCreature" left="100" top="5" width="65" height="18" text="Life/Critter"/>
+          <control progid="DecalControls.PushButton" name="btnBuffItem" left="170" top="5" width="30" height="18" text="Item"/>
+          <control progid="DecalControls.PushButton" name="btnPause" left="205" top="5" width="30" height="18" text="Pause"/>
+          
+          <control progid="DecalControls.Notebook" name="nbItemMagic" left="0" top="30" width="230" height="200" >
+
+            <page label="Creature">
+              <control progid="DecalControls.FixedLayout">
+                <control progid="DecalControls.List" name="lstCritter" left="5" top="5" width="225" height="170">
+                  <column progid="DecalControls.IconColumn" name="colCritIcon" />
+                  <column progid="DecalControls.TextColumn" name="colCritText" fixedwidth="167" />
+                  <column progid="DecalControls.CheckColumn" name="colCritCheck" />
+                  <column progid="DecalControls.TextColumn" />
+                </control>
+              </control>
+            </page>
+            <page label="Life">
+              <control progid="DecalControls.FixedLayout">
+                <control progid="DecalControls.List" name="lstLife" left="5" top="5" width="225" height="170">
+                  <column progid="DecalControls.IconColumn" name="colLifeIcon" />
+                  <column progid="DecalControls.TextColumn" name="colLifeText" fixedwidth="167" />
+                  <column progid="DecalControls.CheckColumn" name="colCritCheck" />
+                  <column progid="DecalControls.TextColumn" />
+                </control>
+              </control>
+            </page>
+            <page label="Banes">
+              <control progid="DecalControls.FixedLayout" clipped="">
+                <control progid="DecalControls.List" name="lstArmor" left="5" top="5" width="225" height="137" >
+                  <column progid="DecalControls.IconColumn" />
+                  <column progid="DecalControls.TextColumn" fixedwidth="167"/>
+                  <column progid="DecalControls.IconColumn" />
+                  <column progid="DecalControls.TextColumn" />
+                </control>
+
+                <control progid="DecalControls.Button" name="btnIcon1" left="40" top="147" width="16" height="16" iconlibrary="0" icon="10686" pressedicon="10685" />
+                <control progid="DecalControls.Button" name="btnIcon2" left="60" top="147" width="16" height="16" iconlibrary="0" icon="10577" pressedicon="10679" />
+                <control progid="DecalControls.Button" name="btnIcon3" left="80" top="147" width="16" height="16" iconlibrary="0" icon="10576" pressedicon="10684" />
+                <control progid="DecalControls.Button" name="btnIcon4" left="100" top="147" width="16" height="16" iconlibrary="0" icon="10677" pressedicon="10683" />
+                <control progid="DecalControls.Button" name="btnIcon5" left="120" top="147" width="16" height="16" iconlibrary="0" icon="10676" pressedicon="10682" />
+                <control progid="DecalControls.Button" name="btnIcon6" left="140" top="147" width="16" height="16" iconlibrary="0" icon="10675" pressedicon="10681" />
+                <control progid="DecalControls.Button" name="btnIcon7" left="160" top="147" width="16" height="16" iconlibrary="0" icon="10674" pressedicon="10680" />
+                <control progid="DecalControls.Button" name="btnIcon8" left="180" top="147" width="16" height="16" iconlibrary="0" icon="10673" pressedicon="10678" />
+
+                <control progid="DecalControls.StaticText" name="lblArmor" left="5" top="167" width="80" height="16" text="Select"/>
+                <control progid="DecalControls.Checkbox" id="2108" name="chkIcon1" left="40" top="167" width="20" height="20" text=""/>
+                <control progid="DecalControls.Checkbox" id="2098" name="chkIcon2" left="60" top="167" width="20" height="20" text=""/>
+                <control progid="DecalControls.Checkbox" id="2094" name="chkIcon3" left="80" top="167" width="20" height="20" text=""/>
+                <control progid="DecalControls.Checkbox" id="2113" name="chkIcon4" left="100" top="167" width="20" height="20" text=""/>
+                <control progid="DecalControls.Checkbox" id="2110" name="chkIcon5" left="120" top="167" width="20" height="20" text=""/>
+                <control progid="DecalControls.Checkbox" id="2104" name="chkIcon6" left="140" top="167" width="20" height="20" text=""/>
+                <control progid="DecalControls.Checkbox" id="2102" name="chkIcon7" left="160" top="167" width="20" height="20" text=""/>
+                <control progid="DecalControls.Checkbox" id="2092" name="chkIcon8" left="180" top="167" width="20" height="20" text=""/>
+
+
+                <control progid="DecalControls.PushButton" name="btnSelectedArmor" left="198" top="145" width="30" height="18" text="Add"/>
+
+
+              </control>
+            </page>
+            <page label="Weapons">
+              <control progid="DecalControls.FixedLayout" clipped="">
+
+                <control progid="DecalControls.List" name="lstWeapons" left="5" top="5" width="225" height="137" >
+                  <column progid="DecalControls.IconColumn" />
+                  <column progid="DecalControls.TextColumn" fixedwidth="167"/>
+                  <column progid="DecalControls.IconColumn" />
+                  <column progid="DecalControls.TextColumn" />
+                </control>
+
+                <control progid="DecalControls.Button" name="btnIconw1" left="40" top="147" width="16" height="16" iconlibrary="0" icon="10690" pressedicon="10690" />
+                <control progid="DecalControls.Button" name="btnIconw2" left="60" top="147" width="16" height="16" iconlibrary="0" icon="10692" pressedicon="10692" />
+                <control progid="DecalControls.Button" name="btnIconw3" left="80" top="147" width="16" height="16" iconlibrary="0" icon="10695" pressedicon="10695" />
+                <control progid="DecalControls.Button" name="btnIconw4" left="100" top="147" width="16" height="16" iconlibrary="0" icon="10693" pressedicon="10693" />
+                <control progid="DecalControls.Button" name="btnIconw5" left="130" top="147" width="16" height="16" iconlibrary="0" icon="10688" pressedicon="10688" />
+                <control progid="DecalControls.Button" name="btnIconw6" left="150" top="147" width="16" height="16" iconlibrary="0" icon="10690" pressedicon="23361" />
+
+                <control progid="DecalControls.StaticText" name="lblWeapons" left="5" top="167" width="80" height="16" text="Select"/>
+                <control progid="DecalControls.Checkbox" id="2096" name="chkBuffBD" left="40" top="167" width="20" height="20" text=""/>
+                <control progid="DecalControls.Checkbox" id="2101" name="chkBuffDef" left="60" top="167" width="20" height="20" text=""/>
+                <control progid="DecalControls.Checkbox" id="2116" name="chkBuffSK" left="80" top="167" width="20" height="20" text=""/>
+                <control progid="DecalControls.Checkbox" id="2106" name="chkBuffHS" left="100" top="167" width="20" height="20" text=""/>
+                <control progid="DecalControls.Checkbox" id="2117" name="chkBuffWandMana" left="130" top="167" width="20" height="20" text=""/>
+                <control progid="DecalControls.Checkbox" id="3259" name="chkBuffWandSpirit" left="150" top="167" width="20" height="20" text=""/>
+                <control progid="DecalControls.Checkbox"   name="chkBuffWandDefault" left="180" top="167" width="20" height="20" text=""/>
+                <control progid="DecalControls.PushButton" name="btnSelectedWeapon" left="198" top="145" width="30" height="18" text="Add"/>
+              </control>
+
+            </page>
+            
+            <page label="Settings">
+              <control progid="DecalControls.FixedLayout" clipped="">
+
+                <control progid="DecalControls.StaticText" name="lblponas001" left="5" top="5" width="140" height="16" text="Minimal Mana For Casting Attempt"/>
+                <control progid="DecalControls.Edit" name="txtminmana" left="140" top="5" width="25" height="16" imageportalsrc="4410" textcolor="16777215" text="10"/>
+
+            
+                <control progid="DecalControls.Checkbox"  name="chkUseHealthToMana" left="5" top="45" width="120" height="20" text="Use Health to Mana"/>
+                <control progid="DecalControls.Checkbox"  name="chkFilter" left="140" top="25" width="120" height="20" text="Filter Casting"/>
+                <!--<control progid="DecalControls.Checkbox"  name="chkFastcasting" left="140" top="45" width="120" height="20" text="Fast Casting"/>-->
+
+                <control progid="DecalControls.StaticText" name="lblponas004" left="5" top="65" width="100" height="16" text="Life Magic Level"/>
+                <control progid="DecalControls.StaticText" name="lblponas005" left="5" top="85" width="100" height="16" text="Creature Magic Level"/>
+                <control progid="DecalControls.StaticText" name="lblponas006" left="5" top="105" width="100" height="16" text="Item Magic Level"/>
+
+                <control progid="DecalControls.Choice" left="140" top="65" width="50" height="20" name="cboLevelLife" >
+                  <option text="0" />
+                  <option text="8" />
+                  <option text="7" />
+                  <option text="6" />
+                  <option text="5" />
+                </control>
+                <control progid="DecalControls.Choice" left="140" top="85" width="50" height="20" name="cboLevelCreature" >
+                  <option text="0" />
+                  <option text="8" />
+                  <option text="7" />
+                  <option text="6" />
+                  <option text="5" />
+                </control>
+                <control progid="DecalControls.Choice" left="140" top="105" width="50" height="20" name="cboLevelItem" >
+                  <option text="0" />
+                  <option text="8" />
+                  <option text="7" />
+                  <option text="6" />
+                  <option text="5" />
+                </control>
+
+                <control progid="DecalControls.StaticText" name="lblsldmana" left="5" top="127" width="100" height="16" text="Recharge Mana %"/>
+                <control progid="DecalControls.Slider" name="sldMana" left="140" top="128" width="100" height="8" minimum="0" maximum="100" textcolor="0" vertical="0"/>
+                <control progid="DecalControls.StaticText" name="lblsldstamina" left="5" top="147" width="100" height="16" text="Recharge Stamina %"/>
+                <control progid="DecalControls.Slider" name="sldStamina" left="140" top="148" width="100" height="8" minimum="0" maximum="100" textcolor="0" vertical="0"/>
+                <control progid="DecalControls.StaticText" name="lblargmage" left="5" top="167" width="100" height="16" text="Archmage Endurance"/>
+                <control progid="DecalControls.Choice" left="140" top="167" width="50" height="20" name="cboAugmentations" >
+                  <option text="0" />
+                  <option text="1" />
+                  <option text="2" />
+                  <option text="3" />
+                  <option text="4" />
+                  <option text="5" />
+                </control>
+                <control progid="DecalControls.Checkbox"  name="chkHud" left="195" top="167" width="50" height="20" text="Hud"/>
+
+              </control>
+            </page>
+
+          </control>
+        </control>
+      </control>
+    </page>
+
+    <page label="Consumables">
+      <control progid="DecalControls.FixedLayout" clipped="">
+        <control progid="DecalControls.List" name="lstConsumables" left="5" top="5" width="225" height="207" >
+          <column progid="DecalControls.IconColumn" />
+          <column progid="DecalControls.TextColumn" fixedwidth="167"/>
+          <column progid="DecalControls.IconColumn" />
+          <column progid="DecalControls.TextColumn" />
+        </control>
+        
+        
+        <control progid="DecalControls.PushButton" name="btnAddConsumables" left="5" top="215" width="30" height="18" text="Add"/>
+
+      </control>
+
+   
+    </page>
+  </control>
+</view>
+

@@ -1,0 +1,1048 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<spelldata>
+  <Spellist> <Flags>0</Flags> 
+    <SpellID>2149</SpellID>
+    <Icon>100668344</Icon>
+    <School>2</School>
+    <lv8>4460</lv8>
+    <lv6>520</lv6>
+    <lv5>519</lv5>
+    <lv4>518</lv4>
+    <lv3>517</lv3>
+    <lv2>516</lv2>
+    <lv1>515</lv1>
+    <Name>Acid Protection </Name>
+    <SkillID></SkillID>
+    <Sort>9</Sort>
+  </Spellist>
+  <Spellist> <Flags>0</Flags> 
+    <SpellID>2151</SpellID>
+    <Icon>100668348</Icon>
+    <School>2</School>
+    <lv8>4462</lv8>
+    <lv6>1114</lv6>
+    <lv5>1113</lv5>
+    <lv4>1112</lv4>
+    <lv3>1111</lv3>
+    <lv2>1110</lv2>
+    <lv1>1133</lv1>
+    <Name>Blade Protection </Name>
+    <SkillID></SkillID>
+    <Sort>3</Sort>
+  </Spellist>
+  <Spellist> <Flags>0</Flags> 
+    <SpellID>2153</SpellID>
+    <Icon>100668345</Icon>
+    <School>2</School>
+    <lv8>4464</lv8>
+    <lv6>1023</lv6>
+    <lv5>1022</lv5>
+    <lv4>1021</lv4>
+    <lv3>1020</lv3>
+    <lv2>1019</lv2>
+    <lv1>1018</lv1>
+    <Name>Bludgeoning Protection </Name>
+    <SkillID></SkillID>
+    <Sort>2</Sort>
+  </Spellist>
+  <Spellist> <Flags>0</Flags> 
+    <SpellID>2155</SpellID>
+    <Icon>100668292</Icon>
+    <School>2</School>
+    <lv8>4466</lv8>
+    <lv6>1035</lv6>
+    <lv5>1034</lv5>
+    <lv4>1033</lv4>
+    <lv3>1032</lv3>
+    <lv2>1031</lv2>
+    <lv1>1030</lv1>
+    <Name>Cold Protection </Name>
+    <SkillID></SkillID>
+    <Sort>9</Sort>
+  </Spellist>
+  <Spellist> <Flags>0</Flags>
+    <SpellID>2157</SpellID>
+    <Icon>100668291</Icon>
+    <School>2</School>
+    <lv8>4468</lv8>
+    <lv6>1094</lv6>
+    <lv5>1093</lv5>
+    <lv4>1092</lv4>
+    <lv3>1091</lv3>
+    <lv2>1090</lv2>
+    <lv1>20</lv1>
+    <Name>Fire Protection </Name>
+    <SkillID></SkillID>
+    <Sort>9</Sort>
+  </Spellist>
+  <Spellist> <Flags>0</Flags> 
+    <SpellID>2159</SpellID>
+    <Icon>100668346</Icon>
+    <School>2</School>
+    <lv8>4470</lv8>
+    <lv6>1071</lv6>
+    <lv5>1070</lv5>
+    <lv4>1069</lv4>
+    <lv3>1068</lv3>
+    <lv2>1067</lv2>
+    <lv1>1066</lv1>
+    <Name>Lightning Protection </Name>
+    <SkillID></SkillID>
+    <Sort>9</Sort>
+  </Spellist>
+  <Spellist> <Flags>0</Flags> 
+    <SpellID>2161</SpellID>
+    <Icon>100668347</Icon>
+    <School>2</School>
+    <lv8>4472</lv8>
+    <lv6>1138</lv6>
+    <lv5>1137</lv5>
+    <lv4>1136</lv4>
+    <lv3>1135</lv3>
+    <lv2>1134</lv2>
+    <lv1>1133</lv1>
+    <Name>Piercing Protection </Name>
+    <SkillID></SkillID>
+    <Sort>4</Sort>
+  </Spellist>
+  <Spellist> <Flags>0</Flags> 
+    <SpellID>2183</SpellID>
+    <Icon>100668288</Icon>
+    <School>2</School>
+    <lv8>4494</lv8>
+    <lv6>217</lv6>
+    <lv5>216</lv5>
+    <lv4>215</lv4>
+    <lv3>214</lv3>
+    <lv2>213</lv2>
+    <lv1>212</lv1>
+    <Name>Mana Renewal </Name>
+    <SkillID></SkillID>
+    <Sort>9</Sort>
+  </Spellist>
+  <Spellist> <Flags>0</Flags> 
+    <SpellID>2185</SpellID>
+    <Icon>100668279</Icon>
+    <School>2</School>
+    <lv8>4496</lv8>
+    <lv6>170</lv6>
+    <lv5>169</lv5>
+    <lv4>168</lv4>
+    <lv3>167</lv3>
+    <lv2>166</lv2>
+    <lv1>165</lv1>
+    <Name>Regeneration </Name>
+    <SkillID></SkillID>
+    <Sort>9</Sort>
+  </Spellist>
+  <Spellist> <Flags>0</Flags>
+    <SpellID>2187</SpellID>
+    <Icon>100668299</Icon>
+    <School>2</School>
+    <lv8>4498</lv8>
+    <lv6>193</lv6>
+    <lv5>192</lv5>
+    <lv4>191</lv4>
+    <lv3>190</lv3>
+    <lv2>189</lv2>
+    <lv1>54</lv1>
+    <Name>Rejuvenation </Name>
+    <SkillID></SkillID>
+    <Sort>9</Sort>
+  </Spellist>
+  <Spellist> <Flags>0</Flags>
+    <SpellID>2053</SpellID>
+    <Icon>100668293</Icon>
+    <School>2</School>
+    <lv8>4291</lv8>
+    <lv6>1312</lv6>
+    <lv5>1311</lv5>
+    <lv4>1310</lv4>
+    <lv3>1309</lv3>
+    <lv2>1308</lv2>
+    <lv1>24</lv1>
+    <Name>Armor </Name>
+    <SkillID></SkillID>
+    <Sort>1</Sort>
+  </Spellist>
+  <Spellist> <Flags>0</Flags>
+    <SpellID>2092</SpellID>
+    <Icon>100673969</Icon>
+    <School>3</School>
+    <lv8>4391</lv8>
+    <lv6>1498</lv6>
+    <lv5>1497</lv5>
+    <lv4>1496</lv4>
+    <lv3>1495</lv3>
+    <lv2>1494</lv2>
+    <lv1>1493</lv1>
+    <Name>Acid Bane</Name>
+    <SkillID></SkillID>
+    <Sort>9</Sort>
+  </Spellist>
+  <Spellist> <Flags>0</Flags>
+    <SpellID>2094</SpellID>
+    <Icon>100673872</Icon>
+    <School>3</School>
+    <lv8>4393</lv8>
+    <lv6>1562</lv6>
+    <lv5>1561</lv5>
+    <lv4>1560</lv4>
+    <lv3>1559</lv3>
+    <lv2>1558</lv2>
+    <lv1>37</lv1>
+    <Name>Blade Bane</Name>
+    <SkillID></SkillID>
+    <Sort>9</Sort>
+  </Spellist>
+  <Spellist> <Flags>0</Flags>
+    <SpellID>2096</SpellID>
+    <Icon>100673986</Icon>
+    <School>3</School>
+    <lv8>5183</lv8>
+    <lv6>1616</lv6>
+    <lv5>1615</lv5>
+    <lv4>1614</lv4>
+    <lv3>1613</lv3>
+    <lv2>1612</lv2>
+    <lv1>35</lv1>
+    <Name>Blood Drinker</Name>
+    <SkillID></SkillID>
+    <Sort>9</Sort>
+  </Spellist>
+  <Spellist> <Flags>0</Flags>
+    <SpellID>2098</SpellID>
+    <Icon>100673873</Icon>
+    <School>3</School>
+    <lv8>4397</lv8>
+    <lv6>1516</lv6>
+    <lv5>1515</lv5>
+    <lv4>1514</lv4>
+    <lv3>1513</lv3>
+    <lv2>1512</lv2>
+    <lv1>1511</lv1>
+    <Name>Bludgeon Bane</Name>
+    <SkillID></SkillID>
+    <Sort>9</Sort>
+  </Spellist>
+  <Spellist> <Flags>0</Flags>
+    <SpellID>2101</SpellID>
+    <Icon>100673988</Icon>
+    <School>3</School>
+    <lv8>4400</lv8>
+    <lv6>1605</lv6>
+    <lv5>1604</lv5>
+    <lv4>1603</lv4>
+    <lv3>1602</lv3>
+    <lv2>1601</lv2>
+    <lv1>1599</lv1>
+    <Name>Defender</Name>
+    <SkillID></SkillID>
+    <Sort>9</Sort>
+  </Spellist>
+  <Spellist>
+    <Flags>0</Flags>
+    <SpellID>3259</SpellID>
+    <Icon>0</Icon>
+    <School>3</School>
+    <lv8>5182</lv8>
+    <lv6>0</lv6>
+    <lv5>0</lv5>
+    <lv4>0</lv4>
+    <lv3>0</lv3>
+    <lv2>0</lv2>
+    <lv1>0</lv1>
+    <Name>Spirit Drinker</Name>
+    <SkillID></SkillID>
+    <Sort>9</Sort>
+  </Spellist>
+  <Spellist> <Flags>0</Flags>
+    <SpellID>2102</SpellID>
+    <Icon>100673970</Icon>
+    <School>3</School>
+    <lv8>4401</lv8>
+    <lv6>1552</lv6>
+    <lv5>1551</lv5>
+    <lv4>1550</lv4>
+    <lv3>1549</lv3>
+    <lv2>1548</lv2>
+    <lv1>1547</lv1>
+    <Name>Flame Bane</Name>
+    <SkillID></SkillID>
+    <Sort>9</Sort>
+  </Spellist>
+  <Spellist> <Flags>0</Flags> 
+    <SpellID>2104</SpellID>
+    <Icon>100673971</Icon>
+    <School>3</School>
+    <lv8>4403</lv8>
+    <lv6>1528</lv6>
+    <lv5>1527</lv5>
+    <lv4>1526</lv4>
+    <lv3>1525</lv3>
+    <lv2>1524</lv2>
+    <lv1>1523</lv1>
+    <Name>Frost Bane</Name>
+    <SkillID></SkillID>
+    <Sort>9</Sort>
+  </Spellist>
+  <Spellist> <Flags>0</Flags>
+    <SpellID>2106</SpellID>
+    <Icon>100673989</Icon>
+    <School>3</School>
+    <lv8>4405</lv8>
+    <lv6>1592</lv6>
+    <lv5>1591</lv5>
+    <lv4>1590</lv4>
+    <lv3>1589</lv3>
+    <lv2>1588</lv2>
+    <lv1>1587</lv1>
+    <Name>Heart Seeker</Name>
+    <SkillID></SkillID>
+    <Sort>9</Sort>
+  </Spellist>
+  <Spellist> <Flags>0</Flags> 
+    <SpellID>2108</SpellID>
+    <Icon>100673982</Icon>
+    <School>3</School>
+    <lv8>4407</lv8>
+    <lv6>1486</lv6>
+    <lv5>1485</lv5>
+    <lv4>1484</lv4>
+    <lv3>1483</lv3>
+    <lv2>1482</lv2>
+    <lv1>51</lv1>
+    <Name>Impenetrability</Name>
+    <SkillID></SkillID>
+    <Sort>9</Sort>
+  </Spellist>
+  <Spellist> <Flags>0</Flags> 
+    <SpellID>2110</SpellID>
+    <Icon>100673972</Icon>
+    <School>3</School>
+    <lv8>4409</lv8>
+    <lv6>1540</lv6>
+    <lv5>1539</lv5>
+    <lv4>1538</lv4>
+    <lv3>1537</lv3>
+    <lv2>1536</lv2>
+    <lv1>1535</lv1>
+    <Name>Lightning Bane</Name>
+    <SkillID></SkillID>
+    <Sort>9</Sort>
+  </Spellist>
+  <Spellist> <Flags>0</Flags> 
+    <SpellID>2113</SpellID>
+    <Icon>100673973</Icon>
+    <School>3</School>
+    <lv8>4412</lv8>
+    <lv6>1574</lv6>
+    <lv5>1573</lv5>
+    <lv4>1572</lv4>
+    <lv3>1571</lv3>
+    <lv2>1570</lv2>
+    <lv1>1569</lv1>
+    <Name>Piercing Bane</Name>
+    <SkillID></SkillID>
+    <Sort>9</Sort>
+  </Spellist>
+  <Spellist> <Flags>0</Flags> 
+    <SpellID>2116</SpellID>
+    <Icon>100673991</Icon>
+    <School>3</School>
+    <lv8>4417</lv8>
+    <lv6>1627</lv6>
+    <lv5>1626</lv5>
+    <lv4>1625</lv4>
+    <lv3>1624</lv3>
+    <lv2>1623</lv2>
+    <lv1>49</lv1>
+    <Name>Swift Killer</Name>
+    <SkillID></SkillID>
+    <Sort>9</Sort>
+  </Spellist>
+  <Spellist> <Flags>0</Flags> 
+    <SpellID>2117</SpellID>
+    <Icon>100673984</Icon>
+    <School>3</School>
+    <lv8>4418</lv8>
+    <lv6>1480</lv6>
+    <lv5>1479</lv5>
+    <lv4>1478</lv4>
+    <lv3>1477</lv3>
+    <lv2>1476</lv2>
+    <lv1>1475</lv1>
+    <Name>Mana </Name>
+    <SkillID></SkillID>
+    <Sort>9</Sort>
+  </Spellist>
+  <Spellist> <Flags>0</Flags> 
+    <SpellID>2087</SpellID>
+    <Icon>100668300</Icon>
+    <School>4</School>
+    <lv8>4325</lv8>
+    <lv6>1332</lv6>
+    <lv5>1331</lv5>
+    <lv4>1330</lv4>
+    <lv3>1329</lv3>
+    <lv2>1328</lv2>
+    <lv1>2</lv1>
+    <Name>Strength </Name>
+    <SkillID></SkillID>
+    <Sort>1</Sort>
+  </Spellist>
+  <Spellist> <Flags>0</Flags> 
+    <SpellID>2091</SpellID>
+    <Icon>100668296</Icon>
+    <School>4</School>
+    <lv8>4329</lv8>
+    <lv6>1450</lv6>
+    <lv5>1449</lv5>
+    <lv4>1448</lv4>
+    <lv3>1447</lv3>
+    <lv2>1446</lv2>
+    <lv1>1445</lv1>
+    <Name>Self</Name>
+    <SkillID></SkillID>
+    <Sort>6</Sort>
+  </Spellist>
+  <Spellist> <Flags>0</Flags> 
+    <SpellID>2081</SpellID>
+    <Icon>100668294</Icon>
+    <School>4</School>
+    <lv8>4319</lv8>
+    <lv6>1402</lv6>
+    <lv5>1401</lv5>
+    <lv4>1400</lv4>
+    <lv3>1399</lv3>
+    <lv2>1398</lv2>
+    <lv1>1397</lv1>
+    <Name>Quickness </Name>
+    <SkillID></SkillID>
+    <Sort>4</Sort>
+  </Spellist>
+  <Spellist> <Flags>0</Flags> 
+    <SpellID>2059</SpellID>
+    <Icon>100668268</Icon>
+    <School>4</School>
+    <lv8>4297</lv8>
+    <lv6>1378</lv6>
+    <lv5>1377</lv5>
+    <lv4>1376</lv4>
+    <lv3>1375</lv3>
+    <lv2>1374</lv2>
+    <lv1>1373</lv1>
+    <Name>Coordination </Name>
+    <SkillID></SkillID>
+    <Sort>3</Sort>
+  </Spellist>
+  <Spellist> <Flags>0</Flags>
+    <SpellID>2061</SpellID>
+    <Icon>100668273</Icon>
+    <School>4</School>
+    <lv8>4299</lv8>
+    <lv6>1354</lv6>
+    <lv5>1353</lv5>
+    <lv4>1352</lv4>
+    <lv3>1351</lv3>
+    <lv2>1350</lv2>
+    <lv1>1349</lv1>
+    <Name>Endurance </Name>
+    <SkillID></SkillID>
+    <Sort>2</Sort>
+  </Spellist>
+  <Spellist> <Flags>0</Flags>
+    <SpellID>2067</SpellID>
+    <Icon>100668277</Icon>
+    <School>4</School>
+    <lv8>4305</lv8>
+    <lv6>1426</lv6>
+    <lv5>1425</lv5>
+    <lv4>1424</lv4>
+    <lv3>1423</lv3>
+    <lv2>1422</lv2>
+    <lv1>1421</lv1>
+    <Name>Focus </Name>
+    <SkillID></SkillID>
+    <Sort>5</Sort>
+  </Spellist>
+  <Spellist> <Flags>0</Flags> 
+    <SpellID>2191</SpellID>
+    <Icon>100670578</Icon>
+    <School>4</School>
+    <lv8>4506</lv8>
+    <lv6>1768</lv6>
+    <lv5>1767</lv5>
+    <lv4>1766</lv4>
+    <lv3>1765</lv3>
+    <lv2>1764</lv2>
+    <lv1>1763</lv1>
+    <Name>Alchemy  </Name>
+    <SkillID>38</SkillID>
+    <Sort>9</Sort>
+  </Spellist>
+  <Spellist> <Flags>0</Flags>
+    <SpellID>2195</SpellID>
+    <Icon>100668285</Icon>
+    <School>4</School>
+    <lv8>4510</lv8>
+    <lv6>683</lv6>
+    <lv5>682</lv5>
+    <lv4>681</lv4>
+    <lv3>680</lv3>
+    <lv2>679</lv2>
+    <lv1>678</lv1>
+    <Name>Arcane Lore</Name>
+    <SkillID>14</SkillID>
+    <Sort>9</Sort>
+  </Spellist>
+  <Spellist> <Flags>0</Flags> 
+    <SpellID>2197</SpellID>
+    <Icon>100668352</Icon>
+    <School>4</School>
+    <lv8>4512</lv8>
+    <lv6>707</lv6>
+    <lv5>706</lv5>
+    <lv4>705</lv4>
+    <lv3>704</lv3>
+    <lv2>703</lv2>
+    <lv1>702</lv1>
+    <Name>Armor Tinkering </Name>
+    <SkillID>29</SkillID>
+    <Sort>9</Sort>
+  </Spellist>
+  <Spellist> <Flags>0</Flags> 
+    <SpellID>2203</SpellID>
+    <Icon>100668265</Icon>
+    <School>4</School>
+    <lv8>4518</lv8>
+    <lv6>303</lv6>
+    <lv5>302</lv5>
+    <lv4>301</lv4>
+    <lv3>300</lv3>
+    <lv2>299</lv2>
+    <lv1>298</lv1>
+    <Name>Axe  </Name>
+    <SkillID>1</SkillID>
+    <Sort>9</Sort>
+  </Spellist>
+  <Spellist> <Flags>0</Flags> 
+    <SpellID>2207</SpellID>
+    <Icon>100668266</Icon>
+    <School>4</School>
+    <lv8>4522</lv8>
+    <lv6>472</lv6>
+    <lv5>471</lv5>
+    <lv4>470</lv4>
+    <lv3>469</lv3>
+    <lv2>468</lv2>
+    <lv1>467</lv1>
+    <Name>Bow  </Name>
+    <SkillID>2</SkillID>
+    <Sort>9</Sort>
+  </Spellist>
+  <Spellist> <Flags>0</Flags> 
+    <SpellID>2211</SpellID>
+    <Icon>100670579</Icon>
+    <School>4</School>
+    <lv8>4526</lv8>
+    <lv6>1720</lv6>
+    <lv5>1719</lv5>
+    <lv4>1718</lv4>
+    <lv3>1717</lv3>
+    <lv2>1716</lv2>
+    <lv1>1715</lv1>
+    <Name>Cooking  </Name>
+    <SkillID>39</SkillID>
+    <Sort>9</Sort>
+  </Spellist>
+  <Spellist> <Flags>0</Flags> 
+    <SpellID>2215</SpellID>
+    <Icon>100668358</Icon>
+    <School>4</School>
+    <lv8>4530</lv8>
+    <lv6>562</lv6>
+    <lv5>561</lv5>
+    <lv4>560</lv4>
+    <lv3>559</lv3>
+    <lv2>558</lv2>
+    <lv1>557</lv1>
+    <Name>Creature Enchantment </Name>
+    <SkillID>31</SkillID>
+    <Sort>9</Sort>
+  </Spellist>
+  <Spellist> <Flags>0</Flags> 
+    <SpellID>2219</SpellID>
+    <Icon>100668267</Icon>
+    <School>4</School>
+    <lv8>4534</lv8>
+    <lv6>496</lv6>
+    <lv5>495</lv5>
+    <lv4>494</lv4>
+    <lv3>493</lv3>
+    <lv2>492</lv2>
+    <lv1>491</lv1>
+    <Name>Crossbow  </Name>
+    <SkillID>3</SkillID>
+    <Sort>9</Sort>
+  </Spellist>
+  <Spellist> <Flags>0</Flags> 
+    <SpellID>2223</SpellID>
+    <Icon>100668269</Icon>
+    <School>4</School>
+    <lv8>4538</lv8>
+    <lv6>327</lv6>
+    <lv5>326</lv5>
+    <lv4>325</lv4>
+    <lv3>324</lv3>
+    <lv2>323</lv2>
+    <lv1>322</lv1>
+    <Name>Dagger  </Name>
+    <SkillID>4</SkillID>
+    <Sort>9</Sort>
+  </Spellist>
+  <Spellist> <Flags>0</Flags> 
+    <SpellID>2227</SpellID>
+    <Icon>100668296</Icon>
+    <School>4</School>
+    <lv8>4542</lv8>
+    <lv6>855</lv6>
+    <lv5>854</lv5>
+    <lv4>853</lv4>
+    <lv3>852</lv3>
+    <lv2>851</lv2>
+    <lv1>850</lv1>
+    <Name>Deception  </Name>
+    <SkillID>20</SkillID>
+    <Sort>9</Sort>
+  </Spellist>
+  <Spellist> <Flags>0</Flags> 
+    <SpellID>2233</SpellID>
+    <Icon>100668286</Icon>
+    <School>4</School>
+    <lv8>4548</lv8>
+    <lv6>951</lv6>
+    <lv5>950</lv5>
+    <lv4>949</lv4>
+    <lv3>948</lv3>
+    <lv2>947</lv2>
+    <lv1>946</lv1>
+    <Name>Loyalty </Name>
+    <SkillID>36</SkillID>
+    <Sort>9</Sort>
+  </Spellist>
+  <Spellist> <Flags>0</Flags> 
+    <SpellID>2237</SpellID>
+    <Icon>100670580</Icon>
+    <School>4</School>
+    <lv8>4552</lv8>
+    <lv6>1744</lv6>
+    <lv5>1743</lv5>
+    <lv4>1742</lv4>
+    <lv3>1741</lv3>
+    <lv2>1740</lv2>
+    <lv1>1739</lv1>
+    <Name>Fletching  </Name>
+    <SkillID>37</SkillID>
+    <Sort>9</Sort>
+  </Spellist>
+  <Spellist> <Flags>0</Flags>
+    <SpellID>2241</SpellID>
+    <Icon>100668279</Icon>
+    <School>4</School>
+    <lv8>4556</lv8>
+    <lv6>879</lv6>
+    <lv5>878</lv5>
+    <lv4>877</lv4>
+    <lv3>876</lv3>
+    <lv2>875</lv2>
+    <lv1>874</lv1>
+    <Name>Healing  </Name>
+    <SkillID>21</SkillID>
+    <Sort>9</Sort>
+  </Spellist>
+  <Spellist> <Flags>0</Flags> 
+    <SpellID>2243</SpellID>
+    <Icon>100669126</Icon>
+    <School>4</School>
+    <lv8>4558</lv8>
+    <lv6>261</lv6>
+    <lv5>260</lv5>
+    <lv4>259</lv4>
+    <lv3>258</lv3>
+    <lv2>257</lv2>
+    <lv1>256</lv1>
+    <Name>Missile Defense </Name>
+    <SkillID>7</SkillID>
+    <Sort>9</Sort>
+  </Spellist>
+  <Spellist> <Flags>0</Flags> 
+    <SpellID>2245</SpellID>
+    <Icon>100668331</Icon>
+    <School>4</School>
+    <lv8>4560</lv8>
+    <lv6>249</lv6>
+    <lv5>248</lv5>
+    <lv4>247</lv4>
+    <lv3>246</lv3>
+    <lv2>245</lv2>
+    <lv1>18</lv1>
+    <Name>Melee Defense </Name>
+    <SkillID>6</SkillID>
+    <Sort>9</Sort>
+  </Spellist>
+  <Spellist> <Flags>0</Flags> 
+    <SpellID>2249</SpellID>
+    <Icon>100668272</Icon>
+    <School>4</School>
+    <lv8>4564</lv8>
+    <lv6>586</lv6>
+    <lv5>585</lv5>
+    <lv4>584</lv4>
+    <lv3>583</lv3>
+    <lv2>582</lv2>
+    <lv1>581</lv1>
+    <Name>Item Enchantment </Name>
+    <SkillID>32</SkillID>
+    <Sort>9</Sort>
+  </Spellist>
+  <Spellist> <Flags>0</Flags> 
+    <SpellID>2251</SpellID>
+    <Icon>100668264</Icon>
+    <School>4</School>
+    <lv8>4566</lv8>
+    <lv6>731</lv6>
+    <lv5>730</lv5>
+    <lv4>729</lv4>
+    <lv3>728</lv3>
+    <lv2>727</lv2>
+    <lv1>726</lv1>
+    <Name>Item Tinkering </Name>
+    <SkillID>18</SkillID>
+    <Sort>9</Sort>
+  </Spellist>
+  <Spellist> <Flags>0</Flags> 
+    <SpellID>2257</SpellID>
+    <Icon>100668282</Icon>
+    <School>4</School>
+    <lv8>4572</lv8>
+    <lv6>975</lv6>
+    <lv5>974</lv5>
+    <lv4>973</lv4>
+    <lv3>972</lv3>
+    <lv2>971</lv2>
+    <lv1>970</lv1>
+    <Name>Jump</Name>
+    <SkillID>22</SkillID>
+    <Sort>9</Sort>
+  </Spellist>
+  <Spellist> <Flags>0</Flags> 
+    <SpellID>2263</SpellID>
+    <Icon>100668283</Icon>
+    <School>4</School>
+    <lv8>4578</lv8>
+    <lv6>903</lv6>
+    <lv5>902</lv5>
+    <lv4>901</lv4>
+    <lv3>900</lv3>
+    <lv2>899</lv2>
+    <lv1>898</lv1>
+    <Name>Leadership  </Name>
+    <SkillID>35</SkillID>
+    <Sort>9</Sort>
+  </Spellist>
+  <Spellist> <Flags>0</Flags> 
+    <SpellID>2267</SpellID>
+    <Icon>100668337</Icon>
+    <School>4</School>
+    <lv8>4582</lv8>
+    <lv6>610</lv6>
+    <lv5>609</lv5>
+    <lv4>608</lv4>
+    <lv3>607</lv3>
+    <lv2>606</lv2>
+    <lv1>605</lv1>
+    <Name>Life Magic </Name>
+    <SkillID>33</SkillID>
+    <Sort>9</Sort>
+  </Spellist>
+  <Spellist> <Flags>0</Flags>
+    <SpellID>2271</SpellID>
+    <Icon>100668284</Icon>
+    <School>4</School>
+    <lv8>4586</lv8>
+    <lv6>927</lv6>
+    <lv5>926</lv5>
+    <lv4>925</lv4>
+    <lv3>924</lv3>
+    <lv2>923</lv2>
+    <lv1>922</lv1>
+    <Name>Lockpick </Name>
+    <SkillID>23</SkillID>
+    <Sort>9</Sort>
+  </Spellist>
+  <Spellist> <Flags>0</Flags> 
+    <SpellID>2275</SpellID>
+    <Icon>100668287</Icon>
+    <School>4</School>
+    <lv8>4590</lv8>
+    <lv6>351</lv6>
+    <lv5>350</lv5>
+    <lv4>349</lv4>
+    <lv3>348</lv3>
+    <lv2>347</lv2>
+    <lv1>346</lv1>
+    <Name>Mace </Name>
+    <SkillID>5</SkillID>
+    <Sort>9</Sort>
+  </Spellist>
+  <Spellist> <Flags>0</Flags> 
+    <SpellID>2277</SpellID>
+    <Icon>100668354</Icon>
+    <School>4</School>
+    <lv8>4592</lv8>
+    <lv6>755</lv6>
+    <lv5>754</lv5>
+    <lv4>753</lv4>
+    <lv3>752</lv3>
+    <lv2>751</lv2>
+    <lv1>750</lv1>
+    <Name>Magic Item Tinkering </Name>
+    <SkillID>30</SkillID>
+    <Sort>9</Sort>
+  </Spellist>
+  <Spellist> <Flags>0</Flags> 
+    <SpellID>2281</SpellID>
+    <Icon>100668330</Icon>
+    <School>4</School>
+    <lv8>4596</lv8>
+    <lv6>279</lv6>
+    <lv5>278</lv5>
+    <lv4>277</lv4>
+    <lv3>276</lv3>
+    <lv2>275</lv2>
+    <lv1>274</lv1>
+    <Name>Magic Defense </Name>
+    <SkillID>15</SkillID>
+    <Sort>9</Sort>
+  </Spellist>
+  <Spellist> <Flags>0</Flags> 
+    <SpellID>2287</SpellID>
+    <Icon>100668288</Icon>
+    <School>4</School>
+    <lv8>4602</lv8>
+    <lv6>658</lv6>
+    <lv5>657</lv5>
+    <lv4>656</lv4>
+    <lv3>655</lv3>
+    <lv2>654</lv2>
+    <lv1>653</lv1>
+    <Name>Mana Conversion </Name>
+    <SkillID>16</SkillID>
+    <Sort>9</Sort>
+  </Spellist>
+  <Spellist> <Flags>0</Flags> 
+    <SpellID>2299</SpellID>
+    <Icon>100668297</Icon>
+    <School>4</School>
+    <lv8>4614</lv8>
+    <lv6>375</lv6>
+    <lv5>374</lv5>
+    <lv4>373</lv4>
+    <lv3>372</lv3>
+    <lv2>371</lv2>
+    <lv1>370</lv1>
+    <Name>Spear </Name>
+    <SkillID>9</SkillID>
+    <Sort>9</Sort>
+  </Spellist>
+  <Spellist> <Flags>0</Flags>
+    <SpellID>2301</SpellID>
+    <Icon>100668295</Icon>
+    <School>4</School>
+    <lv8>4616</lv8>
+    <lv6>987</lv6>
+    <lv5>986</lv5>
+    <lv4>985</lv4>
+    <lv3>984</lv3>
+    <lv2>983</lv2>
+    <lv1>982</lv1>
+    <Name>Run </Name>
+    <SkillID>24</SkillID>
+    <Sort>9</Sort>
+  </Spellist>
+  <Spellist> <Flags>0</Flags>
+    <SpellID>2305</SpellID>
+    <Icon>100668298</Icon>
+    <School>4</School>
+    <lv8>4620</lv8>
+    <lv6>399</lv6>
+    <lv5>398</lv5>
+    <lv4>397</lv4>
+    <lv3>396</lv3>
+    <lv2>395</lv2>
+    <lv1>394</lv1>
+    <Name>Staff  </Name>
+    <SkillID>10</SkillID>
+    <Sort>9</Sort>
+  </Spellist>
+  <Spellist> <Flags>0</Flags>
+    <SpellID>2309</SpellID>
+    <Icon>100668302</Icon>
+    <School>4</School>
+    <lv8>4624</lv8>
+    <lv6>423</lv6>
+    <lv5>422</lv5>
+    <lv4>421</lv4>
+    <lv3>420</lv3>
+    <lv2>419</lv2>
+    <lv1>418</lv1>
+    <Name>Sword  </Name>
+    <SkillID>11</SkillID>
+    <Sort>9</Sort>
+  </Spellist>
+  <Spellist> <Flags>0</Flags>
+    <SpellID>2313</SpellID>
+    <Icon>100668303</Icon>
+    <School>4</School>
+    <lv8>4628</lv8>
+    <lv6>544</lv6>
+    <lv5>543</lv5>
+    <lv4>542</lv4>
+    <lv3>541</lv3>
+    <lv2>540</lv2>
+    <lv1>539</lv1>
+    <Name>Thrown Weapons  </Name>
+    <SkillID>12</SkillID>
+    <Sort>9</Sort>
+  </Spellist>
+  <Spellist> <Flags>0</Flags>
+    <SpellID>2316</SpellID>
+    <Icon>100668274</Icon>
+    <School>4</School>
+    <lv8>4631</lv8>
+    <lv6>448</lv6>
+    <lv5>447</lv5>
+    <lv4>446</lv4>
+    <lv3>445</lv3>
+    <lv2>444</lv2>
+    <lv1>443</lv1>
+    <Name>Unarmed Combat </Name>
+    <SkillID>13</SkillID>
+    <Sort>9</Sort>
+  </Spellist>
+  <Spellist> <Flags>0</Flags>
+    <SpellID>2323</SpellID>
+    <Icon>100668272</Icon>
+    <School>4</School>
+    <lv8>4638</lv8>
+    <lv6>634</lv6>
+    <lv5>633</lv5>
+    <lv4>632</lv4>
+    <lv3>631</lv3>
+    <lv2>630</lv2>
+    <lv1>629</lv1>
+    <Name>War Magic </Name>
+    <SkillID>34</SkillID>
+    <Sort>9</Sort>
+  </Spellist>
+  <Spellist> <Flags>0</Flags>
+    <SpellID>2325</SpellID>
+    <Icon>100668357</Icon>
+    <School>4</School>
+    <lv8>4640</lv8>
+    <lv6>779</lv6>
+    <lv5>778</lv5>
+    <lv4>777</lv4>
+    <lv3>776</lv3>
+    <lv2>775</lv2>
+    <lv1>774</lv1>
+    <Name>Weapon Tinkering </Name>
+    <SkillID>28</SkillID>
+    <Sort>9</Sort>
+  </Spellist>
+  
+  <Spellist> <Flags>0</Flags>
+    <SpellID>3505</SpellID>
+    <Icon>100673210</Icon>
+    <School>4</School>
+    <lv8>4499</lv8>
+    <lv6>3504</lv6>
+    <lv5>3503</lv5>
+    <lv4>3502</lv4>
+    <lv3>3501</lv3>
+    <lv2>3500</lv2>
+    <lv1>3499</lv1>
+    <Name>Salvaging </Name>
+    <SkillID></SkillID>
+    <Sort>8</Sort>
+  </Spellist>
+
+  <Spellist>
+    <Flags>0</Flags>
+    <SpellID>5105</SpellID>
+    <Icon>100690646</Icon>
+    <School>4</School>
+    <lv8>5098</lv8>
+    <lv6>5104</lv6>
+    <lv5>5103</lv5>
+    <lv4>5102</lv4>
+    <lv3>5101</lv3>
+    <lv2>5100</lv2>
+    <lv1>5099</lv1>
+    <Name>Two Handed Combat</Name>
+    <SkillID></SkillID>
+    <Sort>8</Sort>
+  </Spellist>
+  <Spellist>
+    <Flags>0</Flags>
+    <SpellID>5067</SpellID>
+    <Icon>100690645</Icon>
+    <School>4</School>
+    <lv8>5068</lv8>
+    <lv6>5066</lv6>
+    <lv5>5065</lv5>
+    <lv4>5064</lv4>
+    <lv3>5063</lv3>
+    <lv2>5062</lv2>
+    <lv1>5061</lv1>
+    <Name>Gear Craft</Name>
+    <SkillID></SkillID>
+    <Sort>8</Sort>
+  </Spellist>
+
+  <Spellist>
+    <Flags>0</Flags>
+    <SpellID>2293</SpellID>
+    <Icon>100668355</Icon>
+    <School>4</School>
+    <lv8>4608</lv8>
+    <lv6>829</lv6>
+    <lv5>828</lv5>
+    <lv4>827</lv4>
+    <lv3>826</lv3>
+    <lv2>825</lv2>
+    <lv1>824</lv1>
+    <Name>Person Attunement</Name>
+    <SkillID></SkillID>
+    <Sort>8</Sort>
+  </Spellist>
+
+  <Spellist>
+    <Flags>0</Flags>
+    <SpellID>2289</SpellID>
+    <Icon>100668353</Icon>
+    <School>4</School>
+    <lv8>4604</lv8>
+    <lv6>809</lv6>
+    <lv5>808</lv5>
+    <lv4>807</lv4>
+    <lv3>806</lv3>
+    <lv2>805</lv2>
+    <lv1>804</lv1>
+    <Name>Monster Attunement</Name>
+    <SkillID></SkillID>
+    <Sort>8</Sort>
+  </Spellist>
+  
+</spelldata>

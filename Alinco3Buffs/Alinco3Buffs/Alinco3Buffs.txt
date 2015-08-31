@@ -1,0 +1,4 @@
+﻿todo:
+- when you checkout the project you need to remove and add new  references to
+  decal.adapter and decal.fileservice
+- prebuff
